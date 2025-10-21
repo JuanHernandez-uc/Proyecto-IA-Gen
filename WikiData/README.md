@@ -1,0 +1,1 @@
+# Scripts para extraer información de WikiData
