@@ -1,0 +1,21 @@
+Estados Unidos,Q30
+México,Q96
+Costa Rica,Q800
+El Salvador,Q792
+Guatemala,Q774
+Honduras,Q783
+Nicaragua,Q811
+Panamá,Q804
+Cuba,Q241
+Haití,Q790
+Puerto Rico,Q1183
+República Dominicana,Q786
+Argentina,Q414
+Bolivia,Q750
+Chile,Q298
+Colombia,Q739
+Ecuador,Q736
+Paraguay,Q733
+Perú,Q419
+Uruguay,Q77
+Venezuela,Q717
