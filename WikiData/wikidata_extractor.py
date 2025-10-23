@@ -25,7 +25,7 @@ def query(limit, offset):
     {
         SELECT DISTINCT ?persona WHERE {
         ?persona wdt:P31 wd:Q5;   # Instancia de ser humano
-                wdt:P27 wd:Q733.  # Filtra por la ciudadanía (país al que pertenece la entidad)
+                wdt:P27 wd:Q419.  # Filtra por la ciudadanía (país al que pertenece la entidad)
         } 
     """
     
@@ -234,7 +234,7 @@ def query(limit, offset):
         .drop_duplicates(subset=["entidad","relacion","objeto"], keep="first")
     )
 
-    file_path = "Datasets/paraguay.csv"
+    file_path = "Datasets/peru.csv"
 
     if os.path.exists(file_path):
         df_prev = pd.read_csv(file_path)
@@ -253,7 +253,7 @@ entidades = 20
 
 j = 1
 
-for i in range(0, 1200, entidades):
+for i in range(800, 1200, entidades):
     print("Ejecución:", j)
     try:
         query(entidades, i)
