@@ -134,18 +134,19 @@ def main(country_name):
         entity_types[entity] = types
         time.sleep(0.1) 
 
-    # Guardar resultados
-    with open(output_file, "w", encoding="utf-8") as f:
-        for ent, types in entity_types.items():
-            inst = ", ".join([lbl for _, lbl in types["instance_of"]]) or "-"
-            subc = ", ".join([lbl for _, lbl in types["subclass_of"]]) or "-"
-            f.write(f"{ent}\tinstancia_de: {inst}\tsubclase_de: {subc}\n")
+    records = []
+    for ent, types in entity_types.items():
+        inst = ", ".join([lbl for _, lbl in types["instance_of"]]) or None
+        subc = ", ".join([lbl for _, lbl in types["subclass_of"]]) or None
+        records.append({"entidad": ent, "instancia_de": inst, "subclase_de": subc})
 
+    out_df = pd.DataFrame(records)
+    out_df.to_csv(output_file, sep="\t", index=False, encoding="utf-8")
     print(f"\nResultados guardados en: {output_file}")
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Consulta tipos ontológicos en Wikidata por país.")
-    parser.add_argument("country_name", help="Nombre del país (coincide con el archivo Datasets/<country>.csv)")
-    args = parser.parse_args()
-    country_name = args.country_name.lower()   
-    main(country_name)
+# if __name__ == "__main__":
+#     parser = argparse.ArgumentParser(description="Consulta tipos ontológicos en Wikidata por país.")
+#     parser.add_argument("country_name", help="Nombre del país (coincide con el archivo Datasets/<country>.csv)")
+#     args = parser.parse_args()
+#     country_name = args.country_name.lower()   
+#     main(country_name)
