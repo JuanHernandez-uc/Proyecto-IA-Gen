@@ -105,7 +105,7 @@ Universidad de Pisa,universidad
 diplomático,profesión
 Monumento Nacional Archipiélago de Solentiname,área protegida
 médico,profesión
-Masaya,gran ciudad
+Masaya,ciudad
 Nicoya,página de desambiguación de Wikimedia
 Capitanía general de Guatemala,capitanía general del Imperio español
 Mercedes Tenorio,ser humano
@@ -128,7 +128,7 @@ Salvador Dubois,ser humano
 Víctor Webster,ser humano
 Walter Martínez,ser humano
 Wilber Sánchez,ser humano
-futbolista,jugador
+futbolista,deportista
 poeta,escritor
 cacique,cargo
 comandante,militar
@@ -202,7 +202,7 @@ San Salvador,ciudad
 Universidad Centroamericana José Simeón Cañas,universidad
 presidente de El Salvador,presidente
 Universidad Rusa de la Amistad de los Pueblos,universidad
-condado de Alachua,condado de Florida
+condado de Alachua,condado
 alertador,ocupación
 Agencia Central de Inteligencia,agencias independientes del gobierno de Estados
 Gran Cruz de la Orden de Isabel la Católica,grado de una orden
@@ -366,7 +366,7 @@ Puerto Cabezas,municipio
 director de fotografía,profesión
 director de cine,profesión
 ajedrecista,deportista
-halterófilo,atleta de fuerza
+halterófilo,deportista
 científico,profesión
 Universidad Metodista del Sur,universidad
 Perú,país
@@ -469,7 +469,7 @@ Joaquín Cuadra,ser humano
 Santos López,ser humano
 José de Jesús Martínez,ser humano
 Camilo Mejía,ser humano
-Hamilton West,distrito electoral federal
+Hamilton West,distrito
 Evans Quinn,ser humano
 Mario Romero,ser humano
 Instituto Politécnico Rensselaer,universidad
@@ -707,7 +707,7 @@ Carlos Molina Argüello,ser humano
 Mario Arce Solórzano,ser humano
 Ricardo Llopesa,ser humano
 Isidro Téllez Toruño,ser humano
-beisbolista profesional,atleta profesional
+beisbolista profesional,deportista
 Universidad del Valle de Utah,universidad
 reportero,periodista
 Universidad de las Regiones Autónomas de la Costa Caribe Nicaragüense,universidad
@@ -1014,9 +1014,7 @@ Gregory Merson,ser humano
 Ron Howard,ser humano
 Carmelita Jeter,ser humano
 Melissa Fahn,ser humano
-Brooklyn,Distritos de la ciudad de Nueva York
-cantautor,profesión musical
-Estados Unidos,país
+Brooklyn,distrito
 Erasmus Hall High School,escuela secundaria superior
 Yentl,película
 Pittsburgh,ciudad
@@ -1024,29 +1022,20 @@ artista gráfico,profesión
 Universidad Carnegie Mellon,universidad
 Díptico de Marilyn,pintura
 Nashville,ciudad
-actor de televisión,actor
 Hannah Montana,serie de televisión
-Poway,ciudad de Estados Unidos
-actor,profesión
+Poway,ciudad
 Angels & Airwaves,grupo musical
 Ridgecrest,página de desambiguación de Wikimedia
-cantante,músico
 Universidad Estatal de California en San Marcos,universidad
 Blink182,álbum
-Nueva York,página de desambiguación de Wikimedia
 Little Rock,ciudad
-Universidad Estatal de Arkansas,universidad
 Bob Esponja,serie de televisión de animación
 Seal Beach,ciudad
-músico,profesión
-Los Ángeles,asentamiento
 Andrews,página de desambiguación de Wikimedia
-guionista,profesión
 Escuela Secundaria James Madison,escuela secundaria superior
 Madagascar,país
 Escuela Preparatoria de North Hollywood,escuela
 Dayton,ciudad
-escritor,profesión
 Kenyon College,institución educativa
 Los Pitufos,franquicia de medios
 Universidad Northeastern,universidad
@@ -1067,7 +1056,6 @@ The New School,institución educativa
 St. Joseph,iglesia
 Oak Park High School,página de desambiguación de Wikimedia
 D12,página de desambiguación de Wikimedia
-Universidad de California en Los Ángeles,universidad
 Some Like It Hot,película
 Harper University Hospital,hospital
 escritor de no ficción,escritor
@@ -1086,9 +1074,7 @@ Laurel Springs School,escuela
 Palm Springs,página de desambiguación de Wikimedia
 Real Academia de Arte Dramático,escuela de arte dramático
 Kempten,ciudad
-recolector de plantas,ocupación
 Universidad de Greifswald,universidad
-Universidad Harvard,universidad
 Municipio de East Brunswick,municipio
 animador,propiedad de Wikidata relacionada con la animación
 Amherst,ciudad
@@ -1097,40 +1083,35 @@ Salón Nacional de la Fama de Mujeres,salón de la fama
 Pretty Little Liars,serie de televisión
 Urbana,comuna
 Universidad del Noroeste,universidad
-Evanston,ciudad de Estados Unidos
+Evanston,ciudad
 Universidad de Washington,universidad
 Yogi Bear,película
 cantante de pop,músico
 School of Rock,álbum
-Orange,comuna francesa
+Orange,comuna
 emprendedor,profesión
 Anexo:Independent Spirit Award al mejor actor de reparto,distinción
-Manhattan,ciudadcondado
+Manhattan,ciudad
 Moby Dick,película
-Kosciusko,ciudad de Estados Unidos
-abogado,profesión
+Kosciusko,ciudad
 Universidad de Misisipi,universidad
 Italia,país
 Escuela de Arte Dramático,escuela de arte dramático
 Óscar honorífico,distinción
 Milán,ciudad
-profesor universitario,profesión académica
-Universidad de Illinois en UrbanaChampaign,universidad
 Universidad de Pensilvania,universidad
-East Lansing,ciudad de Estados Unidos
+East Lansing,ciudad
 Seattle,ciudad
 inversor,convertidor de potencia
 Harvard College,college
 Fundación Bill y Melinda Gates,organización sin fines de lucro
 Hong Kong británico,colonia
-jugador de fútbol americano,jugador
-Washington D. C.,capital federal
+jugador de fútbol americano,deportista
+Washington D. C.,ciudad
 jugador de póquer,profesión
 colegio universitario,institución educativa
 Chicago,ciudad
-baloncestista,deportista
 Universidad Marquette,universidad
-velocista,disciplina deportiva
 Universidad Estatal de California,universidad
 "Universidad Estatal de California, Long Beach",universidad
 Jon Huntsman,ser humano
@@ -1184,10 +1165,8 @@ Aaliyah,ser humano
 Betty Snyder Holberton,ser humano
 Sheila Greibach,ser humano
 Palo Alto,ciudad
-diplomático,profesión
 Universidad de Utah,institución educativa
 gobernador de Utah,cargo
-ingeniero,profesión
 Universidad de California en Berkeley,institución educativa
 Instituto Weizmann de Ciencias,universidad
 Peekskill,ciudad
@@ -1197,23 +1176,19 @@ Creta,isla
 informático teórico,científico
 Grecia,país
 Universidad Rice,universidad
-Lamar,ciudad de Estados Unidos
+Lamar,ciudad
 diarista,ocupación
 francmasonería,hermandad
 Universidad de Illinois,escuela
 Association for Computing Machinery,organización
 Bamberg,ciudad
-empresario,ocupación
 Universidad Clemson,universidad
 Embajador de los Estados Unidos ante las Naciones Unidas,cargo
 Greenville,ciudad
-político,profesión
 gobernador de Carolina del Sur,cargo
-Universidad de Fordham,universidad
-Departamento de Vivienda y Desarrollo Urbano de los Estados Unidos,Departamento Ejecutivo Federal
-Universidad de Columbia,universidad
+Departamento de Vivienda y Desarrollo Urbano de los Estados Unidos,departamento
 Universidad de Princeton,universidad
-Fort Lauderdale,ciudad de Estados Unidos
+Fort Lauderdale,ciudad
 Universidad de Virginia,universidad
 Goldman Sachs,banco
 Lancaster,distrito
@@ -1222,7 +1197,6 @@ Darlington,villa
 Programa Mundial de Alimentos,organización
 Cleveland,ciudad
 Grand Rapids,ciudad
-actor de cine,profesión
 premio Grammy a la mejor interpretación vocal pop femenina,distinción
 Palos Verdes,página de desambiguación de Wikimedia
 tenista,deportista
@@ -1236,8 +1210,7 @@ Universidad Hofstra,universidad
 Universidad de California en San Diego,universidad
 Colorado,estado
 Instituto Tecnológico de Massachusetts,universidad
-condado de Chester,condado de Carolina del Sur
-militar,profesión
+condado de Chester,condado
 gobernador de Kentucky,cargo
 White Sulphur Springs,ciudad
 ingeniero de aviación,ingeniero
@@ -1262,7 +1235,7 @@ Universidad de Massachusetts Amherst,universidad
 Pixies,grupo musical
 Universidad de Posgrado de Claremont,universidad
 Academia Estadounidense de las Artes y las Ciencias,sociedad erudita
-Pine Bluff,ciudad de Estados Unidos
+Pine Bluff,ciudad
 Universidad de Arkansas,universidad
 Rochester,ciudad
 Birmingham,ciudad
@@ -1273,8 +1246,7 @@ Norwich,ciudad
 Universidad de Leeds,universidad
 Instituto de Tecnología de Georgia,universidad
 Universidad Wesleyana de Ohio,universidad
-Shamokin,ciudad de Pensilvania
-beisbolista,deportista
+Shamokin,ciudad
 bailarín de ballet,profesión
 Filadelfia,ciudad
 Instituto Nacional de Estándares y Tecnología,instituto
@@ -1285,22 +1257,19 @@ Dwayne Johnson,ser humano
 Karen Bardsley,ser humano
 Texas,estado
 US West,negocio
-Universidad George Washington,universidad
 Agencia de Seguridad Nacional,servicio de inteligencia
 Bloomington,página de desambiguación de Wikimedia
 WWE Hall of Fame,salón de la fama
 Hayward,ciudad
-Universidad de Miami,universidad
 Fast Five,película
 Santa Mónica,asentamiento
-futbolista,jugador
 Universidad Estatal de California en Fullerton,universidad
 Joanna S. Fowler,ser humano
 Helen Murray Free,ser humano
 Mildred Cohn,ser humano
 Catherine Coleman,ser humano
 Mary Peters Fieser,ser humano
-Miami,ciudad de Estados Unidos
+Miami,ciudad
 Universidad de Anglia del Este,universidad
 Brookhaven National Laboratory,instituto de investigación
 inventor,profesión
@@ -1308,7 +1277,6 @@ Universidad de Míchigan Central,universidad
 Bayer,empresa
 El Bronx,serie de televisión
 Charleston,ciudad
-científico,profesión
 Atchison,ciudad
 químico,profesión
 Stephanie Kwolek,ser humano
@@ -1316,7 +1284,7 @@ Jonny Lee Miller,ser humano
 Carmen Hermosillo,ser humano
 Joyce Jacobson Kaufman,ser humano
 Ann Kiessling,ser humano
-New Kensington,ciudad de Pensilvania
+New Kensington,ciudad
 Polonia,país
 DuPont Corporation,empresa
 KingstonuponThames,villa
@@ -1331,14 +1299,14 @@ Ivory Joe Hunter,ser humano
 John Tyler,ser humano
 Axl Rose,ser humano
 James K. Polk,ser humano
-condado de Charles City,condado de Virginia
+condado de Charles City,condado
 presidente de los Estados Unidos,presidente
-condado de Jasper,condado de Texas
+condado de Jasper,condado
 pianista,profesión
 The College of William and Mary,universidad
 Lafayette,ciudad
 Guns N' Roses,grupo musical
-Pineville,ciudad de Estados Unidos
+Pineville,ciudad
 Universidad de Carolina del Norte en Chapel Hill,universidad
 David Rockefeller,ser humano
 Nelson Rockefeller,ser humano
@@ -1346,13 +1314,12 @@ Farciot Edouart,ser humano
 Edmund H. Hansen,ser humano
 John Gaeta,ser humano
 Ejército de los Estados Unidos,ejército de tierra
-Bar Harbor,pueblo de Nueva Inglaterra
+Bar Harbor,pueblo
 Dartmouth College,universidad
 responsable de efectos especiales,profesión
 Óscar científico o técnico,distinción
 Springfield,casa
 Óscar al mejor sonido,distinción
-artista,profesión
 Universidad de Nueva York,universidad
 Óscar a los mejores efectos visuales,distinción
 Weird Al Yankovic,ser humano
@@ -1385,7 +1352,6 @@ fotógrafo,profesión
 Berkeley,página de desambiguación de Wikimedia
 supervisor de efectos visuales,profesión
 Aberdeen,barrio
-compositor,músico
 Escuela Secundaria de Aberdeen,escuela secundaria superior
 Nevermind,álbum
 Roanoke,ciudad
@@ -1396,8 +1362,7 @@ Escuela de Artes Cinematográficas de la Universidad del Sur de California,facul
 Raleigh,ciudad
 estadista,político
 Salt Lake City,ciudad
-director de fotografía,profesión
-Westmount,ciudad o pueblo
+Westmount,ciudad
 Pasadena,ciudad
 Sea Bright,municipio
 Universidad Yale,universidad
@@ -1405,12 +1370,10 @@ Salón de la Fama de la Aviación Nacional,salón de la fama
 Instituto de Arte de Kansas City,institución académica
 Mickey Mouse,personaje
 Honolulu,ciudad
-luchador,ocupación
 El Paso,ciudad
-director de cine,profesión
 Anexo:Premio a los mejores efectos especiales del Festival de Cine de Sitges,distinción
 Universidad de Iowa,universidad
-Condado de Monmouth,condado de Nueva Jersey
+Condado de Monmouth,condado
 Alberto II de Mónaco,ser humano
 Kevin Rudolf,ser humano
 Grace Kelly,ser humano
@@ -1433,24 +1396,22 @@ Palacio del príncipe de Mónaco,palacio
 piloto de bobsleigh,deportista
 Amherst College,universidad
 Comité Olímpico Internacional,federación deportiva internacional
-Knoxville,ciudad de Estados Unidos
+Knoxville,ciudad
 Narbonne High School,escuela
 Reservoir Dogs,película
 productor discográfico,profesión musical
-actor de teatro,oficio
+actor de teatro,ocupación
 Academia Estadounidense de Arte Dramático,institución
 Consorte de Mónaco,consorte
-condado de Amherst,condado de Virginia
+condado de Amherst,condado
 miembro de la Cámara de Representantes de los Estados Unidos,legislador
 Abingdon,sede de condado
 Condado de Sumter,página de desambiguación de Wikimedia
 Little Falls,página de desambiguación de Wikimedia
 York,ciudad
-juez,propiedad de Wikidata relacionada con el derecho y la justicia
-condado de Lawrence,condado de Arkansas
+condado de Lawrence,condado
 Universidad del Norte de Alabama,universidad
 Dillon,página de desambiguación de Wikimedia
-periodista,profesión
 Newark,ciudad
 Colegio de Queens,institución educativa
 "Black, Brown and Beige",obra de composición musical
@@ -1461,7 +1422,7 @@ legionario de la Legión del Mérito,grado de una orden
 Fontana,página de desambiguación de Wikimedia
 historietista,profesión
 Invasor Zim,serie de televisión de animación
-La Puente,ciudad de Estados Unidos
+La Puente,ciudad
 piloto de automovilismo,profesión
 Modesto,ciudad
 discjockey,músico
@@ -1492,7 +1453,6 @@ Universidad Técnica de Eindhoven,universidad
 Reno,ciudad
 esquiador alpino,profesión
 Norristown,municipio
-Universidad de la Florida,universidad
 Salón de la Fama del Tenis Universitario Femenino,Salón de la Fama del Deporte
 Virginia Beach,ciudad
 diseñador de moda,profesional
@@ -1508,9 +1468,8 @@ Belleville,ciudad
 Fairfax,página de desambiguación de Wikimedia
 Instituto de Tecnología de California,universidad
 Universidad Simon Fraser,institución educativa
-Baltimore,ciudad independiente de los Estados Unidos
+Baltimore,ciudad
 Boston Consulting Group,management consulting company
-pintor,profesión
 New York University Tisch School of the Arts,facultad universitaria
 Will Claye,ser humano
 Christian Taylor,ser humano
@@ -1536,7 +1495,6 @@ Phoenix,ciudad
 saltador de triple salto,atleta
 Fayetteville,ciudad
 Evans,página de desambiguación de Wikimedia
-atleta,deportista
 Universidad de Georgia,universidad
 Newport News,ciudad
 Medalla Presidencial de la Libertad,condecoración
@@ -1544,11 +1502,9 @@ Detroit,ciudad
 piloto de caza,profesión
 America First Committee,grupo de interés
 Bay City,página de desambiguación de Wikimedia
-compositor de canciones,profesión musical
 Dunkin',negocio
 Wapakoneta,ciudad
 astronauta,ocupación
-Reino Unido,país
 Missoula,ciudad
 editor de cine,propiedad de Wikidata para elementos sobre películas
 Mulholland Drive,película
@@ -1574,23 +1530,12 @@ Améth Ramírez,ser humano
 Ana Isabel Illueca,ser humano
 Arysteides Turpana,ser humano
 Ciudad de Panamá,ciudad
-poeta,escritor
 Panamá,país
-futbolista,jugador
 México,asentamiento
-químico,profesión
 Universidad de Panamá,universidad
-político,profesión
-Parita,Distritos de Panamá
-escritor,profesión
-nadador,deportista
-pintor,profesión
-botánico,biólogo
+Parita,distrito
 Universidad de Pensilvania en Indiana,universidad
-cantante,músico
 Nuevo Emperador,comunidad
-Ciudad de Colón,página de desambiguación de Wikimedia
-compositor,músico
 Río Azúcar,arroyo
 Universidad Federal de Bahía,universidad
 Bolívar Urrutia Parrilla,ser humano
@@ -1614,16 +1559,11 @@ Dolores Caballero Núñez,ser humano
 Dora Pérez de Zárate,ser humano
 Edgar Soberón Torchia,ser humano
 Las Tablas,página de desambiguación de Wikimedia
-militar,profesión
-educador,profesión
 David,personaje humano bíblico
-boxeador,deportista
 Ancón,asentamiento
-actor,profesión
 Premio Grammy Latino a la canción del año,categoría de un premio
-recolector de plantas,ocupación
 Brasil,álbum
-Chepo,Distritos de Panamá
+Chepo,distrito
 España,página de desambiguación de Wikimedia
 Escuela Internacional de Cine y Televisión,escuela de cine
 Eduard Benitez,ser humano
@@ -1647,16 +1587,12 @@ Javier Romero Hernández,ser humano
 Jean McLean,ser humano
 Jeptha Brawner Duncan Guillén-Arosemena,ser humano
 La Chorrera,ciudad
-ingeniero,profesión
 Penonomé,ciudad
 Bolívar,estado
-abogado,profesión
-deportista,profesión
 Colombia,país
 Universidad Autónoma de Barcelona,universidad
 Santiago de Veraguas,ciudad
 Concurso Nacional de Literatura Ricardo Miró,distinción
-Sorbonne Universidad de París,universidad
 Joaquín Beleño,ser humano
 Joel Santos Ureña,ser humano
 Johnny Ruiz,ser humano
@@ -1676,10 +1612,9 @@ José de Fábrega,ser humano
 Julio Medina,ser humano
 Julio Segundo,ser humano
 Luis Concepción,ser humano
-Boquete,Distritos de Panamá
+Boquete,distrito
 Instituto Nacional de Panamá,escuela
 Pesé,comunidad
-Universidad de Columbia,universidad
 Cartagena de Indias,obra escrita
 Real y Militar Orden de San Hermenegildo,condecoración militar
 I. Roberto Eisenmann Jr.,ser humano
@@ -1702,26 +1637,18 @@ Miguel Ángel Barcasnegras,ser humano
 Mitchell Doens,ser humano
 Moisés Giroldi Vera,ser humano
 Moisés Pinzón Martínez,ser humano
-periodista,profesión
 Premio María Moors Cabot,distinción
 Antón,comunidad
-sacerdote católico,presbítero
-Universidad de Notre Dame,universidad
 Congregación de Santa Cruz,organización religiosa
 Provincia de Panamá,provincia
-sindicalista,activista
-catedrático,profesor universitario
 Universidad Estatal de Feira de Santana,universidad
 Organización de las Naciones Unidas para la Alimentación y la Agricultura,agencia de la ONU
 Sahagún,página de desambiguación de Wikimedia
-primera dama,consorte
 Primera dama de Panamá,cargo
 Universidad Complutense de Madrid,placa conmemorativa
 Macaracas,comunidad
 Zaragoza,municipio
 religioso,profesión
-economista,profesión
-empresario,ocupación
 Apache Ness,ser humano
 Aquilino Boyd,ser humano
 Aramis Haywood,ser humano
@@ -1742,20 +1669,13 @@ Bill Haywood,ser humano
 Braulio Baeza,ser humano
 Brunet Francisco Hay,ser humano
 Calito Soul,ser humano
-artista,profesión
 College of the Holy Cross,universidad
 parlamentario,legislador
-beisbolista,deportista
 karateca,profesión
 Aguadulce,comunidad
-diplomático,profesión
-Universidad Rusa de la Amistad de los Pueblos,universidad
 Medalla Pushkin,distinción
 esgrimista,deportista
-médico,profesión
 Bocas del Toro,página de desambiguación de Wikimedia
-Estados Unidos,país
-Universidad de Carolina del Norte en Chapel Hill,universidad
 Panama City,ciudad
 jockey,propiedad de Wikidata relacionada con la equitación
 Carlos Afu,ser humano
@@ -1781,19 +1701,14 @@ Demitrius Omphroy,ser humano
 comerciante,profesión
 Provincia de Colón,provincia
 entrenador personal,profesión
-participante en concursos de belleza,concurseante
-director de cine,profesión
 Shelbyville,página de desambiguación de Wikimedia
-oficial militar,profesión militar
 Cruz de la Armada,distinción
 Boston College,universidad
 Chitré,ciudad
-luchador profesional,atleta profesional
+luchador profesional,deportista
 Colegio Interamericano de Defensa,institución académica
 El Chorrillo,comunidad
-baloncestista,deportista
 Alameda,página de desambiguación de Wikimedia
-Universidad de California en Berkeley,institución educativa
 Carlos Ruiz,ser humano
 Guillermo Endara Galimany,ser humano
 José Luis Rodríguez Pittí,ser humano
@@ -1814,27 +1729,16 @@ Arnulfo Arias Madrid,ser humano
 DJ Black,ser humano
 Dámaso Espino,ser humano
 Roberto Kelly,ser humano
-Universidad de Nueva York,universidad
 Presidente de Panamá,presidente
-guionista,profesión
-fotógrafo,profesión
 Provincia de Herrera,provincia
 Escuela de Derecho Harvard,facultad de derecho
-Academia Estadounidense de las Artes y las Ciencias,sociedad erudita
-Winfield,ciudad de Estados Unidos
-taekwondista,deportista
+Winfield,ciudad
 Universidad Nacional de Colombia,universidad
-Brooklyn,Distritos de la ciudad de Nueva York
 Universidad Estatal de Carolina del Norte,universidad
-modelo,propiedad
-Universidad Pontificia de Salamanca,universidad
 obispo auxiliar,cargo eclesiástico
-entrenador,profesión
 Orden de Vasco Núñez de Balboa,orden
 Turbaco,municipio
 Escuela de Medicina Harvard,escuela de medicina
-productor discográfico,profesión musical
-compositor de canciones,profesión musical
 Provincia de Los Santos,provincia
 Eric Vásquez,ser humano
 Ascanio Arosemena,ser humano
@@ -1856,15 +1760,11 @@ Francisco Checa,ser humano
 Francisco Vicente de la Espriella,ser humano
 Frank Davis,ser humano
 Freddy Herrera,ser humano
-Gran Cruz de la Orden de Isabel la Católica,grado de una orden
 Provincia de Chiriquí,provincia
-diseñador de moda,profesional
 Universidad Estatal de Nuevo México,universidad
 Provincia de Bocas del Toro,provincia
 oncólogo,médico especialista
 Centro Oncológico MD Anderson de la Universidad de Texas,hospital
-Nueva York,página de desambiguación de Wikimedia
-jugador de fútbol americano,jugador
 Universidad del Sur de Florida,universidad
 Manuel Amador Terreros,ser humano
 Manuel José Pérez,ser humano
@@ -1888,12 +1788,9 @@ Tony Taylor,ser humano
 Estados Unidos de Colombia,federación
 lingüista,profesión
 Panamane,lengua construida
-Italia,país
-Universidad de Arkansas,universidad
 Orden del Imperio británico,título honorífico
 Collar de la Orden de Isabel la Católica,grado
 Universidad del Rosario,universidad
-Universidad Tecnológica de Texas,universidad
 Long Beach,ciudad
 Davis Romero,ser humano
 Ricardo Clarke,ser humano
@@ -1916,16 +1813,12 @@ Martín Torrijos Espino,ser humano
 Vicente Mosquera,ser humano
 Rolando Blackman,ser humano
 Provincia de Coclé,provincia
-Pasadena,ciudad
-Universidad de Arizona,universidad
 saltador de longitud,atleta
-Washington D. C.,capital federal
 Edmund A. Walsh School of Foreign Service,escuela
 Instituto del Hemisferio Occidental para la Cooperación en Seguridad,escuela
 Comandante de la Orden Nacional de la Legión de Honor,grado de una orden
 Zona del Canal de Panamá,territorio no incorporado de los Estados Unidos
-Universidad Yale,universidad
-Pedasí,Distritos de Panamá
+Pedasí,distrito
 Miami Dade College,institución educativa
 Chimán,comunidad
 Universidad de Texas A&M,universidad
@@ -1952,7 +1845,6 @@ Enrique Geenzier,ser humano
 Eric Herrera,ser humano
 Bajo Boquete (corregimiento de Boquete),villa
 Ustupu,asentamiento
-funcionario,empleado público
 Chris Warren,ser humano
 Arístides Royo,ser humano
 Jorge Illueca,ser humano
@@ -1973,24 +1865,15 @@ Bayano Kamani,ser humano
 Big Fletchit,ser humano
 Bruce Chen,ser humano
 Garland,ciudad
-Universidad de Carolina del Sur,universidad
 Universidad de Bolonia,universidad
-Universidad Harvard,universidad
-Organización de las Naciones Unidas,organización
-velocista,disciplina deportiva
-Escuela de Economía y Ciencia Política de Londres,universidad
-Dartmouth College,universidad
 Caballero de Gran Cruz con collar de la Orden al Mérito de la República Italiana,grado de una orden
 Gran Cruz de la Orden El Sol del Perú,grado de una orden
-embajador,cargo
 Universidad Estatal de Luisiana,universidad
-Cañazas,Distritos de Panamá
+Cañazas,distrito
 obispo diocesano,cargo eclesiástico
 Houston,ciudad
-atleta,deportista
 Escuela Preparatoria Westbury,escuela secundaria superior
 baterista,profesión
-Instituto de Tecnología de Georgia,universidad
 José Quintero,ser humano
 Jorge Luján,ser humano
 realizador,profesión
@@ -2016,16 +1899,13 @@ Walter Philip Leber,ser humano
 José Luis Garcés,ser humano
 Román torres,ser humano
 Rubén Garcés,ser humano
-ciclista,deportista
 yudoca,deportista
 Járkov,ciudad
 Instituto Tecnológico y de Estudios Superiores de Monterrey,universidad
 Miss Universo 2002,edición de concurso de belleza
 rapero,músico
-Universidad de California en Los Ángeles,universidad
 Almirante,página de desambiguación de Wikimedia
 San Luis,ciudad
-Universidad George Washington,universidad
 Providence College,universidad
 William Everett Potter,ser humano
 Lía Victoria Borrero González,ser humano
@@ -2047,13 +1927,9 @@ Casey Parker,ser humano
 Emilio Muñoz Barrios,ser humano
 Amílcar Henríquez,ser humano
 Oshkosh,página de desambiguación de Wikimedia
-Academia Militar de los Estados Unidos,institución educativa
 Universidad del Estado de Ohio,institución educativa
 psicólogo,profesión
-Uruguay,país
-Denver,ciudad
 actor pornográfico,trabajador sexual
-pianista,profesión
 organista,profesión musical
 Clarence Self Ridley,ser humano
 Gabriela Deleuze,ser humano
@@ -2064,7 +1940,6 @@ Gerardo González Vernaza,ser humano
 Gil Garrido,ser humano
 Giosue Cozzarelli,ser humano
 Giselle González Aranda,ser humano
-Gloria Guardia,ser humano
 Ricardo Miró,ser humano
 Nicolle Garay,ser humano
 Graciela Dixon,ser humano
@@ -2073,20 +1948,14 @@ Gyno Pomare,ser humano
 Álvaro Acevedo,ser humano
 Víctor René Mendieta Ocampo,ser humano
 Abner Benaim,ser humano
-Universidad del Sur de California,universidad
 Corydon,página de desambiguación de Wikimedia
 promotor musical,profesión
-Reino Unido,país
 Provincia de Veraguas,asentamiento
-Universidad de Chile,universidad
-juez,propiedad de Wikidata relacionada con el derecho y la justicia
 Universidad Católica Santa María La Antigua de Panamá,universidad
 Corte Suprema de Justicia de Panamá,corte suprema
 Oceanside,página de desambiguación de Wikimedia
 Universidad de San Diego,universidad
-músico,profesión
 Los Rabanes,agrupación musical
-productor de televisión,profesional de medios
 Guy Abrahams,ser humano
 Luis Tejada,ser humano
 Óscar McFarlane,ser humano
@@ -2112,7 +1981,6 @@ Cuba,país
 Fort Hood,base militar
 Berklee College of Music,universidad
 saxofonista,profesión musical
-profesor universitario,profesión académica
 Gatún (ciudad),asentamiento
 entrenador de béisbol,profesión
 Most Valuable Player,página de desambiguación de Wikimedia
@@ -2142,15 +2010,13 @@ Pamplona,municipio
 Universidad de Zaragoza,universidad
 presidente,propiedad de Wikidata para elementos sobre organizaciones
 Peña Blanca,lugar
-administrador apostólico,cargo eclesiástico
 Buenos Aires,ciudad
 "Facultad de Ciencias Médicas, Universidad de Buenos Aires",institución educativa
 diputado de Argentina,cargo
-Soná,Distritos de Panamá
+Soná,distrito
 Universidad de Costa Rica,universidad
 Academia Panameña de la Lengua,institución académica
 Saint John's College,college
-Argentina,país
 Alberto Blanco,ser humano
 Nahil Carroll,ser humano
 Nicanor de Obarrio,ser humano
@@ -2177,14 +2043,10 @@ Roberto Chen,ser humano
 Roberto Fernández Iglesias,ser humano
 Roberto Pérez-Franco,ser humano
 Río Chorcha,arroyo
-Costa Rica,país
-cacique,cargo
-diputado,legislador
 Universidad Drury,universidad
 Conferencia de las Naciones Unidas sobre Comercio y Desarrollo,organización de las Naciones Unidas
 antropólogo,profesión
 Facultad de Filosofía y Letras (UBA),facultad universitaria
-Instituto Tecnológico de Massachusetts,universidad
 "Premio Nacional de Cuento ""José María Sánchez""",distinción
 Rodolfo Caicedo,ser humano
 Jacinto Vásquez,ser humano
@@ -2207,7 +2069,6 @@ Víctor Levi Sasso,ser humano
 Víctor de la Guardia y Ayala,ser humano
 Zoraida Díaz de Schtronn,ser humano
 "Alemán, Cordero, Galindo & Lee",firma de abogados
-Presidente de Nicaragua,cargo público
 Ángel Lombardo,ser humano
 Joel Solanilla,ser humano
 Jorge Tejeira,ser humano
@@ -2229,15 +2090,12 @@ Julio Osorio,ser humano
 Justo Arosemena Quesada,ser humano
 Justo Arroyo,ser humano
 Puerto Armuelles,ciudad
-Calobre,Distritos de Panamá
+Calobre,distrito
 Paraguay,país
 Universidad Central del Ecuador,universidad
 doctor honoris causa,título honorífico
-historiador,profesión
 magistrado,profesión jurídica
 Colegio Mayor de San Bartolomé,colegio mayor
-Universidad Nacional Autónoma de México,universidad
-Premio Centroamericano de Literatura Rogelio Sinán,distinción
 Karen Jordán,ser humano
 Karina Pinilla,ser humano
 Keity Drennan,ser humano
@@ -2284,7 +2142,6 @@ Reggie Grenald,ser humano
 Eduardo Archibold,ser humano
 Joel Tesis,ser humano
 La Villa de Los Santos,asentamiento
-reportero,periodista
 Universidad Estatal de Florida,universidad
 SERTV Canal 11,emisora de televisión
 Fuerte Clayton,fuerte
@@ -2337,7 +2194,6 @@ Universidad Rutgers,universidad
 Instituto Smithsonian de Investigaciones Tropicales,instituto
 biólogo evolutivo,profesión
 luchador de artes marciales mixtas,profesión
-San Lorenzo,ciudad
 Ministro de Relaciones Exteriores de Panamá,ministro
 Freddy Góndola,ser humano
 Carina Baltrip-Reyes,ser humano
@@ -2346,7 +2202,7 @@ Lupita Barriga,ser humano
 Luis Hurtado,ser humano
 Luis Pulido Ritter,ser humano
 Edwin Domínguez,ser humano
-Susan Moore,pueblo de Estados Unidos
+Susan Moore,pueblo
 Crispiano Adames,ser humano
 Herbert Cousins,ser humano
 Andrew Donald Morrison,ser humano
@@ -2364,7 +2220,6 @@ diseñador,propiedad de Wikidata para elementos sobre obras
 entomólogo,profesión
 Universidad Federal de Viçosa,universidad
 Universidad de Glasgow,universidad
-físico,profesión
 Universidad de Texas en Austin,universidad
 Universidad Vanderbilt,universidad
 Albany,ciudad
@@ -2409,9 +2264,7 @@ Edgardo Fariña,ser humano
 Michael Casazola,ser humano
 José Francisco de la Ossa,ser humano
 Eduardo Anderson,ser humano
-tenista,deportista
 Canadá,país
-Grand Rapids,ciudad
 Universidad de Alabama,universidad
 Suiza,página de desambiguación de Wikimedia
 Omar Navarro Rutinelly,ser humano
@@ -2435,7 +2288,6 @@ Predikador,ser humano
 Ángela de Liechtenstein,ser humano
 Publio Rodriguez,ser humano
 Changuinola,comunidad
-ajedrecista,deportista
 Lago Gatún,embalse
 Emerson College,universidad
 director ejecutivo,propiedad de Wikidata para elementos sobre empresas
@@ -2463,14 +2315,10 @@ Manuel Gamboa,ser humano
 Rodolfo Vega,ser humano
 Jordán Girón,ser humano
 geógrafo,profesión
-investigador,profesional
 arquitecto,profesión
-Universidad de Washington,universidad
 Universidad de Amberes,universidad
 Universidad de Mánchester,universidad
 Unicef,grupo musical
-beisbolista profesional,atleta profesional
-República Dominicana,país
 Metetí,comunidad
 Carlos Alberto Rivera,ser humano
 Lamar Bailey Karamañites,ser humano
@@ -2492,10 +2340,7 @@ Emmanuel Gomez,ser humano
 Alcides Díaz,ser humano
 facilitador,ocupación
 Provincia de Panamá Oeste,provincia
-Instituto Politécnico Rensselaer,universidad
 Universidad Villanova,universidad
-San Miguelito,página de desambiguación de Wikimedia
-Nicaragua,país
 Pacora,asentamiento
 Rafael Mosquera,ser humano
 Carmen Damaris Chea Cedeño,ser humano
@@ -2519,8 +2364,6 @@ Raiza Gutiérrez,ser humano
 Edward Cedeño,ser humano
 agrónomo,profesión
 La Concepción,municipio
-científico,profesión
-inventor,profesión
 influencer,profesión
 Vladimir Vargas,ser humano
 Webbo Clarke,ser humano
@@ -2549,39 +2392,20 @@ Luis Saritama,ser humano
 Juan Montalvo,ser humano
 Carlos Feraud,ser humano
 Ibarra,página de desambiguación de Wikimedia
-político,profesión
-Ecuador,país
 Universidad de Oxford,institución educativa
 Cantón Ibarra,cantón de Ecuador
-teólogo,profesión
-obispo diocesano,cargo eclesiástico
-Premio Bruno Kreisky,distinción
-Bolívar,estado
-sacerdote católico,presbítero
-obispo auxiliar,cargo eclesiástico
 Cantón Cevallos,cantón de Ecuador
-escritor,profesión
 Concurso Nacional de Literatura Miguel Riofrío,competición
 Esmeraldas,ciudad
-futbolista,jugador
-Brasil,álbum
 Naranjal,municipio
 Pontificia Universidad Gregoriana,universidad
-director de fotografía,profesión
-director de cine,profesión
 Cuenca,municipio
-educador,profesión
 Riobamba,ciudad
-poeta,escritor
 Carchi,apellido
-ciclista,deportista
 Manta,comuna
 Universidad Católica de Santiago de Guayaquil,universidad
 Fiesta de solitarios,obra literaria
-guionista,profesión
-Universidad del Sur de California,universidad
 "Ratas, ratones, rateros",película
-compositor,músico
 École Normale de Musique de Paris,conservatorio
 Loja,página de desambiguación de Wikimedia
 Ambato,ciudad
@@ -2606,22 +2430,13 @@ Byron Guamá,ser humano
 Christian Benítez,ser humano
 Iván Hurtado,ser humano
 Guayaquil,ciudad
-abogado,profesión
 Universidad de Guayaquil,universidad
 Presidente del Ecuador,cargo público
 Curazao,país del Reino de los Países Bajos
 Ambuquí,parroquia
 diputado Nacional del Ecuador,cargo
-Colombia,país
-San Lorenzo,ciudad
-entrenador,profesión
 héroe,arquetipo literario
-nadador,deportista
-tenista,deportista
 Universidad de las Fuerzas Armadas - ESPE,universidad
-atleta,deportista
-embajador,cargo
-España,país
 embajador de buena voluntad de Unicef,título honorífico
 Cantón Espejo,cantón de Ecuador
 Mike Judge,ser humano
@@ -2644,23 +2459,14 @@ Juan Carlos Paredes,ser humano
 Frickson Erazo,ser humano
 Albert Paulsen,ser humano
 Carlos Mancheno,ser humano
-productor de televisión,profesional de medios
 Beavis and Butthead,serie de televisión de animación
 Cantón Cañar,cantón de Ecuador
-Universidad Central del Ecuador,universidad
 Otavalo,ciudad
 Caballero de la Orden Nacional de la Legión de Honor,grado de una orden
-médico,profesión
-boxeador,deportista
-Francia,país
-Perú,país
-Orden El Sol del Perú,orden estatal
 alto cargo,cargo
 Cantón Montecristi,cantón de Ecuador
 marchador atlético,atleta
-profesor universitario,profesión académica
 Universidad de Concepción,página de desambiguación de Wikimedia
-actor,profesión
 Primetime Emmy al mejor actor de reparto - Serie de comedia,distinción
 Jamil Mahuad,ser humano
 Gustavo Noboa,ser humano
@@ -2682,24 +2488,18 @@ Ana Cecilia Blum,ser humano
 Humberto Cholango,ser humano
 Ariruma Kowii,ser humano
 Christian Noboa,ser humano
-Estados Unidos,país
 Pontificia Universidad Católica del Ecuador,universidad
 Atuntaqui,ciudad
-Portoviejo,ciudad de Ecuador
-Universidad Pontificia de Salamanca,universidad
-cardenal,clérigo católico
+Portoviejo,ciudad
 Vinces,ciudad
 Latacunga,ciudad
 presidente,apellido
-ministro de Educación,cargo
 catequista,profesor
 Alcalde Metropolitano de Quito,cargo
 Salamanca,municipio
 Facultad Latinoamericana de Ciencias Sociales,instituto
-Organización de las Naciones Unidas,organización
 Premio Jorge Carrera Andrade,distinción
 Cantón Cotacachi,cantón de Ecuador
-juez,propiedad de Wikidata relacionada con el derecho y la justicia
 Cantón Cayambe,cantón de Ecuador
 Universidad Carlos III de Madrid,universidad
 Pichincha,provincia
@@ -2725,12 +2525,8 @@ Isaac Mina,ser humano
 María Eugenia Guzmán,ser humano
 biólogo,profesión
 Tena,página de desambiguación de Wikimedia
-cantante,músico
 Cantón Santa Ana,cantón de Ecuador
-fotógrafo,profesión
 Academia Nacional de Historia de Ecuador,institución académica
-halterófilo,atleta de fuerza
-árbitro de fútbol,profesión
 Caracas,ciudad
 Venezuela,país
 RCTV,emisora de televisión
@@ -2738,7 +2534,6 @@ zoólogo,profesión
 Universidad San Francisco de Quito,universidad
 Guaranda,ciudad
 Cornedo Vicentino,comuna
-recolector de plantas,ocupación
 Franklin Salas,ser humano
 Carlos Julio Arosemena Monroy,ser humano
 Jorge Guagua,ser humano
@@ -2761,13 +2556,9 @@ Fabián Alarcón,ser humano
 Osvaldo Hurtado Larrea,ser humano
 Cantón San Miguel de Los Bancos,cantón de Ecuador
 Pujilí,ciudad
-militar,profesión
-Instituto del Hemisferio Occidental para la Cooperación en Seguridad,escuela
-Gran Cruz de la Orden de Isabel la Católica,grado de una orden
 comentarista deportivo,profesión
 Píllaro,ciudad
 Cantón Portovelo,cantón de Ecuador
-pintor,profesión
 Premio Eugenio Espejo,distinción
 Muisne,ciudad
 Cebadas,parroquia de Ecuador
@@ -2798,9 +2589,6 @@ La Troncal,ciudad
 Cañar,provincia
 Morón,página de desambiguación de Wikimedia
 piragüista,deportista
-Universidad del Rosario,universidad
-empresario,ocupación
-saxofonista,profesión musical
 maratonista,profesión
 José Joaquín de Olmedo,ser humano
 José Luis Quiñónez,ser humano
@@ -2827,7 +2615,6 @@ Universidad Nacional Mayor de San Marcos,universidad
 Convictorio de San Carlos,colegio mayor
 Rosa Zárate,ser humano
 Machala,ciudad
-banquero,profesión
 Instituto Nacional Mejía,escuela secundaria
 Huasipungo,obra literaria
 Universidad de Massachusetts,sistema de universidad estatal
@@ -2856,9 +2643,6 @@ director de orquesta,profesión
 Conservatorio de Moscú,conservatorio
 Provincia de Tungurahua,provincia
 Kingston,ciudad
-ajedrecista,deportista
-modelo,propiedad
-participante en concursos de belleza,concurseante
 badmintonista,deportista
 San Gabriel,municipio
 Cariamanga,ciudad
@@ -2885,7 +2669,6 @@ Patricio Urrutia,ser humano
 León Roldós Aguilera,ser humano
 Santa Lucía,página de desambiguación de Wikimedia
 Rosario,municipio
-Argentina,país
 Cotacachi,página de desambiguación de Wikimedia
 Universidad de La Habana,universidad
 Alcalde,página de desambiguación de Wikimedia
@@ -2914,18 +2697,10 @@ Trude Sojka,ser humano
 Nueva Loja,ciudad
 Oakland,ciudad
 Williams College,universidad
-ministro de salud,cargo
-compositor de canciones,profesión musical
 Canciller del Ecuador,ministro
 Universidad de Londres,universidad
-parlamentario,legislador
 Cantón Guamote,cantón de Ecuador
-alcalde,cargo público
 Cayambe,página de desambiguación de Wikimedia
-activista,ocupación
-activista político,ocupación
-Universidad de Cambridge,universidad
-Universidad Tulane de Luisiana,universidad
 Berlín,distrito
 Academia de las Artes de Berlín,institución cultural
 Fausto Minion,ser humano
@@ -2951,20 +2726,14 @@ María Isabel Salvador,ser humano
 Santo Domingo,municipio
 Rusia,aldea
 Chimborazo,provincia
-agricultor,trabajador
 Los que se van,obra literaria
 embajador de Ecuador,embajador
-Universidad de Columbia,universidad
-Beca Guggenheim,distinción
 Viena,cañonero
 Universidad Chapman de Betsabe,universidad
-Cuba,país
 Cantón Latacunga,cantón de Ecuador
 obispo católico,cargo eclesiástico
 Universidad de San Buenaventura,universidad
-obispo titular,cargo eclesiástico
 Distrito Metropolitano de Quito,cantón de Ecuador
-Gran Cruz de la Orden El Sol del Perú,grado de una orden
 Jorge Carrera Andrade,ser humano
 Jorge Gallegos,ser humano
 Jorge Luis Montenegro,ser humano
@@ -2985,14 +2754,12 @@ Jaime Hurtado,ser humano
 Manuel Antonio Valarezo Luzuriaga,ser humano
 Joaquín Pereira Becerra,ser humano
 José Gabriel Díaz Cueva,ser humano
-historiador,profesión
 Mademoiselle Satán,obra literaria
 Cotopaxi,página de desambiguación de Wikimedia
 Cantón Alausí,cantón de Ecuador
 Pontificia Universidad Antonianum,universidad
 El Oro,provincia
 ama de casa,ocupación
-músico,profesión
 Un hombre muerto a puntapiés,obra literaria
 montañero,profesión
 Cantón Quinindé,cantón de Ecuador
@@ -3017,23 +2784,14 @@ Alfredo Vera Arrata,ser humano
 Carlos Góngora,ser humano
 Rafael Pólit,ser humano
 Leónidas Plaza Gutiérrez,ser humano
-Nueva York,página de desambiguación de Wikimedia
-Universidad de California en Berkeley,institución educativa
 Universidad de Santiago de Chile,universidad
 Vasija de barro,obra de composición musical
-francmasonería,hermandad
 Cantón Shushufindi,cantón de Ecuador
 Cantón Déleg,cantón de Ecuador
-economista,profesión
 México,país
-Universidad Nacional Autónoma de México,universidad
-Alemania,país
 Universidad de Münster,universidad
 concejal del Ayuntamiento de Lérida,cargo público
-Ancón,asentamiento
-diplomático,profesión
 Guayas,provincia
-arquitecto,profesión
 Charapotó,parroquia rural de Ecuador
 Ivo Ron,ser humano
 Edson Montaño,ser humano
@@ -3062,9 +2820,7 @@ Universidad de Especialidades Espíritu Santo,universidad
 Asamblea Nacional de Ecuador,parlamento
 Jayro Campos,ser humano
 Germánico Pinto,ser humano
-profesor,educador
 Premio de Derechos Humanos de las Naciones Unidas,distinción
-funcionario,empleado público
 Juan Carlos Montenegro,ser humano
 Juan León Mera,ser humano
 Juan J. Paz y Miño Cepada,ser humano
@@ -3088,19 +2844,15 @@ Tulcán,ciudad
 agente de policía,profesión
 cromo,elemento químico
 Reunión,departamento
-Universidad de Colonia,universidad
 París,ciudad
-Instituto Tecnológico de Massachusetts,universidad
 El Universo,universo
 Universidad Autónoma Metropolitana,universidad
 Organización Internacional del Trabajo,organización internacional
 Daule,ciudad
 Pontificia Universidad de la Santa Cruz,universidad
-sociólogo,profesión
 Olmedo,comuna
 Universidad Pontificia Salesiana,universidad
 Azogues,ciudad
-administrador apostólico,cargo eclesiástico
 Escuela de Derecho y Diplomacia Fletcher,universidad
 Gran Colombia,estado
 Henry León,ser humano
@@ -3126,8 +2878,6 @@ Alex Cevallos,ser humano
 Alex Jimbo Viteri,ser humano
 Las tres ratas,obra literaria
 Asambleísta de Ecuador,parlamentario
-escultor,profesión artística
-actor de televisión,actor
 Instituto de los Hermanos de las Escuelas Cristianas,instituto
 Banco Guayaquil,banco
 Valle del Chota,asentamiento
@@ -3159,12 +2909,8 @@ Erick Torres Velasco,ser humano
 Nilo Valencia,ser humano
 Elias Vergara,ser humano
 Oswaldo Segura,ser humano
-artista,profesión
-Universidad Complutense de Madrid,universidad
-Universidad Hofstra,universidad
 Tosagua,ciudad
 filósofo político,profesión
-Universidad de Pensilvania,universidad
 Cantón Pichincha,cantón de Ecuador
 escuela primaria,institución educativa
 Universidad Internacional del Ecuador,universidad
@@ -3198,13 +2944,9 @@ Mostro de amor,obra de composición musical
 Instituto Ecuatoriano de Seguridad Social,organismo público
 Ministro de Defensa Nacional,cargo público
 locutor,profesión
-Universidad Harvard,universidad
 catedrático de universidad,profesor universitario
 Prusia Oriental,provincia
-comerciante,profesión
 caricaturista,profesión
-físico,profesión
-Universidad Nacional de Colombia,universidad
 Manuel J. Calle,ser humano
 Ana Quiñonez,ser humano
 Alexandra Vela,ser humano
@@ -3219,13 +2961,11 @@ Diane Rodríguez,ser humano
 Eduardo Villota,ser humano
 Efrén Proaño,ser humano
 Johnny León,ser humano
-José María Guerrero,ser humano
 José Mora,ser humano
 Francisco de Paula Lavayen,ser humano
 Gina Godoy,ser humano
 Hernán Rodríguez Castelo,ser humano
 Hugo Mejía,ser humano
-San Salvador,ciudad
 Universidad de Lima,universidad
 General Villamil,ciudad
 Asociación Silueta X,organización
@@ -3278,7 +3018,6 @@ Luis Valencia Rodríguez,ser humano
 Soledad Buendía,ser humano
 Universidad Santo Tomás (Florida),universidad
 Orden de la Amistad de los Pueblos,orden
-periodista,profesión
 Universidad Nacional de Loja,universidad
 Ricardo Mórtola,ser humano
 Vicente Eguiguren Riofrío,ser humano
@@ -3326,10 +3065,6 @@ Cisne Rivera,ser humano
 Cristobal Pazmino,ser humano
 Jorge Luis Cevallos Castillo,ser humano
 Académie Colarossi,institución académica
-Universidad Rutgers,universidad
-Universidad del Noroeste,universidad
-yudoca,deportista
-tirador,cinturón
 Schola Cantorum de París,institución académica
 Anita Velastegui,ser humano
 oficial sanitario,profesión
@@ -3354,11 +3089,7 @@ Enrique Espín Yépez,ser humano
 Enrique Gil Gilbert,ser humano
 Tomas Peribonio,ser humano
 Premios Internacionales del libro latino,distinción
-Universidad de Texas A&M,universidad
-deportista,profesión
 triatleta,deportista
-Miami,ciudad de Estados Unidos
-Universidad de Carolina del Sur,universidad
 Diego Torres,ser humano
 Nikole Castillo,ser humano
 Ricardo Ulcuango,ser humano
@@ -3380,8 +3111,6 @@ Juan Martín Moreira Viteri,ser humano
 Denisse Robles,ser humano
 Aldair Vasquez,ser humano
 Chamizo,asentamiento
-Uruguay,país
-actor de teatro,oficio
 Isla Santa Cruz,isla
 Santa Rosa,ciudad
 Toronto,ciudad
@@ -3429,50 +3158,30 @@ Paolo Quinteros,ser humano
 Bruno Sanfilippo,ser humano
 Bahía Blanca,ciudad
 biofísico,físico
-Argentina,país
 Universidad Nacional del Sur,universidad
 Universidad de Chicago,universidad
 Sunchales,ciudad
-tenista,deportista
 San Miguel de Tucumán,ciudad
 Resistencia,ciudad
-abogado,profesión
 Universidad Nacional del Nordeste,universidad
-diputado de Argentina,cargo
 Salta,ciudad
-Universidad de Buenos Aires,universidad
 vicepresidente de la Nación Argentina,cargo público
 Pergamino,ciudad
-médico,profesión
 presidente de la Nación Argentina,presidente
-Buenos Aires,ciudad
-España,país
 Brockton,ciudad
-baloncestista,deportista
 Estados Unidos,asentamiento
 Universidad de Connecticut,universidad
-velocista,disciplina deportiva
 Avellaneda,ciudad
-entrenador,profesión
-Italia,país
 Mar del Plata,ciudad
-cantante,músico
-Pixies,grupo musical
 General Rodríguez,municipio
-escritor,profesión
 Merlo,municipio
-futbolista,jugador
 camarero,profesión
-Reino Unido,país
-político,profesión
 Instituto de Enseñanza Superior en Lenguas Vivas Juan Ramón Fernández,escuela
 Comisión Nacional sobre la Desaparición de Personas,comisión
-realizador de televisión,profesión
 Ituzaingó,ciudad
 Zárate,ciudad
 Colón,ciudad
 compositor,ocupación
-pianista,profesión
 Quino,ser humano
 Bartolomé Mitre,ser humano
 Ariel Ibagaza,ser humano
@@ -3480,7 +3189,6 @@ Gustavo Eberlein,ser humano
 Héctor Sesi Cúper,ser humano
 Kily González,ser humano
 Leandro Cufré,ser humano
-José González,ser humano
 Horacio Elizondo,ser humano
 Franco Di Santo,ser humano
 Luis Monti,ser humano
@@ -3497,27 +3205,20 @@ Fuengirola,municipio
 dibujante,profesión
 Mafalda,comuna
 Orden al Mérito Artístico y Cultural Pablo Neruda,distinción
-militar,profesión
 Academia Nacional de la Historia de la República Argentina,organización
 Gobernador de la Provincia de Buenos Aires,cargo
 Spiekershausen,ortsteil
-ilustrador,profesión
 Academia de Bellas Artes de Núremberg,institución académica
-Academia de las Artes de Berlín,institución cultural
 Chabás,municipio
-Rosario,municipio
 La Plata,ciudad
 Gotemburgo,ciudad
 Suecia,país
 Universidad de Gotemburgo,universidad
-árbitro de fútbol,profesión
 árbitro FIFA,cargo
 Mendoza,ciudad
 Universidad Stockton,universidad
-Universidad de Salamanca,universidad
 Villa Domínguez,municipio
 Cruz de Plata de la Orden de Boyacá,grado de una orden
-periodista,profesión
 Teodelina,municipio
 Lomas de Zamora,ciudad
 piloto de carreras,profesión
@@ -3546,18 +3247,13 @@ Balón de Oro,distinción
 Laguna Larga ( Dybala ),asentamiento
 Coronel Pringles,asentamiento
 Cómo me hice monja,obra literaria
-Beca Guggenheim,distinción
 Ciudad de Santiago del Estero,ciudad
-guionista,profesión
 Reconquista,guerra
-actor,profesión
 Río Gallegos,ciudad
 Universidad Nacional de La Plata,universidad
 Secretaría General de Unasur,cargo
 San Juan,municipio
-piloto de automovilismo,profesión
 piloto de Fórmula Uno,profesión
-ingeniero,profesión
 Arrecifes,municipio
 Personalidad Destacada de la Ciudad de Buenos Aires,distinción
 Granadero Baigorria,ciudad
@@ -3584,7 +3280,6 @@ Carlos Soria,ser humano
 Julio Le Parc,ser humano
 Guillermo Rubén Bongiorno,ser humano
 Cristino Nicolaides,ser humano
-empresario,ocupación
 Libertango,obra de composición musical
 César a la mejor música original,distinción
 Santa Fe,ciudad
@@ -3594,20 +3289,12 @@ Rafaela,ciudad
 mecánico automotor,profesión
 diseñador de automóviles,profesión
 Alta Gracia,ciudad
-Bruselas,ciudad
-Francia,país
-Facultad de Filosofía y Letras (UBA),facultad universitaria
 Rayuela,deporte
-nadador,deportista
 Corrientes,ciudad
-México,país
 General Daniel Cerri,asentamiento
-alcalde,cargo público
 Palmira,ciudad
-pintor,profesión
 GRAV,videojuego
 Bienal de Venecia,bienal
-ciclista,deportista
 Córdoba,municipio
 Jefe del Estado Mayor General del Ejército,rango militar
 Gran Oficial de la Orden El Sol del Perú,grado de una orden
@@ -3632,23 +3319,16 @@ Miguel Najdorf,ser humano
 Rodrigo Palacio,ser humano
 Clemente Rodríguez,ser humano
 Gerona,municipio
-profesor universitario,profesión académica
 Universidad de Hamburgo,universidad
 Universidad de Illinois en Urbana-Champaign,universidad
-Universidad Yale,universidad
 Las Parejas,ciudad
 Morón,ciudad
 Colegio Militar de la Nación,institución académica
 Ciudad Evita,ciudad
-profesor,educador
 Abuelas de Plaza de Mayo,organización sin fines de lucro
-catedrático,profesor universitario
 Posadas,ciudad
-boxeador,deportista
-ajedrecista,deportista
 Canberra,ciudad
 Australia,país
-Universidad de Cambridge,universidad
 Colegio Nacional de la Capital Gral. Bernardino Caballero,institución académica
 Director supremo de las Provincias Unidas del Río de la Plata,poder ejecutivo
 Provincia de Chaco,provincia
@@ -3656,7 +3336,6 @@ golfista,deportista
 Salón de la Fama del fútbol inglés,Salón de la Fama del Deporte
 Tapiales,localidad
 Grodzisk Mazowiecki,ciudad
-Polonia,país
 Alfredo Bauer,ser humano
 Juan Domingo Perón,parada de autobús
 Victoria Ocampo,ser humano
@@ -3687,10 +3366,8 @@ Sur,pueblo
 San Martín,municipio
 Gobernador de Mendoza,cargo
 Mercedes,ciudad
-Instituto del Hemisferio Occidental para la Cooperación en Seguridad,escuela
 Junta Militar,entidad administrativa desaparecida
 Halle,ciudad
-Alemania,país
 Universidad de Halle-Wittenberg,universidad
 Schutzstaffel,grupo paramilitar
 El varón domado,obra literaria
@@ -3698,20 +3375,15 @@ Hamburgo,ciudad
 Die keusche Susanne,obra dramático-musical
 Academia Alemana de Cine,asociación
 Schlitzohr de Oro,distinción
-sacerdote católico,presbítero
-obispo diocesano,cargo eclesiástico
 Bernal,página de desambiguación de Wikimedia
 Israel,país
 Conservatorio de Praga,conservatorio
 Bielefeld,ciudad
-esgrimista,deportista
 psiquiatra,médico especialista
 Universidad de Viena,universidad
-Universidad Nacional Autónoma de México,universidad
 Haedo,página de desambiguación de Wikimedia
 Esquel,ciudad
 Guaymallén,ciudad
-caricaturista,profesión
 Mundo Quino,libro
 Premio Haxtur,distinción
 Fernando Fernán Gómez,ser humano
@@ -3737,10 +3409,8 @@ Hugo Fregonese,ser humano
 Lima,ciudad
 Mi hija Hildegart,película
 Real Academia Española,organización
-Paraguay,país
 La Carlota,ciudad
 Ucacha,municipio
-cantautor,profesión musical
 Río Tercero,ciudad
 Empalme Villa Constitución,municipio
 medalla de bronce olímpica,medalla
@@ -3750,8 +3420,6 @@ La Mano de Dios,canción
 Universidad Nacional del Litoral,universidad
 Academia Argentina de Letras,institución
 agente deportivo,profesión
-Schola Cantorum de París,institución académica
-oficial militar,profesión militar
 Hugo Demarco,ser humano
 Humberto Selvetti,ser humano
 Rafael Spregelburd,ser humano
@@ -3773,16 +3441,14 @@ Julio Meinvielle,ser humano
 León Ferrari,ser humano
 Eduardo Mallea,ser humano
 Premio de Teatro Iberoamericano Tirso de Molina,distinción
-jurista,profesión
 Universidad Nacional de Córdoba,universidad
 Lobería,asentamiento
-Adrogué,ciudad de Argentina
+Adrogué,ciudad
 Ciudadano ilustre de la Ciudad de Buenos Aires,distinción
 Viedma,ciudad
 presbítero católico de rito latino,sacerdote
 Rector Mayor de la Congregación Salesiana,superior general
 Médanos,ciudad
-Universidad Harvard,universidad
 Academia Estadounidense de las Artes y las Letras,institución académica
 concejal,cargo
 Fernando Birri,ser humano
@@ -3805,21 +3471,16 @@ Federico Kirbus,ser humano
 Alberto Lanteri,ser humano
 Florencia Peña,ser humano
 Centro Experimental de Cine,escuela
-Universidad Humboldt de Berlín,universidad
 Universidad Central de Venezuela,universidad
 Premio Clarín de novela,distinción
 Facundo o civilización y barbarie en las pampas argentinas,obra literaria
 Escuela Nacional de Experimentación y Realización Cinematográfica,institución académica
 La niña santa,película
 Concordia,ciudad
-historiador,profesión
 Paraná,unidad federativa de Brasil
 Puebla de Zaragoza,ciudad
-actor de teatro,oficio
 entrenador de tenis,profesión
 Montevideo,ciudad
-Uruguay,país
-actor de cine,profesión
 Antonio Hodgers,ser humano
 Pablo Andrés Aguilar,ser humano
 Hernán Cristante,ser humano
@@ -3845,14 +3506,11 @@ Graduate Institute of International and Development Studies,revista científica
 miembro del Consejo Nacional de Suiza,miembro
 Kuressaare,ciudad
 Caseros,ciudad
-comandante,militar
-jugador de fútbol americano,jugador
 voleibolista,deportista
 jugador de voleibol de playa,profesión
 jugador de rugby,profesión
 Violetta,ser humano
 Lanús,ciudad
-modelo,propiedad
 modelo de ropa interior,modelo
 Belgrano,página de desambiguación de Wikimedia
 General Acha,municipio
@@ -3884,8 +3542,6 @@ Henderson,ciudad
 jugador de hockey,deportista
 Ciudad de México,ciudad
 artista escénico,profesión
-Sorbonne Universidad de París,universidad
-beca Fulbright,beca
 Premios Mundial de Fantasía,distinción
 dramaturgo,propiedad de Wikidata para elementos sobre obras
 Villa Gobernador Gálvez,ciudad
@@ -3920,9 +3576,8 @@ Mauro Camoranesi,ser humano
 Maxi Rodríguez,ser humano
 Partido de San Fernando,municipio
 dirigente deportivo,profesión
-presidente,propiedad de Wikidata para elementos sobre organizaciones
 Futbolista del año en Sudamérica,distinción
-Chascomús,ciudad de Argentina
+Chascomús,ciudad
 El juguete rabioso,página de desambiguación de Wikimedia
 Grupo de Boedo,organización
 Villa Sarmiento,asentamiento
@@ -3931,15 +3586,13 @@ Leda y María,dúo musical
 Villa de María,municipio
 Las fuerzas extrañas,obra literaria
 Ancasti,página de desambiguación de Wikimedia
-La Rioja,comunidad autónoma
+La Rioja,comunidad
 bailarín,profesión
-Gran Cruz de la Orden de Isabel la Católica,grado de una orden
 Firmat,municipio
-Laborde,comuna francesa
+Laborde,comuna
 obispo,cargo eclesiástico
 Tandil,ciudad
-Central,distrito financiero
-historietista,profesión
+Central,distrito
 caballero de la Orden de Isabel la Católica,caballero
 Luis Federico Leloir,ser humano
 Bernardo Alberto Houssay,ser humano
@@ -3962,19 +3615,13 @@ Erich Eliskases,ser humano
 Eliseo Mouriño,ser humano
 Cecilia Roth,ser humano
 París,barrio de Puerto Rico
-físico,profesión
-"Facultad de Ciencias Médicas, Universidad de Buenos Aires",institución educativa
-químico,profesión
 Toulouse,ciudad
 Gardel-Razzano,dúo musical
 International Latin Music Hall of Fame,distinción
-Canadá,parada de autobús
 Erreway,grupo musical
 Tigre,asentamiento
 Todo cambia,pista musical con voz
-embajador de buena voluntad de Unicef,título honorífico
 Chemnitz,ciudad
-director de orquesta,profesión
 Cruz de Comendador de la Orden del Mérito de la República Federal Alemana,grado de una orden
 Carcarañá,municipio
 San Nicolás de los Arroyos,ciudad
@@ -4003,7 +3650,6 @@ Alejandro Agustín Lanusse,ser humano
 Ada María Elflein,ser humano
 Diego Placente,ser humano
 Provincia de Entre Ríos,provincia
-Premio Right Livelihood,distinción
 "Escuela superior de música y teatro ""Felix Mendelssohn""",universidad
 Benjamín Villafañe,ser humano
 Mario Benjamín Menéndez,ser humano
@@ -4029,23 +3675,15 @@ senador de Argentina,cargo
 Chañar Ladeado,municipio
 segundo comandante,oficial militar
 Caleta Olivia,ciudad
-Instituto Weizmann de Ciencias,universidad
-poeta,escritor
-Salón Internacional de la Fama del tenis,Salón de la Fama
-Berklee College of Music,universidad
 Altos de Chipión,municipio
-Pehuajó,ciudad de Argentina
+Pehuajó,ciudad
 Universidad de Utrecht,universidad
 Premio Konex de Brillante,distinción
 Guerrilla de Ñancahuazú,movimiento guerrillero
 Elberfeld,barrio
-fotógrafo,profesión
 Bauhaus,movimiento artístico
-músico,profesión
 Universidad de Música y Arte Dramático de Viena,universidad
 Orquesta Filarmónica de Viena,orquesta
-Berlín,distrito
-bailarín de ballet,profesión
 Bernardo de Irigoyen,ser humano
 Roberto Sariguella,ser humano
 Colegio del Salvador,colegio jesuita
@@ -4070,19 +3708,15 @@ Fernando Gamboa,ser humano
 Carla Rebecchi,ser humano
 Florencia Mutio,ser humano
 Cristina Fernández de Kirchner,ser humano
-Junín,Ciudad
+Junín,ciudad
 Orden de Isabel la Católica,orden
-compositor de canciones,profesión musical
 Gobernador de la Provincia de San Juan,artículo de lista de personas de Wikimedia por cargo ocupado
-fondista,profesión
 César a la mejor actriz,distinción
 Cululú,municipio
-juez,propiedad de Wikidata relacionada con el derecho y la justicia
 Marcos Juárez,ciudad
 La Salle Florida,escuela privada
 Tolosa,municipio
 Presidencia de la Nación,organismo público
-director de cine,profesión
 Imperio ruso,estado
 Estrella de la República Socialista de Rumanía,orden
 oficial de la Orden de las Artes y las Letras,oficial
@@ -4109,12 +3743,10 @@ Carlos Alberto Lacoste,ser humano
 ciclista de pista,profesión
 Las Varillas,ciudad
 Salón de la Fama FIBA,Salón de la Fama
-diplomático,profesión
 intendente de la Ciudad de Buenos Aires,cargo
 Partido de Cañuelas,municipio
 polista,deportista
 Gotinga,ciudad
-zoólogo,profesión
 Carlos Casares,ser humano
 Vicegobernador de la provincia de Buenos Aires,cargo
 Escuela Naval Militar,página de desambiguación de Wikimedia
@@ -4143,18 +3775,13 @@ China Suárez,ser humano
 Oscar Alemán,ser humano
 Facundo Arana,ser humano
 Leónidas Lamborghini,ser humano
-productor discográfico,profesión musical
-arquitecto,profesión
-embajador,cargo
 provincia de Alessandria,provincia
 supermodelo,profesión
 Murcia,municipio
 Himno Nacional Argentino,himno nacional
 Bell Ville,ciudad
 Cruz Alta,municipio
-obispo auxiliar,cargo eclesiástico
-Sarandí,ciudad de Argentina
-San Francisco,ciudad
+Sarandí,ciudad
 Premios Sur,distinción
 Premio Florencio,distinción
 Elsa Kelly,ser humano
@@ -4178,15 +3805,10 @@ Eliseo Verón,ser humano
 Osvaldo Zubeldía,ser humano
 Julio César Falcioni,ser humano
 Premios Óscar de 1994,ceremonia de los Óscar
-Vicente López,ser humano
 Opus Dei,prelatura personal
 obispo de San Roque de Presidencia Roque Sáenz Peña,cargo eclesiástico
-economista,profesión
-Universidad de Columbia,universidad
-escultor,profesión artística
 Universidad Nacional de Cuyo,universidad
 Gualeguaychú,ciudad
-Organización de las Naciones Unidas,organización
 Tunuyán,ciudad
 Gualeguay,ciudad
 Lucas González,ser humano
@@ -4205,42 +3827,27 @@ Félix Hernández,ser humano
 Diego Matheuz,ser humano
 Diego Molero Bellavia,ser humano
 Puerto Cabello,ciudad
-beisbolista,deportista
-Venezuela,país
 Niterói,ciudad
-actor,profesión
-Estados Unidos,país
-Valencia,ciudad componente
+Valencia,ciudad
 Seattle Mariners,equipo de béisbol
 Premio Cy Young,distinción
 Barquisimeto,ciudad
-director de orquesta,profesión
-violinista,profesión
 Coro,página de desambiguación de Wikimedia
-militar,profesión
 Academia Militar de la Armada Bolivariana,universidad
 Fuerza Armada Nacional Bolivariana,fuerzas armadas
 Salomón Rondón,ser humano
-Caracas,ciudad
-futbolista,jugador
 Pastor Maldonado,ser humano
 Wilhelm Lehmann,ser humano
 Henri Pittier,ser humano
 "Carlos ""Morocho"" Hernández",ser humano
 Inocente Carreño,ser humano
 Maracay,ciudad
-piloto de automovilismo,profesión
-piloto de Fórmula Uno,profesión
-escritor,profesión
-Alemania,país
 Academia de las Ciencias y las Letras de Maguncia,universidad
 Premio Schiller Memorial,distinción
 Bex,gemeinde de Suiza
 naturalista,científico
 Universidad de Jena,universidad
-boxeador,deportista
 Isla de Margarita,isla
-compositor,ocupación
 himno de la municipalidad de Baruta,himno
 César Ramón Ortega Herrera,ser humano
 Ignacio Burk,ser humano
@@ -4248,12 +3855,9 @@ Alexi Amarista,ser humano
 Radamel Falcao García,ser humano
 Ignacio Andrade,ser humano
 Yaracuy,estado
-sacerdote católico,presbítero
-obispo diocesano,cargo eclesiástico
 Núremberg,ciudad
 Barcelona,ciudad
 Santa Marta,ciudad
-Colombia,país
 Mérida,municipio
 presidente de Venezuela,cargo público
 José Ruperto Monagas,ser humano
@@ -4263,9 +3867,7 @@ Pedro Gamarro,ser humano
 Omar Catarí,ser humano
 Aragua de Barcelona,asentamiento
 Palma de Mallorca,ciudad
-médico,profesión
 Universidad de Valencia,universidad
-Universidad Central de Venezuela,universidad
 Carabobo,estado
 Academia Venezolana de la Lengua,institución académica
 Premio Nacional de Literatura,página de desambiguación de Wikimedia
@@ -4276,10 +3878,8 @@ Alba Roversi,ser humano
 Vicente Nebrada,ser humano
 Francisco Buttó,ser humano
 Sabaneta,ciudad
-político,profesión
 Universidad de Los Andes,universidad
 Universidad Católica Andrés Bello,universidad
-bailarín de ballet,profesión
 Teatro Teresa Carreño,teatro de ópera
 Orden de Andrés Bello,orden
 Maturín,ciudad
@@ -4288,21 +3888,14 @@ Paul Ramírez,ser humano
 Pedro Gutiérrez,ser humano
 Taniusha Mollet,ser humano
 Francisco Cervelli,ser humano
-ciclista,deportista
-entrenador,profesión
 Lara,estado
-Italia,país
 Marena Bencomo,ser humano
 Conny Méndez,ser humano
 Bárbaro Rivas,ser humano
 Morella Muñoz,ser humano
 Reynaldo Hahn,ser humano
-modelo,propiedad
-participante en concursos de belleza,concurseante
 Petare,asentamiento
-pintor,profesión
 cantante de ópera,profesión musical
-Francia,país
 Conservatorio de París,conservatorio
 Academia de Bellas Artes,escuela
 Daniela Larreal,ser humano
@@ -4310,41 +3903,29 @@ Cipriano Castro,ser humano
 Rafael Urdaneta,ser humano
 Maracaibo,ciudad
 Táchira,estado
-Colegio Mayor de San Bartolomé,colegio mayor
 diputado de Venezuela,cargo
 Andrés Rodríguez de Villegas,ser humano
 Ana Mercedes Asuaje de Rugeles,ser humano
 Roberto Petagine,ser humano
-San Juan,municipio
 gobernador real de La Florida,cargo
-Universidad Católica de América,universidad
 Nueva Esparta,estado
 Freddy Cachazo,ser humano
 Rafael Romero,ser humano
 Vicente Llobregat,ser humano
-físico,profesión
-Universidad Harvard,universidad
 Medalla Gribov,distinción
-atleta,deportista
 Alicante,ciudad
-árbitro de fútbol,profesión
 Augusto Brandt,ser humano
 Margarita Cadenas,ser humano
 José Gregorio Hernández,ser humano
-guionista,profesión
-director de cine,profesión
 Isnotú,asentamiento
 Frederick Segura,ser humano
 Fredy Cedeño,ser humano
 Fredy Reyna,ser humano
-Valera,comunidad no incorporada en los Estados Unidos
-voleibolista,deportista
-músico,profesión
+Valera,comunidad
 José Gregorio Valera,ser humano
 Victorino Márquez Bustillos,ser humano
 Diana Arismendi,ser humano
 Guanare,ciudad
-abogado,profesión
 Caballero de la Gran Cruz de la Orden de Pío IX,grado de una orden
 Universidad Simón Bolívar,universidad
 Rafael Mea Vitali,ser humano
@@ -4358,15 +3939,12 @@ El Vigía,asentamiento
 Freddy Jesús Fuemayor Suárez,ser humano
 Juan Vicente Lecuna,ser humano
 Juan Alfonso Baptista,ser humano
-España,país
-actor de televisión,actor
 Ramón Rodríguez Chacín,ser humano
 Hilda Abrahamz,ser humano
 Municipio Santa Ana,municipio
 Cristian Quintero,ser humano
 Rafael Acosta,ser humano
 Aníbal Sánchez,ser humano
-nadador,deportista
 Argenis Chávez,ser humano
 Dioni Guerra,ser humano
 Alicia Machado,ser humano
@@ -4376,15 +3954,12 @@ Roger Alier,ser humano
 Mario Rondón,ser humano
 José Tadeo Monagas,ser humano
 Los Teques,ciudad
-Universidad de Barcelona,universidad
 Portugal,país
 Monagas,estado
-presidente,apellido
 Carolina Tejera,ser humano
 Milagros Sequera,ser humano
 Majandra Delfino,ser humano
 San Felipe,municipio
-tenista,deportista
 Isaías Medina Angarita,ser humano
 Guillermo Pérez,ser humano
 Alirio Díaz,ser humano
@@ -4396,13 +3971,11 @@ José María Benítez,ser humano
 Rodolfo González,ser humano
 Moisés Kaufman,ser humano
 La Victoria,página de desambiguación de Wikimedia
-Universidad de Nueva York,universidad
 Premio Literario Lambda,distinción
 Manuel Piar,ser humano
 Bruno Palli,ser humano
 Fabiola Colmenares,ser humano
 Willemstad,ciudad
-ingeniero,profesión
 Universidad Centroccidental Lisandro Alvarado,universidad
 José Torrealba,ser humano
 Rafael de Nogales Méndez,ser humano
@@ -4410,54 +3983,41 @@ José Sótero Valero Ruz,ser humano
 Acarigua,ciudad
 Cruz de Hierro de 1.ª clase,grado
 Timotes,asentamiento
-obispo auxiliar,cargo eclesiástico
 Fernando Nieve,ser humano
 Luis Posada Carriles,ser humano
 Cienfuegos,ciudad
 espía,profesión
-Universidad de La Habana,universidad
-Agencia Central de Inteligencia,agencias independientes del gobierno de Estados
 Arturo Uslar Pietri,ser humano
 Tareck El Aissami,ser humano
 Manuel Caballero,ser humano
-historiador,profesión
 El Nacional,página de desambiguación de Wikimedia
-vicepresidente,cargo
 University College de Londres,universidad
 Carlos Cristancho Rojas,ser humano
 Raúl Borges,ser humano
 Silvio Fernández,ser humano
-diplomático,profesión
-Cruz federal de la República de Alemania al mérito,grado de una orden
-esgrimista,deportista
 Eduardo Herrera Riera,ser humano
 Manuel Medina,ser humano
 Alfredo Sadel,ser humano
 Esteban Gil Borges,ser humano
 Adina Izarra,ser humano
-juez,propiedad de Wikidata relacionada con el derecho y la justicia
 Universidad de York,universidad
 Conservatorio Nacional de Música Juan José Landaeta,conservatorio de música
 Rosmeri Marval,ser humano
 Fernando Aristeguieta,ser humano
 Andrés Mistage,ser humano
-cantante,músico
 Carolina Herrera,ser humano
 Cristóbal Lander,ser humano
 Manny Piña,ser humano
-empresario,ocupación
 Medalla de Oro al Mérito en las Bellas Artes,distinción
 José Vicente Rangel,ser humano
 Édgar Sanabria,ser humano
 Yohandry Orozco,ser humano
-Universidad de Salamanca,universidad
 Vicepresidente de Venezuela,cargo
 Nicolás Pereira,ser humano
 Ivian Sarcos,ser humano
 Engels Pedroza,ser humano
 Salto,freguesía
-Uruguay,país
-San Carlos,ciudad componente
+San Carlos,ciudad
 Federico Ruiz,ser humano
 Joaquín José Morón Hidalgo,ser humano
 Federico Moleiro Camero,ser humano
@@ -4469,8 +4029,6 @@ Cantaura,ciudad
 Charles Brewer Carías,ser humano
 Octavio Lepage,ser humano
 Lupita Ferrer,ser humano
-fotógrafo,profesión
-biólogo,profesión
 Parroquia Santa Rosa,parroquia civil de Venezuela
 ministerio del Interior,ministerio
 Josefina Benedetti,ser humano
@@ -4489,21 +4047,17 @@ Cúa,ciudad
 Billo Frómeta,ser humano
 Jeanmar Gómez,ser humano
 Germán Suárez,ser humano
-Santo Domingo,municipio
 Carlos Guillén,ser humano
 Rosman García,ser humano
 María Martínez,ser humano
 Ciudad Bolívar,ciudad
 Manuel Rojas,ser humano
 Ramón Carrizales,ser humano
-revolucionario,activista político
 Zaraza,ciudad
 Academia Militar del Ejército Bolivariano,universidad
 Kellee Santiago,ser humano
 Johan Santana,ser humano
 Marjorie de Sousa,ser humano
-informático teórico,científico
-New York University Tisch School of the Arts,facultad universitaria
 Tovar,página de desambiguación de Wikimedia
 Guante de Oro,distinción
 Diosdado Cabello,ser humano
@@ -4523,14 +4077,11 @@ Julio César León,ser humano
 Leonel Vielma,ser humano
 Julio Borges,ser humano
 Trujillo,estado
-Universidad de Oxford,institución educativa
 Andrés Túñez,ser humano
 Freddy García,ser humano
 Manuel Rosales,ser humano
 Jean Franko,ser humano
 Santa Bárbara del Zulia,ciudad
-profesor,educador
-parlamentario,legislador
 Macuto,ciudad
 disc-jockey,músico
 Carolina Izsak,ser humano
@@ -4551,9 +4102,7 @@ Royal Academy of Music,universidad
 El Potro Álvarez,ser humano
 Moisés Naím,ser humano
 Artur García,ser humano
-ministro,cargo
 Trípoli,ciudad
-Instituto Tecnológico de Massachusetts,universidad
 miembro del consejo de administración,cargo
 San Juan de Colón,asentamiento
 Natalia Luis-Bassa,ser humano
@@ -4577,24 +4126,19 @@ Instituto de Derecho Internacional,sociedad erudita
 Andrés Izarra,ser humano
 Andrés Sandoval,ser humano
 Eva Golinger,ser humano
-periodista,profesión
 Nueva York,ciudad
 Sarah Lawrence College,universidad
 Jorge Liberato Urosa Savino,ser humano
 Víctor Castillo,ser humano
-Pontificia Universidad Gregoriana,universidad
-cardenal,clérigo católico
 Municipio San Joaquín,municipio
 Universidad del Norte de Arizona,universidad
 Jorge Castillo,ser humano
 Pedro Camejo,ser humano
 Carlos Ortega Carvajal,ser humano
 Pontevedra,municipio
-arquitecto,profesión
 Medalla Castelao,condecoración
 San Juan de Payara,ciudad
 Orden del Libertador,orden
-sindicalista,activista
 Luis Aparicio,ser humano
 Sonya Smith,ser humano
 Salón de la Fama del Béisbol,museo
@@ -4611,13 +4155,10 @@ Grupo Intergubernamental de Expertos sobre el Cambio Climático,organización in
 José Luis Azuaje Ayala,ser humano
 Cástor Oswaldo Azuaje Pérez,ser humano
 César Baena,ser humano
-obispo católico,cargo eclesiástico
 esquiador de fondo,ocupación
 Daniel Eduardo Morillo,ser humano
 José Antonio Hernández-Díez,ser humano
 Julio Herrera Velutini,ser humano
-economista,profesión
-director ejecutivo,propiedad de Wikidata para elementos sobre empresas
 Néstor Nieves,ser humano
 Alejandro Planchart,ser humano
 corredor de obstáculos,atleta
@@ -4625,15 +4166,12 @@ Universidad de California en Santa Bárbara,universidad
 Antonia Palacios,ser humano
 Antonieta Madrid,ser humano
 Milton Becerra,ser humano
-escultor,profesión artística
 Gabriel Miranda,ser humano
 Antonio Estévez,ser humano
-Montevideo,ciudad
 Calabozo,ciudad
 Antonio Ignacio Velasco García,ser humano
 Antonio José López Castillo,ser humano
 Antonio José Ramírez Salaverría,ser humano
-obispo titular,cargo eclesiástico
 Cariaco,asentamiento
 César Girón,ser humano
 Juan Pablo Pérez Alfonzo,ser humano
@@ -4647,22 +4185,18 @@ Zulia,estado
 Carlos Mendoza,ser humano
 Carlos Orta,ser humano
 Carlos Quintana (beisbolista),ser humano
-bailarín,profesión
 Universidad Folkwang de las Artes,universidad
 Mamporal,ciudad
 Ivan Palazzese,ser humano
 Jean Carlos Peña,ser humano
 José Humberto Quintero,ser humano
 Alba Adriatica,comuna
-piloto de motociclismo,deportista
-karateca,profesión
 Alvaro Cordero,ser humano
 Fulgencio Obelmejias,ser humano
 Alí Primera,ser humano
 Oswaldo Vizcarrondo,ser humano
 Getulio Agostini,ser humano
 Gustavo Hernández Pérez,ser humano
-recolector de plantas,ocupación
 Franklin Virgüez,ser humano
 Raúl Isaías Baduel,ser humano
 Ana Teresa Oropeza,ser humano
@@ -4671,7 +4205,6 @@ San Juan de Los Morros,asentamiento
 Andreé González,ser humano
 Armando Galarraga,ser humano
 Elizabeth Avellán Ochoa,ser humano
-Universidad Rice,universidad
 Asdrúbal José Hurtado,ser humano
 Chibly Abouhamad Hobaica,ser humano
 Christian Vásquez,ser humano
@@ -4679,21 +4212,17 @@ Hanni Ossott,ser humano
 Édgar Ramírez,ser humano
 Carlota Pérez,ser humano
 Academia de Artes y Ciencias Cinematográficas,film academy
-Reino Unido,país
 Medalla Kondrátiev,distinción
 Wilson Ramos,ser humano
 José Ángel Lamas,ser humano
 Gabriel Cichero,ser humano
-Polonia,país
 Luz Machado,ser humano
 Jacqueline Saburido,ser humano
 Carlos Andrés Pérez,ser humano
-Universidad de Texas en Austin,universidad
 Rubio,página de desambiguación de Wikimedia
 Rónald González,ser humano
 José Francisco Bermúdez,ser humano
 Carlos Ulises Moulines,ser humano
-profesor universitario,profesión académica
 Universidad de Múnich,universidad
 Norma Santini,ser humano
 Vanessa Pose,ser humano
@@ -4709,7 +4238,6 @@ David Serradas,ser humano
 Dayana Borges,ser humano
 Dayana Colmenares,ser humano
 Alejandro Peña Esclusa,ser humano
-Washington D. C.,capital federal
 Andrés Eloy Blanco,parroquia civil de Venezuela
 Wolfgang Larrazábal,ser humano
 titopiña,ser humano
@@ -4719,13 +4247,11 @@ Mariaesthela Vilera,ser humano
 Mariana Rondón,ser humano
 Mariano José Parra Sandoval,ser humano
 Valle de La Pascua,ciudad
-Escuela Internacional de Cine y Televisión,escuela de cine
 Roberto Rosales,ser humano
 Alexander González,ser humano
 Antonio Lauro,ser humano
 Goizeder Azúa,ser humano
 Daniela Di Giacomo,ser humano
-presentador de televisión,presentador
 Laureano Villanueva,ser humano
 Layneker Zafra,ser humano
 Leila Macor,ser humano
@@ -4734,9 +4260,7 @@ Elluz Peraza,ser humano
 Edgar Bastidas,ser humano
 Tatiana Capote,ser humano
 La Habana,ciudad
-Cuba,país
 Beatriz Valdés,ser humano
-actor de teatro,oficio
 Wilmer Herrison,ser humano
 Escuela del Louvre,institución educativa
 Juan María Leonardi Villasmil,ser humano
@@ -4758,7 +4282,6 @@ Bobures,asentamiento
 Rafael Guillermo Urdaneta Vargas,ser humano
 Narciso López,ser humano
 Greivis Vásquez,ser humano
-baloncestista,deportista
 Universidad de Maryland,universidad
 Miguel Ubeto,ser humano
 Francisco Antonio Zea,ser humano
@@ -4772,7 +4295,7 @@ Stalin Rivas,ser humano
 Puerto Ordaz,ciudad
 Ronald Vargas,ser humano
 Miguel Cabrera,ser humano
-Most Valuable Player,Jugador Más Valioso
+Most Valuable Player,deportista
 Consuelo Nouel,ser humano
 Rafael Caldera,ser humano
 Rómulo Gallegos,ser humano
@@ -4783,7 +4306,7 @@ Fritz Melbye,ser humano
 Francisco Cabrera Santos,ser humano
 Bárbara Garofalo,ser humano
 Elsinor,barco
-Canarias,comunidad autónoma
+Canarias,comunidad
 Camila Canabal,ser humano
 Carlos A. Chardón,ser humano
 Carlos Alberto Taylhardat,ser humano
@@ -4793,12 +4316,9 @@ Academia Naval italiana,institución académica
 Carlos Arraiz,ser humano
 Carlos Ascues,ser humano
 Carlos Barreto,ser humano
-actor de voz,Wikidata property to identify contributors to audiovisual works
-Perú,país
 Gustavo García Naranjo,ser humano
 Gustavo Matamoros,ser humano
 Orlando Poleo,ser humano
-percusionista,profesión musical
 músico de jazz,músico
 Adriana d'Elia,ser humano
 Adriana Prieto,ser humano
@@ -4806,7 +4326,7 @@ Adrián Lezama,ser humano
 Harry Abend,ser humano
 Helímenas de Jesús Rojo Paredes,ser humano
 Henry Rangel Silva,ser humano
-Jarosław,comuna urbana
+Jarosław,comuna
 Orden Francisco de Miranda,orden
 Santiago,municipio
 Francisco Pimentel Agostini,ser humano
@@ -4820,17 +4340,13 @@ Universidad Wesleyana,universidad
 Carlos Ramón Hidalgo,ser humano
 Carlos Rangel,ser humano
 Carlos Salazar,ser humano
-Guayaquil,ciudad
 Carlos Tarazona,ser humano
 Carlos Tejeda,ser humano
 Carlos Vásquez,ser humano
-maratonista,profesión
 Carlos Vásquez Carvajal,ser humano
 Carlos Zerpa,ser humano
 Carmelo Fernández,ser humano
-taekwondista,deportista
 Guama,página de desambiguación de Wikimedia
-artista escénico,profesión
 Eleonora Bruzual,ser humano
 Elio Chacón,ser humano
 Elizabeth Ayoub,ser humano
@@ -4838,29 +4354,24 @@ biógrafo,profesión
 Alejandro Oliveros,ser humano
 Alejandro Pietri,ser humano
 Kerwis Chirinos,ser humano
-Beca Guggenheim,distinción
 Ciudad Ojeda,ciudad
 Cecilio Zubillaga Perera,ser humano
 Roberto La Rocca,ser humano
 Celestino Armas,ser humano
-piloto de carreras,profesión
 Emilio Campos,ser humano
 Emiro Lobo,ser humano
 Ender Thomas,ser humano
-compositor de canciones,profesión musical
 Chucho Ramos,ser humano
 Chucho Sanoja,ser humano
 Claudia Baratta Sarcinelli,ser humano
 Luis Eduardo Arellano Moreno,ser humano
 Luis Eduardo Chataing,ser humano
 Luis Emilio Gómez Ruiz,ser humano
-Gran Cruz de la Orden de Isabel la Católica,grado de una orden
 Ronald Blanco La Cruz,ser humano
 Amábilis Cordero,ser humano
 Américo Gregorio Martín Estaba,ser humano
 Universidad Militar Bolivariana de Venezuela,universidad
 Duaca,asentamiento
-cineasta,artista
 Amílcar Figueroa,ser humano
 Ana Karina Manco,ser humano
 Ana Luisa Llovera,ser humano
@@ -4870,7 +4381,6 @@ César Rengifo,ser humano
 César Tovar,ser humano
 La Grita,ciudad
 Universidad Católica del Táchira,universidad
-poeta,escritor
 Dalmiro Finol,ser humano
 Daniel De Oliveira,ser humano
 Daniel Dhers,ser humano
@@ -4905,27 +4415,20 @@ Desiree Glod,ser humano
 Facundo Coral,ser humano
 Nicolás Patiño Sosa,ser humano
 Felipe Izcaray,ser humano
-Buenos Aires,asentamiento
-Argentina,país
 Isaac Chocrón,ser humano
 Pynchas Brener,ser humano
 Dilia Díaz Cisneros,ser humano
-Universidad de Columbia,universidad
 Tyszówce,ciudad
 rabino,profesión
 El Hatillo,asentamiento
 Diliana Méndez,ser humano
 Dilson Torres,ser humano
 Diógenes Rivas,ser humano
-tirador,cinturón
 Academia Nacional de Santa Cecilia,conservatorio de música
 Braulio Salazar,ser humano
 Mariana Vega,ser humano
 Fernando Asián,ser humano
-Universidad de Toronto,universidad
 Premio Grammy Latino al mejor artista nuevo,distinción
-Madrid,ciudad
-historietista,profesión
 Pedro Antonio Ramos,ser humano
 Pedro Augusto Beauperthuy,ser humano
 Pedro Barrientos,ser humano
@@ -4941,7 +4444,6 @@ Eduardo Fernández (abogado venezolano),ser humano
 Bogotá,ciudad
 Universidad Externado de Colombia,universidad
 Premio Nadal,distinción
-Universidad de Georgetown,universidad
 Jesús Márquez,ser humano
 Jesús Paz Galarraga,ser humano
 Jesús Romero Anselmi,ser humano
@@ -4949,7 +4451,6 @@ Los Puertos de Altagracia,asentamiento
 Pompeyo Ramis,ser humano
 Porfirio Oropeza,ser humano
 Ismael Ramírez,ser humano
-Gerona,municipio
 filósofo,académico
 latinista,profesión
 Carlos Maya,ser humano
@@ -4957,7 +4458,6 @@ Robert Pérez,ser humano
 Teófilo Tortolero,ser humano
 Thirza Ruiz,ser humano
 San Sebastián de los Reyes,municipio
-botánico,biólogo
 Luis Benshimol,ser humano
 Yucef Merhi,ser humano
 Gaspar Marcano,ser humano
@@ -4966,7 +4466,6 @@ El Prieto,ser humano
 Eladio Lárez,ser humano
 Carmelo Lauría,ser humano
 Carmen Busquets,ser humano
-emprendedor,profesión
 Lorenzo González,ser humano
 Lorenzo Martínez de Madrid y González,ser humano
 Lotty Ipinza,ser humano
@@ -4974,15 +4473,10 @@ Panaquire,parroquia civil de Venezuela
 Cecilia Todd,ser humano
 Cesar Alberto Castro,ser humano
 Charyl Chacón,ser humano
-Lima,ciudad
 Gastón Parra Luzardo,ser humano
 Gustavo Ávila,ser humano
 Gerardo Budowski,ser humano
 Universidad del Zulia,universidad
-jockey,propiedad de Wikidata relacionada con la equitación
-Berlín,distrito
-ajedrecista,deportista
-Universidad Yale,universidad
 Milena Gimón,ser humano
 Mireya Kríspin,ser humano
 Mireya Tabuas,ser humano
@@ -5006,7 +4500,6 @@ Danilo León,ser humano
 Santos Dominici,ser humano
 Saúl Marin,ser humano
 Luis Maza,ser humano
-Sorbonne Universidad de París,universidad
 Pedro Boada,ser humano
 Pedro Cassiram,ser humano
 Pedro Emilio Coll,ser humano
@@ -5014,12 +4507,9 @@ columnista,periodista
 Gonzalo Parra-Aranguren,ser humano
 Lorenzo Mendoza Giménez,ser humano
 Guiomar Narváez,ser humano
-pianista,profesión
 Carlos González,ser humano
 Carlos Hernández,ser humano
 Carlos Alberto Hernández,ser humano
-director de fotografía,profesión
-Universidad de Miami,universidad
 Pilar Socorro,ser humano
 Isaac J. Pardo,ser humano
 Premio Nacional de Humanidades de Venezuela,distinción
@@ -5035,7 +4525,6 @@ dentista,profesión
 Igor Hernández,ser humano
 Alfredo del Mónaco,ser humano
 María Luisa Escobar,ser humano
-jugador de voleibol de playa,profesión
 Premio Tomás Luis de Victoria,distinción
 Daniel Arzola,ser humano
 David Smolansky,ser humano
@@ -5051,7 +4540,6 @@ Virginia Gil de Hermoso,ser humano
 Vladimir Gessen,ser humano
 Vladimir Vera,ser humano
 Víctor Drija,ser humano
-director de teatro,profesión
 Venevisión,emisora de televisión
 Luis Roche,ser humano
 Luis Rojas,ser humano
@@ -5083,52 +4571,30 @@ Cristina Umaña,ser humano
 Óscar Sevilla,ser humano
 Oscar Urbina Ortega,ser humano
 Oscar Álvarez,ser humano
-Bogotá,ciudad
-guionista,profesión
-Estados Unidos,país
 Encanto,álbum
 Armenia,país
 criminal,clase social
 Alemania,página de desambiguación de Wikimedia
 Cartel de Medellín,cartel
-Santa Marta,ciudad
-futbolista,jugador
-Suiza,página de desambiguación de Wikimedia
-Colombia,país
-Medellín,ciudad
-entrenador,profesión
 Cali,ciudad
 Barranquilla,ciudad
-escritor,profesión
 Premio Nacional de Periodismo Simón Bolívar,distinción
 Valledupar,ciudad
-actor,profesión
-modelo,propiedad
-Mérida,municipio
-periodista,profesión
-Venezuela,país
 Miss Universo 2009,edición de concurso de belleza
 Amalfi,comuna
 Universidad de los Andes,página de desambiguación de Wikimedia
 libro,documento
 Ibagué,ciudad
-taekwondista,deportista
 Villavicencio,ciudad
-abogado,profesión
 Universidad Autónoma de Colombia,universidad
 Departamento del Meta,departamento
 Albacete,municipio
-ciclista,deportista
-España,página de desambiguación de Wikimedia
 Arboledas,municipio
-sacerdote católico,presbítero
 Seminario Mayor de Bogotá,institución académica
-obispo auxiliar,cargo eclesiástico
 Antioquia,departamento
 Felipe González,ser humano
 Íngrid Betancourt,ser humano
 John Parra,ser humano
-Alfredo Di Stéfano,ser humano
 Leiton Jiménez,ser humano
 Lupe Fuentes,ser humano
 Edgar Rentería,ser humano
@@ -5148,30 +4614,18 @@ Gustavo Gómez Córdoba,ser humano
 Sevilla,municipio
 Universidad de Lovaina,universidad
 Fundación Alternativas,organización
-político,profesión
 Francia,estado
-Instituto de Estudios Políticos de París,universidad
 miembro de la Cámara de Representantes de Colombia,cargo
-Buenos Aires,asentamiento
 Gran Cruz de la Real Orden del Mérito Deportivo,grado de una orden
 Chocó,departamento
 Santa Cruz de Tenerife,municipio
 Fans of Adult Media and Entertainment Awards,pornographic film award
-beisbolista,deportista
-Guante de Oro,distinción
-ingeniero,profesión
-piloto de automovilismo,profesión
 Pereira,ciudad
 Zapatoca,municipio
-cardenal,clérigo católico
-compositor,músico
-cantante,músico
-Universidad Harvard,universidad
-Universidad de Georgetown,universidad
 Rionegro,página de desambiguación de Wikimedia
 director,Wikidata property to identify contributors to audiovisual works
 Istmina,municipio
-Manizales,ciudad de Colombia
+Manizales,ciudad
 Pontificia Universidad Javeriana,universidad
 Caracol Radio,emisora de radio
 Sofía Vergara,ser humano
@@ -5194,27 +4648,17 @@ Harold Reina,ser humano
 Álvaro Escobar-Molina,ser humano
 Álvaro Gómez,ser humano
 Álvaro Mejía,ser humano
-productor de cine,profesión
 American Broadcasting Company,cadena de televisión
 Buenaventura,página de desambiguación de Wikimedia
-actor de televisión,actor
 Anexo:Oso de Plata a la mejor interpretación femenina,distinción
-músico,profesión
-actor de teatro,oficio
-tenista,deportista
 Cúcuta,ciudad
 Candelaria,municipio
 Caloto,municipio
 Urumita,municipio
 Premio Grammy Latino por mejor álbum de cumbia/vallenato,distinción
-Cartago,ciudad
 Yumbo,municipio
-Ibarra,página de desambiguación de Wikimedia
-Ecuador,país
 El Cerrito,página de desambiguación de Wikimedia
-nadador,deportista
 Santa Rosa de Cabal,municipio
-médico,profesión
 Gabriel García Márquez,ser humano
 Fernando Botero,ser humano
 Soraya,nombre femenino
@@ -5236,21 +4680,15 @@ Enrique Santos Montejo,ser humano
 Élder Herrera,ser humano
 Consuelo González de Perdomo,ser humano
 Aracataca,municipio
-Universidad Nacional de Colombia,universidad
 El amor en los tiempos del cólera,obra literaria
-pintor,profesión
 El Gato de Raval,escultura
 Point Pleasant,página de desambiguación de Wikimedia
 Premio Grammy latino por mejor álbum cantautor,categoría de un premio
-Universidad del Rosario,universidad
 Universidad de Antioquia,universidad
 Armero,municipio
-estudiante,estudiante
 Delirio,entidad
-velocista,disciplina deportiva
 Chile,país
 Apartadó,municipio
-atleta,deportista
 El Tiempo,página de desambiguación de Wikimedia
 embajador de Colombia en Chile,cargo
 La nieve del almirante,obra literaria
@@ -5277,27 +4715,18 @@ Jaime Bermúdez Merizalde,ser humano
 Bruce Graham,ser humano
 Diego Salazar Quintero,ser humano
 John Jairo Culma,ser humano
-Universidad Estatal de Kansas,universidad
 The Elders,organización
 Universal Music Group,companía discográfica
 Carolina del Príncipe,municipio
-guitarrista,profesión musical
 Universidad Pontificia Bolivariana,universidad
 premio Grammy al mejor álbum de pop latino,distinción
 Tuluá,municipio
 Bojayá,municipio
-Palmira,ciudad
-Academia Estadounidense de las Artes y las Ciencias,sociedad erudita
-obispo católico,cargo eclesiástico
-Pontificia Universidad Gregoriana,universidad
 cardenal presbítero,cargo
 Jamundí,municipio
-Universidad de Columbia,universidad
 Canciller de Colombia,ministro
 La Cumbre,página de desambiguación de Wikimedia
-arquitecto,profesión
 Universidad Case de la Reserva Occidental,universidad
-halterófilo,atleta de fuerza
 Helena Araújo,ser humano
 Rodrigo Lara Bonilla,ser humano
 Carlos Alberto Sánchez,ser humano
@@ -5306,7 +4735,6 @@ Roberto Guerrero,ser humano
 Alejandra Azcárate,ser humano
 Jorge Aurelio Noguera Cotes,ser humano
 Jorge Eliécer Gaitán,ser humano
-Radamel Falcao García,ser humano
 César Ham,ser humano
 Carlos Valdés,ser humano
 Carlos Bacca,ser humano
@@ -5319,24 +4747,18 @@ Hernán Gaviria,ser humano
 Edwin García,ser humano
 Leopoldo Rother,ser humano
 Neiva,página de desambiguación de Wikimedia
-Universidad Externado de Colombia,universidad
 senador de Colombia,cargo
 Zúrich,ciudad
 Universidad de San Galo,universidad
 Universidad de Zúrich,universidad
-piloto de Fórmula Uno,profesión
 comediante,profesión
 alcalde de Bogotá,cargo público
 diputado del Congreso Nacional de Honduras,parlamentario
-Honduras,país
 Supía,municipio
 Salzburgo,ciudad
-antropólogo,profesión
-Austria,país
-Sorbonne Universidad de París,universidad
 Academia Nacional de Ciencias de los Estados Unidos,institución académica
 Carepa,municipio
-Breslavia,ciudad con derechos de distrito
+Breslavia,ciudad
 Eduardo Santos,ser humano
 Jacobo Arenas,ser humano
 Amparo Ángel,ser humano
@@ -5351,7 +4773,6 @@ Piedad Córdoba,ser humano
 Juan Pablo Suárez,ser humano
 Carlos Huertas,ser humano
 Pedro Alonso López,ser humano
-Augusto Barrera,ser humano
 Catalina Denis,ser humano
 Angelino Garzón,ser humano
 Gustavo Yacamán,ser humano
@@ -5361,27 +4782,17 @@ Academia Colombiana de Historia,sociedad erudita
 Bucaramanga,ciudad
 Fuerzas Armadas Revolucionarias de Colombia,movimiento guerrillero
 Popayán,ciudad
-pianista,profesión
 Almaguer,municipio
-geógrafo,profesión
-árbitro de fútbol,profesión
 Villa del Rosario,página de desambiguación de Wikimedia
-militar,profesión
-Colegio Mayor de San Bartolomé,colegio mayor
 Presidente de Colombia,presidente
-actor de cine,profesión
 Universidad EAFIT,universidad
 Tunja,ciudad
 Trine University,universidad
 Chigorodó,municipio
-ciclista de pista,profesión
 Venadillo,municipio
 asesino en serie,asesino
-Universidad Central del Ecuador,universidad
-Alcalde Metropolitano de Quito,cargo
 Buga,página de desambiguación de Wikimedia
 Universidad Jorge Tadeo Lozano,universidad
-Vicepresidente de Colombia,cargo
 Colegio Bolívar,escuela
 Cartagena de Indias,ciudad
 Wilson Zambrano,ser humano
@@ -5405,7 +4816,6 @@ José María Vargas Vila,ser humano
 Julián Atehortúa,ser humano
 Jaime de la Pava,ser humano
 Socorro,municipio
-obispo titular,cargo eclesiástico
 Montelíbano,municipio
 escritor de no ficción,profesión
 El Bagre,municipio
@@ -5413,7 +4823,6 @@ Universidad del Valle,universidad
 Santa Rosa de Osos,municipio
 Gobernador de Antioquia,cargo público
 Acandí,ciudad
-Universidad de Siracusa,institución educativa
 Academia Nacional de Educación,sociedad erudita
 Anexo:Bibliografía de José María Vargas Vila,bibliografía
 Salgar,municipio
@@ -5429,7 +4838,6 @@ José Barros,ser humano
 Guillermo Abadía Morales,ser humano
 Rigoberto Urán,ser humano
 Aldo Bobadilla,ser humano
-Christian Benítez,ser humano
 Lucho Bermúdez,ser humano
 Adolfo Mejía,ser humano
 Adolfo Valencia,ser humano
@@ -5439,23 +4847,17 @@ Nelson Rivas,ser humano
 Teófilo Gutiérrez,ser humano
 Santander de Quilichao,municipio
 Ituango,municipio
-obispo diocesano,cargo eclesiástico
 Tumaco,municipio
 Universidad del Cauca,universidad
 Londres,página de desambiguación de Wikimedia
-Reino Unido,país
 The Rolling Stones,grupo musical
 El Banco,municipio
-profesor universitario,profesión académica
 "Universidad Nacional de Colombia, Sede Bogotá",universidad
 Urrao,municipio
 Pedro Juan Caballero,ciudad
-Paraguay,país
 El Carmen de Bolívar,municipio
-Sucre,ciudad
 Premio Puskás,categoría de un premio
 Pradera,página de desambiguación de Wikimedia
-Futbolista del año en Sudamérica,distinción
 Kilian Virviescas,ser humano
 Manuel Mejía Vallejo,ser humano
 Andrés Orozco-Estrada,ser humano
@@ -5472,28 +4874,18 @@ Juan Pablo Villegas,ser humano
 Marco Yonier Pérez Murillo,ser humano
 Emma Claudia Castellanos,ser humano
 Cayetano Sarmiento,ser humano
-Ángel Oswaldo Fernández,ser humano
 Camilo Daza,ser humano
 Manolo Cardona,ser humano
 Francisco Zuluaga,ser humano
 Jericó,ciudad
-Premio Nadal,distinción
-director de orquesta,profesión
-Universidad de Música y Arte Dramático de Viena,universidad
 Prendedor de Honor por Servir a La Provincia de Austria Baja,orden
 Arjona,página de desambiguación de Wikimedia
-Nueva York,página de desambiguación de Wikimedia
 Ventachurrusca,municipio
 Yarumal,municipio
-diplomático,profesión
 Universidad de París X Nanterre,universidad
 Pácora,municipio
 Universidad La Gran Colombia,universidad
 Arcabuco,municipio
-Machala,ciudad
-Pamplona,municipio
-piloto de aviación,profesión
-realizador,profesión
 Oswaldo Guayasamín,ser humano
 Enrique Grau,ser humano
 Mariano Ospina Pérez,ser humano
@@ -5515,24 +4907,16 @@ Róbinson Zapata,ser humano
 Valdemar Franklin Quintero,ser humano
 Bernardo Tovar,ser humano
 La huelga,pintura
-Premio Eugenio Espejo,distinción
 Hochschule für Musik und Tanz Köln,universidad
 Chiquinquirá,municipio
-poeta,escritor
 Montería,ciudad
-boxeador,deportista
-escultor,profesión artística
-Beca Guggenheim,distinción
 Duitama,municipio
 Universidad Autónoma Latinoamericana,universidad
-participante en concursos de belleza,concurseante
 jugador de squash,deportista
 "Yo soy Betty, la fea",serie de televisión
 Anexo:TVyNovelas (Colombia) al mejor libretista de telenovela o serie,categoría de un premio
 Florida,estado
-tirador,cinturón
 Juventudes Socialistas de España,organización política juvenil
-Balón de Oro,distinción
 Miguel Antonio Caro Tobar,ser humano
 Rafael Reyes Prieto,ser humano
 José María Campo Serrano,ser humano
@@ -5555,18 +4939,11 @@ Luis Gabriel Rey,ser humano
 Andrés Felipe Ortiz,ser humano
 Academia Colombiana de la Lengua,organización
 Santa Rosa de Viterbo,página de desambiguación de Wikimedia
-empresario,ocupación
 "Por Colombia, por Ibero-América",obra escrita
-presidente,propiedad de Wikidata para elementos sobre organizaciones
 El Carmen de Viboral,municipio
 Segovia,ciudad
 Sopetrán,municipio
-modelo artístico,profesión
-Ciudad Bolívar,ciudad
-historiador,profesión
-dibujante,profesión
 Santa Bárbara,ciudad
-realizador de televisión,profesión
 José Castelblanco,ser humano
 Darwin Atapuma,ser humano
 Andrés Orozco,ser humano
@@ -5584,8 +4961,6 @@ Hernando Tovar,ser humano
 Francisco Maturana,ser humano
 José Eustasio Rivera,ser humano
 Fonseca,ser humano
-Carlos Valencia,ser humano
-Coraima Torres,ser humano
 Úmbita,municipio
 Túquerres,municipio
 San Andrés,municipio
@@ -5595,9 +4970,7 @@ embajador de Colombia en los Estados Unidos,cargo
 Girardot,municipio
 Rivera,página de desambiguación de Wikimedia
 Ministerio de Relaciones Exteriores de Colombia,ministerio de relaciones exteriores
-Berklee College of Music,universidad
 Cerrito,página de desambiguación de Wikimedia
-Valencia,ciudad componente
 Misael Pastrana Borrero,ser humano
 Juan Pablo Forero,ser humano
 Pontus Carlsson,ser humano
@@ -5615,20 +4988,15 @@ Alejandro Berrio,ser humano
 Juan Pablo Pino,ser humano
 Dúvier Riascos,ser humano
 Luis Fernando Suárez,ser humano
-Francisco Antonio Zea,ser humano
 Alfonso López Pumarejo,ser humano
 Giovanni Báez,ser humano
 embajador de Colombia,embajador
 Tabio,municipio
-ajedrecista,deportista
-Suecia,país
 Ginebra,página de desambiguación de Wikimedia
 Premios WGA,distinción
 San Mateo,personaje humano
-México,asentamiento
 Remedios,página de desambiguación de Wikimedia
 hora,unidad de tiempo
-Escuela de Economía y Ciencia Política de Londres,universidad
 Nobsa,municipio
 Néider Morantes,ser humano
 Wilber Varela,ser humano
@@ -5651,9 +5019,7 @@ Alberto Camargo,ser humano
 Oswaldo Henríquez,ser humano
 Jámison Olave,ser humano
 Roldanillo,municipio
-narcotraficante,contrabandista
 San Basilio de Palenque,centro poblado
-Schola Cantorum de París,institución académica
 Preludio,página de desambiguación de Wikimedia
 Cumbal,página de desambiguación de Wikimedia
 Cogua,municipio
@@ -5679,11 +5045,9 @@ Andrés Rentería,ser humano
 Gabriel París,ser humano
 Blas Emilio Atehortúa,ser humano
 Valparaíso,ciudad
-voleibolista,deportista
 Universidad de Misuri,universidad
 Briceño,página de desambiguación de Wikimedia
 Premio Grammy latino por mejor canción tropical,distinción
-baterista,profesión
 Colegio de Comando y Estado Mayor General del Ejército de los Estados Unidos,escuela de guerra
 Helmut Bellingrodt,ser humano
 Cien años de soledad,obra literaria
@@ -5708,7 +5072,6 @@ Wason Rentería,ser humano
 Estanislao Zuleta,ser humano
 Gabriel Chaves,ser humano
 Jaime Castrillón,ser humano
-traductor,propiedad de Wikidata para elementos sobre obras
 El ruido de las cosas al caer,obra literaria
 Putumayo,departamento
 Premio Grammy Latino a la grabación del año,distinción
@@ -5716,13 +5079,8 @@ Premio Grammy Latino al mejor álbum de música urbana,distinción
 Campo de la Cruz,municipio
 Subachoque,municipio
 Ferrocarril del Pacífico,empresa ferroviaria
-Filadelfia,comuna
 Universidad Atlántica de Florida,universidad
-matemático,profesión
-Universidad de Princeton,universidad
-Universidad de Fordham,universidad
 Municipio de Medellín,municipio
-economista,profesión
 Puerto Nare,municipio
 Antonio Mora Vélez,ser humano
 Antonio Panesso Robledo,ser humano
@@ -5745,8 +5103,6 @@ Arlinton Murillo,ser humano
 Armando Maldonado,ser humano
 Armando Nieves,ser humano
 Yolombó,municipio
-Universidad de Illinois,escuela
-funcionario,empleado público
 Ministro de Cultura de Colombia,cargo
 Gran Cruz de la Orden del Mérito Civil,grado de una orden
 Ocaña,página de desambiguación de Wikimedia
@@ -5774,14 +5130,9 @@ Antonio Rada,ser humano
 Antonio Julio de la Hoz,ser humano
 Aníbal Alzate,ser humano
 María La Baja,municipio
-baloncestista,deportista
 universidad de Houston,universidad
-artista visual,profesión artística
 Premio internacional de la Fundación Hasselblad,photography award
 Guaduas,municipio
-científico,profesión
-New York University Tisch School of the Arts,facultad universitaria
-esgrimista,deportista
 Sabanalarga,página de desambiguación de Wikimedia
 Arley Betancourth,ser humano
 Augusto Vargas Cortés,ser humano
@@ -5803,15 +5154,9 @@ Carlos Pizarro Leongómez,ser humano
 Carlos Rentería,ser humano
 Carolina Márquez,ser humano
 Fulgencio Zúñiga,ser humano
-Italia,país
 Condoto,municipio
-Esmeraldas,ciudad
-Universidad Metodista del Sur,universidad
-percusionista,profesión musical
 Valle del Cauca,departamento
 Dabeiba,municipio
-Universidad de Nueva York,universidad
-disc-jockey,músico
 Padilla,taxón
 Daniel Bluman,ser humano
 Daniel Caro Borda,ser humano
@@ -5841,7 +5186,6 @@ saltador,deportista
 romanista,profesión
 Diccionario de construcción y régimen de la lengua castellana,obra literaria
 Caibarién,ciudad
-Cuba,país
 Chaparral,página de desambiguación de Wikimedia
 Camilo Suárez,ser humano
 Hernando Casanova,ser humano
@@ -5863,17 +5207,12 @@ Carlos Alberto Mariño Sabogal,ser humano
 Carlos Albornoz Guerrero,ser humano
 Carlos Alfredo Suárez,ser humano
 Carlos Altafulla,ser humano
-Uruguay,país
 Ministro de Educación de Colombia,cargo
 Gobernador de Cesar,cargo público
 Caicedonia,municipio
-presentador de televisión,presentador
 San Antero,municipio
-Universidad Central de Venezuela,universidad
 Turbo,página de desambiguación de Wikimedia
 vendedor,profesión
-cantautor,profesión musical
-Carlos Sánchez,ser humano
 Carlos Toledo Plata,ser humano
 Carlos Urrutia,ser humano
 Carmelina Soto Valencia,ser humano
@@ -5895,13 +5234,10 @@ Ciro Arturo Pupo Castro,ser humano
 Clara Juliana Guerrero,ser humano
 Fredonia,página de desambiguación de Wikimedia
 El Charco,municipio
-luchador,ocupación
 Támesis,río
 Caldas,departamento
-York,ciudad
 Primera dama de Colombia,cargo
 Itagüí,municipio
-triatleta,deportista
 Barrancabermeja,municipio
 Universidad Santo Tomás,universidad
 jugador de bolos,deportista
@@ -5924,10 +5260,7 @@ Olga Elena Mattei,ser humano
 Mario Llanos,ser humano
 Pedro Camilo Franco,ser humano
 Pedro Portocarrero,ser humano
-piloto de motociclismo,deportista
-juez,propiedad de Wikidata relacionada con el derecho y la justicia
 San José de Pare,municipio
-fondista,profesión
 Arecibo,extended play
 Dagua,municipio
 Jorge Tadeo Lozano,ser humano
@@ -5961,36 +5294,15 @@ Boris España,ser humano
 Hernán Sandoval,ser humano
 Carlos Figueroa Ibarra,ser humano
 Guatemala,país
-escritor,profesión
-pintor,profesión
-Barcelona,ciudad
-España,país
-Sorbonne Universidad de París,universidad
-Universidad Nacional Autónoma de México,universidad
-periodista,profesión
-Columbia University Graduate School of Journalism,escuela de postgrado
 Mazatenango,municipio
-político,profesión
 Universidad Rafael Landívar,universidad
-Ciudad de Guatemala,ciudad
 Universidad de San Carlos de Guatemala,universidad
 Diputado del Congreso de Guatemala,parlamentario
-compositor,músico
-poeta,escritor
 Generación del 20,colectivo de artistas
-músico,profesión
-guitarrista,profesión musical
-nadador,deportista
 Retalhuleu,ciudad
-activista por los derechos humanos,activista
-Premio Right Livelihood,distinción
-violinista,profesión
 Guastatoya,ciudad
-futbolista,jugador
 Chiquimula,página de desambiguación de Wikimedia
-empresario,ocupación
 Escuela Agrícola Panamericana,universidad
-sociólogo,profesión
 Carlos Illescas,ser humano
 Carlos Lapola,ser humano
 Carlos Mercedes Vásquez,ser humano
@@ -6011,15 +5323,10 @@ Erwin Guillermo,ser humano
 Mario Monteforte Toledo,ser humano
 Luis de Lion,ser humano
 Fabián Rodríguez,ser humano
-Premio Xavier Villaurrutia,distinción
 Esquipulas,municipio
-antropólogo,profesión
 Universidad del Valle de Guatemala,universidad
 Ministro de Educación de Guatemala,cargo público
-actor,profesión
-deportista,profesión
 Chimaltenango,municipio
-fotógrafo,profesión
 Cobán,municipio
 Santa Catarina Mita,municipio
 ingeniero agrónomo,profesión
@@ -6046,22 +5353,13 @@ Edgar Aroldo Cotto Gonzalez,ser humano
 Edgar Chinchilla,ser humano
 Edgar Valencia,ser humano
 Eduardo Acevedo,ser humano
-San Marcos,página de desambiguación de Wikimedia
-dramaturgo,propiedad de Wikidata para elementos sobre obras
-México,asentamiento
-esgrimista,deportista
-guionista,profesión
 viceministro,cargo
 Coatepeque,página de desambiguación de Wikimedia
-tenista,deportista
-ajedrecista,deportista
 ajedrecista por correspondencia,ocupación
-Universidad Estatal de Florida,universidad
 Departamento de Retalhuleu,departamento
 San Pedro Carchá,municipio
 Departamento de Sololá,departamento
 Asunción Mita,municipio
-entrenador,profesión
 Epaminondas González Dubón,ser humano
 Eduardo López,ser humano
 Eduardo Suger,ser humano
@@ -6082,25 +5380,12 @@ Fabiola Rodas,ser humano
 Fabricio Benítez,ser humano
 Federico Urruela,ser humano
 Fernando Marroquin,ser humano
-juez,propiedad de Wikidata relacionada con el derecho y la justicia
 Magistrado de la Corte de Constitucionalidad de Guatemala,cargo
-Zúrich,ciudad
-físico,profesión
-San Salvador,ciudad
 Puerto Barrios,ciudad
 Santo Tomás de Castilla,ciudad
-arquitecto,profesión
-Argentina,país
 "Del amor, del dolor y del vicio",edición
-Estados Unidos,país
 Escuintla,página de desambiguación de Wikimedia
 Antigua Guatemala,ciudad
-cirujano,profesión
-Opus Dei,prelatura personal
-taekwondista,deportista
-atleta,deportista
-cantante,músico
-diplomático,profesión
 Luis Aceituno,ser humano
 Manuel León,ser humano
 Manuel Ángel Molina Bedoya,ser humano
@@ -6126,12 +5411,6 @@ Estanzuela,municipio
 Departamento de San Marcos,departamento
 Universidad Francisco Marroquín,universidad
 Monjas,municipio
-profesor universitario,profesión académica
-ciclista,deportista
-monja,ocupación religiosa
-bailarín,profesión
-sacerdote católico,presbítero
-obispo auxiliar,cargo eclesiástico
 Justo Rufino Barrios,ser humano
 Gert Rosenthal,ser humano
 Fernando Romeo Lucas García,ser humano
@@ -6152,15 +5431,11 @@ Julio César Méndez Montenegro,ser humano
 Jorge Serrano Elías,ser humano
 Guillermo Flores Avendaño,ser humano
 Luis Arturo González López,ser humano
-abogado,profesión
 presidente de Guatemala,cargo
 Ámsterdam,ciudad
-embajador,cargo
 San Juan Chamelco,municipio
 Escuela Politécnica,escuela de ingeniería
 vicepresidente de Guatemala,cargo
-árbitro de fútbol,profesión
-Premio Internacional a las Mujeres de Coraje,distinción
 San Andrés Itzapa,municipio
 Zacapa,municipio
 Jorge Roldán,ser humano
@@ -6183,15 +5458,10 @@ Willie Sims,ser humano
 Wylder Rodríguez,ser humano
 Ana Sofía Gómez,ser humano
 César Montes,ser humano
-modelo,propiedad
-participante en concursos de belleza,concurseante
-jugador de fútbol sala,jugador
+jugador de fútbol sala,deportista
 San Bernardino,página de desambiguación de Wikimedia
-voleibolista,deportista
-Canadá,país
 Universidad McGill,universidad
 Tegucigalpa,ciudad
-Honduras,país
 gimnasta artístico,profesión
 Jacobo Árbenz,ser humano
 Álvaro Arzú Irigoyen,ser humano
@@ -6213,18 +5483,8 @@ Franz Ippisch,ser humano
 Alfonso Portillo,ser humano
 Rigoberta Menchú,ser humano
 Elmar Rojas,ser humano
-Pontificia Universidad Gregoriana,universidad
-obispo diocesano,cargo eclesiástico
-obispo titular,cargo eclesiástico
-árbitro FIFA,cargo
-informático teórico,científico
-Universidad Carnegie Mellon,universidad
 Huehuetenango,ciudad
 autor,creador
-Beca Guggenheim,distinción
-Viena,ciudad
-Austria,país
-Universidad de Música y Arte Dramático de Viena,universidad
 Club de Roma,think tank
 Embajadores de las Naciones Unidas,cargo
 Sacatepéquez,ciudad
@@ -6248,17 +5508,10 @@ Erick Anguiano,ser humano
 Erwin Sperisen,ser humano
 Juan Gerardi,ser humano
 Otto René Castillo,ser humano
-badmintonista,deportista
-emprendedor,profesión
-Universidad Johns Hopkins,universidad
 relatoría especial de las Naciones Unidas,cargo
-Livingston,ciudad de Estados Unidos
+Livingston,ciudad
 Santiago de los Caballeros de Guatemala,ciudad
-Universidad de Salamanca,universidad
 jefe supremo del Estado de Guatemala,posición
-agente de policía,profesión
-Suiza,país
-Universidad Duke,universidad
 Francisco Javier Arana,ser humano
 José Javier del Águila,ser humano
 Juan Pablo Escobar López,ser humano
@@ -6280,19 +5533,12 @@ Abner Trigueros,ser humano
 Alejandra Barillas,ser humano
 Alejandro Galindo,ser humano
 Villa Canales,ciudad
-militar,profesión
 jefe del estado mayor,posición militar
-Universidad Estatal de Luisiana,universidad
 Sociedad Mont Pelerin,think tank
 Senahú,municipio
-Alemania,país
 Momostenango,municipio
-boxeador,deportista
-Premio Centroamericano de Literatura Rogelio Sinán,distinción
 Sipacate,municipio
-recolector de plantas,ocupación
 Escuela Nacional Central de Agricultura,institución educativa
-botánico,biólogo
 Carlos Castrillo,ser humano
 Carlos Estuardo Mérida,ser humano
 Carlos Peña,ser humano
@@ -6314,7 +5560,6 @@ Jessica Scheel,ser humano
 José Carlos Castillo,ser humano
 Juan José Ruiz,ser humano
 Jutiapa,página de desambiguación de Wikimedia
-profesor,educador
 Lucerna,ciudad
 medallista,profesión
 Luis Mendizábal,ser humano
@@ -6337,16 +5582,12 @@ Henry López,ser humano
 Minor López,ser humano
 Rafael Antonio Castellanos,ser humano
 Rafael Rodríguez Padilla,ser humano
-jurista,profesión
-pianista,profesión
 "obispo de Quetzaltenango, Los Altos",cargo eclesiástico
 Flores,página de desambiguación de Wikimedia
-Universidad de Oxford,institución educativa
 La Esperanza,asentamiento
 intérprete,contribuyente
 San Juan Comalapa,municipio
 Orden Nacional de la Legión de Honor,orden estatal
-luchador,ocupación
 Miguel Ángel Klee,ser humano
 Moisés Hernández,ser humano
 Nelson Morales,ser humano
@@ -6364,21 +5605,16 @@ Pedro Samayoa,ser humano
 Irma Flaquer,ser humano
 Isabella Escobar,ser humano
 Rafael Álvarez Ovalle,ser humano
-Rafael Hernández,comunidad en Puerto Rico
+Rafael Hernández,comunidad
 Rafael Vásquez Álvarez,ser humano
 Ramón Peralta,ser humano
 Dallas,ciudad
 Escuela Preparatoria Seagoville,escuela secundaria superior
 skater,profesión
-estudiante,estudiante
 remero,función laboral
 Mixco,ciudad
 Universidad George Mason,universidad
-editor,Wikidata property to identify contributors to creative works
-Miami,ciudad de Estados Unidos
-Universidad George Washington,universidad
 Boys,página de desambiguación de Wikimedia
-comediante,profesión
 Raphael Girard,ser humano
 Raquel Blandón,ser humano
 Renato Blanco,ser humano
@@ -6401,13 +5637,8 @@ Víctor Manuel Ayala,ser humano
 Víctor Muñoz (escritor),ser humano
 Martigny,ciudad
 Orden del Quetzal,orden
-Jalapa,página de desambiguación de Wikimedia
-Orden de Isabel la Católica,orden
 San Cristóbal Verapaz,ciudad
-yudoca,deportista
 Departamento de Zacapa,departamento
-académico,rango académico
-Morales,municipio
 Wendy Widmann,ser humano
 Wilber Caal,ser humano
 William Orbaugh,ser humano
@@ -6428,16 +5659,10 @@ Juan Andrés Rodríguez Silva,ser humano
 Juan Carlos Romero,ser humano
 Juan Francisco Reyes López,ser humano
 Juan José Gutiérrez Mayorga,ser humano
-Gran Cruz de la Orden de Isabel la Católica,grado de una orden
-tirador,cinturón
 Academia de Geografía e Historia de Guatemala,institución académica
 Poptún,municipio
-productor de televisión,profesional de medios
 Departamento de Jalapa,departamento
 ElPeriódico,periódico
-Premio María Moors Cabot,distinción
-jinete hípico,deportista
-director ejecutivo,propiedad de Wikidata para elementos sobre empresas
 Juan Mauricio Wurmser,ser humano
 Juan Montoya,ser humano
 Juan de Hernández,ser humano
@@ -6458,10 +5683,8 @@ Luis Flores Asturias,ser humano
 Luis Cardoza y Aragón,ser humano
 Luis Enrique Sam Colop,ser humano
 Luis Fernando García,ser humano
-Universidad de Virginia,universidad
 Sonsonate,ciudad
 Tiquisate,municipio
-Universidad de Misuri,universidad
 Casa de Dios,megaiglesia
 Cantel,municipio
 Universidad de Búfalo,universidad
@@ -6486,21 +5709,13 @@ Julia Guillermina Herrera Peña,ser humano
 Ana María Urruela de Quezada,ser humano
 María del Carmen Meléndez de Alonzo,ser humano
 Delia Quiñónez Castillo de Tock,ser humano
-artista,profesión
-activista por los derechos de las mujeres,activista
 Patzún,municipio
-columnista,periodista
-activista,ocupación
 músico de hip-hop,profesión musical
-novelista,escritor
-ministro de Relaciones Exteriores,cargo público
 Santiago de Chile,ciudad
-Chile,país
 Universidad de las Hamburguesas,institución educativa
 Montreal,ciudad
 videoartista,profesión
 academia van beeldende kunsten,institución académica
-lingüista,profesión
 conservador de museo,profesión
 historiador del arte,profesión
 crítico literario,profesión
@@ -6524,22 +5739,14 @@ Leonardo McNish,ser humano
 Cecilia Echeverría Falla,ser humano
 Eduardo de León,ser humano
 Andrea Villagrán,ser humano
-entomólogo,profesión
 Universidad Estatal de Arizona,universidad
-médico,profesión
 Todos Santos Cuchumatán,municipio
 Palín,municipio
-líder comunitario,cargo
 trabajador social,profesión
-sindicalista,activista
-ambientalista,profesión
 organizador comunitario,activista
-Universidad de California en Berkeley,institución educativa
-Universidad Harvard,universidad
 matrona,profesión sanitaria
 enfermero,profesión
 defensa,posición de fútbol
-filósofo,académico
 Facultad de Filosofía de la Pontificia Universidad de la Santa Cruz,facultad
 Henry Stokes,ser humano
 José Rafael Godoy,ser humano
@@ -6561,11 +5768,7 @@ Arabella Castro,ser humano
 Luis Enrique Monterroso,ser humano
 Mario Búcaro,ser humano
 José María Cofiño Valladares,ser humano
-escultor,profesión artística
-teólogo,profesión
 Avilés,concejo
-Universidad Complutense de Madrid,universidad
-actor de voz,Wikidata property to identify contributors to audiovisual works
 youtuber,creador de contenido
 mando,biblioteca de Python
 comunicador,ocupación
@@ -6598,10 +5801,7 @@ Isla Nublar,isla ficticia
 fiscal,cargo
 Sacapulas,municipio
 Premios Whitley,distinción
-agricultor,trabajador
-historiador,profesión
 Sociedad de Geografía de París,sociedad geográfica
-economista,profesión
 Pedro Zamora Castellanos,ser humano
 Josefina Alonso de Rodríguez,ser humano
 Edgar Juan Aparicio y Aparicio,ser humano
@@ -6623,11 +5823,9 @@ Roberto Aycinena Echeverría,ser humano
 Luis Beltranena Sinibaldi,ser humano
 José Edgardo Cal Montoya,ser humano
 genealogista,profesión
-geógrafo,profesión
 Totonicapán,ciudad
 pedagogo,profesión
 epigrafista,profesión
-agrónomo,profesión
 Universidad Pablo de Olavide,universidad
 Luis Antonio Díaz Vasconcelos,ser humano
 Teresa Fernández Hall de Arévalo,ser humano
@@ -6649,14 +5847,10 @@ Ivana Batchelor,ser humano
 Alejandro Enríquez,ser humano
 Lowsan Melgar,ser humano
 Adrián Lorenzo Fernández,ser humano
-dentista,profesión
 etnólogo,profesión
-ingeniero,profesión
 topógrafo,profesión
 Departamento de Guatemala,departamento
 productor musical,profesión
-traductor,propiedad de Wikidata para elementos sobre obras
-jugador de squash,deportista
 Tulio Omar Pérez Rivera,ser humano
 Octavio López Aguilar,ser humano
 Jorge Alfredo Lemcke Arévalo,ser humano
@@ -6678,12 +5872,9 @@ Gerson Barrios Garrido,ser humano
 Héctor Cana Rivera,ser humano
 Brandon Dávila,ser humano
 Ministerio de Relaciones Exteriores de Guatemala,ministerio de relaciones exteriores
-El Salvador,país
-Pontificia Universidad Javeriana,universidad
 Magistrado de la Corte Suprema de Justicia de Guatemala,cargo
 Fundación contra el Terrorismo,asociación voluntaria
 ministro de la Gobernación,ministro
-psicólogo,profesión
 Departamento de Baja Verapaz,departamento
 Raíces Perdidas,club
 Ministro de Finanzas Públicas,cargo público
@@ -6712,7 +5903,6 @@ Hugo Montoya,ser humano
 Matilda Noriega,ser humano
 Sammy Morales,ser humano
 Procurador de los Derechos Humanos de Guatemala,cargo público
-Nueva York,página de desambiguación de Wikimedia
 Aquí me quedo,película
 embajador en Canadá,embajador
 embajador en la República de Austria,embajador
@@ -6720,7 +5910,6 @@ Departamento de Petén,departamento
 Yupiltepeque,municipio
 vicario apostólico,cargo eclesiástico
 Grupo de Puebla,organización
-Universidad Pontificia de Salamanca,universidad
 Mario Méndez Montenegro,ser humano
 Gloria Hernández,ser humano
 Katheryn Patá,ser humano
@@ -6751,7 +5940,6 @@ Nebaj,yacimiento arqueológico
 Colegio de Abogados y Notarios de Guatemala,colegio
 ceramista,profesión
 curador,cargo
-biólogo,profesión
 Organización para las Mujeres en Ciencia para el Mundo en Desarrollo,asociación
 recolector científico,ocupación
 Universidad del Sureste de Noruega,universidad
@@ -6778,11 +5966,8 @@ Saturnino Rustrián,ser humano
 Selvyn Ponciano,ser humano
 Sergio Guevara,ser humano
 ingeniero civil,ingeniero
-criminal,clase social
-Universidad de Costa Rica,universidad
 pentatleta moderno,deportista
 Liga de estudiantes de arte de Nueva York,institución académica
-Gran Cruz de la Orden del Mérito Civil,grado de una orden
 Melchor de Mencos,ciudad
 Primera Dama de Guatemala,cargo
 Siebel Systems,empresa
@@ -6809,11 +5994,8 @@ Alfredo Mury,ser humano
 pentatleta,atleta
 Departamento de Santa Rosa,departamento
 La Labor,municipio
-París,ciudad
 Bayamo,ciudad
 Tapachula de Córdova y Ordóñez,ciudad
-Bex,gemeinde de Suiza
-Universidad de Pittsburgh,universidad
 Pedro Zamora Álvarez,ser humano
 Pepe Mollinedo,ser humano
 Manuel José Arce y Valladares,ser humano
@@ -6837,14 +6019,9 @@ Ricardo Rosales,ser humano
 "Ministro de Comunicaciones, Infraestructura y Vivienda",cargo público
 arqueólogo,profesión
 Universidad de Auburn,universidad
-"Universidad Nacional, Costa Rica",universidad
 Liceo Javier,escuela
-obispo católico,cargo eclesiástico
 San José,asentamiento
-dirigente deportivo,profesión
-Comité Olímpico Internacional,federación deportiva internacional
 campeón nacional,campeón
-luchador de artes marciales mixtas,profesión
 Luis Fuentes,ser humano
 Angelina Acuña,ser humano
 León Bilak Peritz,ser humano
@@ -6868,8 +6045,6 @@ Wilson Lalín,ser humano
 filatelista,coleccionista
 Chinique,municipio
 Premio Copé,distinción
-Universidad de Iowa,universidad
-Universidad Autónoma de Madrid,universidad
 Chicacao,municipio
 Luisa Ruano,ser humano
 Liwy Grazioso,ser humano
@@ -6895,10 +6070,7 @@ Escuela Nacional de Antropología e Historia,institución académica
 Universidad Galileo,universidad
 diseñador gráfico,profesión
 periodista freelance,profesión
-reportero,periodista
 periodista de prensa escrita,periodista
-fotoperiodista,periodista
-productor de cine,profesión
 activista por los derechos de las personas transgénero,activista
 activista LGBTI,activista
 Jacinto Rodríguez Díaz,ser humano
@@ -6939,42 +6111,19 @@ Henry Martínez,ser humano
 Benjamín Solís Menéndez,ser humano
 Bernardino Villalpando,ser humano
 Boris Pineda,ser humano
-San Salvador,ciudad
-entrenador,profesión
-El Salvador,país
-futbolista,jugador
-político,profesión
-Universidad de El Salvador,universidad
-luchador,ocupación
 Santa Tecla,página de desambiguación de Wikimedia
-escritor,profesión
-pintor,profesión
-antropólogo,profesión
-México,asentamiento
-abogado,profesión
-Academia Norteamericana de la Lengua Española,sociedad erudita
-científico,profesión
 Santa Ana,ciudad
-actor,profesión
 Jayaque,distrito
-compositor,músico
-Guatemala,país
-revolucionario,activista político
-Universidad Estatal de San Francisco,universidad
 Guazapa,entidad territorial administrativa
-boxeador,deportista
 Chalchuapa,asentamiento
 Talavera de la Reina,municipio
-obispo católico,cargo eclesiástico
 obispo de Cuba,cargo eclesiástico
-ajedrecista,deportista
 C. Gerardo Perla,ser humano
 Carlos Alberto Imery,ser humano
 Carlos Alberto Soriano,ser humano
 Carlos Artiga,ser humano
 Carlos Colón-Quintana,ser humano
 Carlos Ernesto García,ser humano
-Carlos Hernández,ser humano
 Carmen González Huguet,ser humano
 Medardo Gómez,ser humano
 Ciro Cruz Zepeda,ser humano
@@ -6989,20 +6138,10 @@ Domingo Antonio de Lara,ser humano
 Elena Gallegos Rosales,ser humano
 Eleonora Beatrice Carrillo Alamanni,ser humano
 Director de la Escuela Nacional de Artes Gráficas,cargo
-Premio Centroamericano de Literatura Rogelio Sinán,distinción
-periodista,profesión
 Universidad Baylor,universidad
-poeta,escritor
-deportista,profesión
-España,página de desambiguación de Wikimedia
-cacique,cargo
-León,municipio
 San Francisco Gotera,ciudad
 Zacatecoluca,ciudad
-tirador,cinturón
-primera dama,consorte
 primera dama o primer caballero de Costa Rica,cargo
-modelo,propiedad
 Anastasio Aquino,ser humano
 Lilian Mercedes Letona,ser humano
 Andrés Ignacio Menéndez,ser humano
@@ -7025,25 +6164,14 @@ Luis Ramírez Zapata,ser humano
 Norberto Huezo,ser humano
 Santiago Nonualco,distrito
 Turín,ciudad
-presidente de El Salvador,presidente
-Universidad de San Carlos de Guatemala,universidad
-activista por los derechos humanos,activista
 Usulután,página de desambiguación de Wikimedia
-Universidad de Chile,estación
 Nueva Orleans,ciudad
-diplomático,profesión
-Universidad de Zúrich,universidad
 Departamento de La Paz,página de desambiguación de Wikimedia
-La Unión,ciudad de Chile
+La Unión,ciudad
 San Vicente,municipio
-jefe supremo del Estado de El Salvador,presidente
-Barcelona,ciudad
 misionero,profesión
 Facultad de Filosofía y Teología Sankt Georgen,universidad
-Universidad Centroamericana José Simeón Cañas,universidad
 Bakersfield,ciudad
-Estados Unidos,país
-Universidad de California en Berkeley,institución educativa
 Departamento de Morazán,departamento
 "Gran Cruz, clase especial, del Mérito de La República Federal de Alemania",grado de una orden
 Jorge Lardé y Arthés,ser humano
@@ -7066,20 +6194,15 @@ Julia Díaz,ser humano
 Julio Tirso Molina,ser humano
 Héctor Canjura,ser humano
 Héctor Ávalos,ser humano
-arqueólogo,profesión
 Premio Casa de las Américas,distinción
 Jucuarán,distrito
 Segundo Vocal de la Junta de Fomento de San Salvador,cargo
 Lavadores,antiguo municipio de España
-sacerdote católico,presbítero
 San Miguel,arroyo
 Universidad del Salvador,universidad
-director,Wikidata property to identify contributors to audiovisual works
 Santa Rosa de Copán,ciudad
-presidente de Honduras,cargo público
 Suchitoto,distrito
 Departamento de Santa Ana,departamento
-Chitré,ciudad
 Cojutepeque,ciudad
 Ahuachapán,ciudad
 Lilian Serpas,ser humano
@@ -7102,22 +6225,9 @@ Mauricio Jiménez Larios,ser humano
 Medardo González,ser humano
 Melissa Mikec,ser humano
 Melitón Barba,ser humano
-locutor,profesión
 Viva la mañana El Salvador,programa de televisión
-Universidad Centroamericana,entidad desaparecida
-actor de teatro,oficio
-actor de televisión,actor
-Antigua Guatemala,ciudad
-sacerdote,clérigo
 San Esteban Catarina,distrito
-académico,rango académico
-oficial militar,profesión militar
-cantante,músico
-compositor de canciones,profesión musical
-Argentina,país
 Intendencia de San Salvador,intendencia indiana
-médico,profesión
-ministro de salud,cargo
 Instituto Salvadoreño de Cultura Hispánica,asociación voluntaria
 Ita Ford,ser humano
 Jacinta Escudos,ser humano
@@ -7139,22 +6249,13 @@ Lorenzo Zepeda,ser humano
 Vicente Gómez,ser humano
 Shawn Martin,ser humano
 Luis Chávez y González,ser humano
-Brooklyn,Distritos de la ciudad de Nueva York
-monja,ocupación religiosa
 Universidad Marymount Manhattan,universidad
-árbitro de fútbol,profesión
 Nápoles,apellido
 gobernador del Departamento de San Salvador,cargo público
 Pabellón de la Fama de los Compositores Latinos,salón de la fama
 Ministro de Relaciones Exteriores de El Salvador,ministro
-Gran Cruz de la Orden de Isabel la Católica,grado de una orden
-atleta,deportista
-halterófilo,atleta de fuerza
 Sonzacate,asentamiento
-Sonsonate,ciudad
 Diputado de El Salvador,cargo
-Honduras,país
-Managua,ciudad
 Departamento de Cuscatlán,departamento
 arzobispo de San Salvador,ordinario
 Alberto Villalta,ser humano
@@ -7177,11 +6278,8 @@ José María Rivas,ser humano
 Jaime Portillo,ser humano
 Joaquín Ventura,ser humano
 Jorge Vásquez,ser humano
-participante en concursos de belleza,concurseante
 Santiago de María,distrito
 El Congo,entidad territorial administrativa
-Los Ángeles,asentamiento
-Berlín,distrito
 Nicolás Aguilar y Bustamante,ser humano
 Francisco Machón Vilanova,ser humano
 Francisco Medrano,ser humano
@@ -7202,23 +6300,12 @@ Serafín Quiteño,ser humano
 Golda Marcus,ser humano
 Guillermo Antonio Parada,ser humano
 Guillermo Reynaldo Cortez,ser humano
-San Isidro,municipio
-agrónomo,profesión
 Premio Medioambiental Goldman,distinción
-jugador de fútbol playa,futbolista
-yudoca,deportista
-La Libertad,municipio
+jugador de fútbol playa,deportista
 Departamento de La Unión,departamento
-ministro de Educación,cargo
-Escuela Juilliard,institución educativa
-Beca Guggenheim,distinción
-escultor,profesión artística
 El Refugio,lugar designado por el censo en los Estados Unidos
 San Ignacio,comuna
 Nahuizalco,asentamiento
-nadador,deportista
-Universidad Estatal de Florida,universidad
-militar,profesión
 Fernando Llort Choussy,ser humano
 Marvin González,ser humano
 Luis Anaya,ser humano
@@ -7243,20 +6330,9 @@ grabador,profesión
 Liceo Salvadoreño,escuela
 Premio Nacional de Cultura,distinción
 San José Guayabal,distrito
-Montevideo,ciudad
-arquitecto,profesión
-Uruguay,país
-músico,profesión
 Chinameca,página de desambiguación de Wikimedia
-ingeniero,profesión
-Instituto de Tecnología de Georgia,universidad
-Cali,ciudad
-Colombia,país
 Jucuapa,distrito
-ciclista,deportista
-guionista,profesión
 Premio Goya a la mejor dirección,distinción
-artista,profesión
 Cleveland,entidad administrativa desaparecida
 Salón de la Fama de las mujeres de Ohio,distinción
 Carlos Meléndez Ramírez,ser humano
@@ -7281,21 +6357,11 @@ Consuelo de Saint-Exupéry,ser humano
 Agustín Farabundo Martí,ser humano
 Consejo Consultivo de Hacienda,órgano consultivo
 Fossano,comuna
-Italia,país
-cardenal,clérigo católico
-Universidad Harvard,universidad
-Orden de Isabel la Católica,orden
-obispo auxiliar,cargo eclesiástico
 Ilobasco,distrito
-Pontificia Universidad Gregoriana,universidad
 Fort Smith,ciudad
 Wellesley College,universidad
-Academia Estadounidense de las Artes y las Ciencias,sociedad erudita
-Universidad Estatal de Carolina del Norte,universidad
 senador de El Salvador,cargo
-Armenia,país
 Teotepeque,distrito
-activista político,ocupación
 Eliseo Salamanca,ser humano
 Elías Montes,ser humano
 Emerson Esnal Hernández,ser humano
@@ -7319,9 +6385,7 @@ Francisco Andrés Escobar,ser humano
 San Rafael Oriente,distrito
 Antiguo Cuscatlán,distrito
 Jiquilisco,distrito
-diseñador de moda,profesional
 Universidad de Tampa,universidad
-Mauricio Funes,ser humano
 Pío Romero Bosque,ser humano
 Manuel Enrique Araujo,ser humano
 Salvador Castaneda Castro,ser humano
@@ -7343,16 +6407,11 @@ Rafael Zaldívar,ser humano
 José Félix Quirós,ser humano
 Magistrado de la Corte Suprema de Justicia de El Salvador,cargo
 Alegría,distrito
-catedrático,profesor universitario
-Collar de la Orden de Isabel la Católica,grado
 diputado suplente,cargo
 Gran Cruz de la Orden Civil de Alfonso XII,grado de una orden
-Zacapa,municipio
 Inspector General del Ejército,cargo
 Izalco,asentamiento
 Juayúa,asentamiento
-embajador,cargo
-Caballero de Gran Cruz con collar de la Orden al Mérito de la República Italiana,grado de una orden
 El Divisadero,distrito
 San Alejo,distrito
 vicerrector,profesión
@@ -7379,11 +6438,8 @@ Jaime Abdul Gutiérrez Avendaño,ser humano
 Santa Elena,ciudad
 Chalatenango,página de desambiguación de Wikimedia
 Valladolid,municipio
-psicólogo,profesión
-Pontificia Universidad Javeriana,universidad
 Soyapango,distrito
 Concepción Batres,distrito
-Jesus Rojas,ser humano
 Ana Vilma Albanez de Escobar,ser humano
 Adolfo Arnoldo Majano,ser humano
 Rafael Menjívar Larín,ser humano
@@ -7403,15 +6459,8 @@ Alfonso Quijada Urías,ser humano
 Alfredo Betancourt,ser humano
 Alfredo Espino Najarro,ser humano
 Alfredo Ruano,ser humano
-Nicaragua,país
 Vicepresidente de El Salvador,cargo público
 Intipucá,distrito
-Instituto del Hemisferio Occidental para la Cooperación en Seguridad,escuela
-economista,profesión
-Sorbonne Universidad de París,universidad
-La Paz,ciudad
-arquero,profesión
-juez,propiedad de Wikidata relacionada con el derecho y la justicia
 Metapán,asentamiento
 Departamento de Ahuachapán,departamento
 Francisco Dueñas Díaz,ser humano
@@ -7440,20 +6489,11 @@ guerrillero,soldado
 Orden pro Merito Melitensi,orden
 Sensuntepeque,ciudad
 Gobierno de El Salvador,Gobierno
-matrona,profesión sanitaria
 Ozatlán,distrito
-marchador atlético,atleta
 Bilbao,municipio
 Universidad Politécnica de Madrid,universidad
-presidente,propiedad de Wikidata para elementos sobre organizaciones
-New Rochelle,ciudad de Estados Unidos
-reportero,periodista
-New York University Tisch School of the Arts,facultad universitaria
-estadista,político
-jefe supremo del Estado de Guatemala,posición
+New Rochelle,ciudad
 Premio Anna Seghers,distinción
-Árbitro asistente,oficial del partido
-obispo diocesano,cargo eclesiástico
 Raúl Alfredo Magaña,ser humano
 Maria Ortega,ser humano
 Héctor Dada Hirezi,ser humano
@@ -7474,11 +6514,8 @@ Rodolfo Parker,ser humano
 Manuel José de Arce y Fagoaga,ser humano
 Francisco de León,ser humano
 Julio Adolfo Rey Prendes,ser humano
-San José,ciudad
 Portugalete,ciudad
-Universidad Complutense de Madrid,universidad
 Choluteca,página de desambiguación de Wikimedia
-Presidente de Nicaragua,cargo público
 secretario general,propiedad de Wikidata para elementos sobre organizaciones
 presidente electo,cargo
 Vladimir Fernández Alfaro,ser humano
@@ -7506,11 +6543,8 @@ Universidad Católica de Lovaina,universidad
 Polorós,distrito
 Universidad de Toulouse,universidad
 Diputado,obra literaria
-Coatepeque,página de desambiguación de Wikimedia
-tenista,deportista
 Departamento de Comayagua,departamento
 Tonacatepeque,distrito
-Ciudad de Guatemala,ciudad
 Alcalde de San Salvador,cargo
 obispo de San Salvador,cargo eclesiástico
 José Matías Delgado,ser humano
@@ -7537,8 +6571,6 @@ Santa Rosa de Lima,página de desambiguación de Wikimedia
 Ilopango,volcán
 Alcalde mayor de Sonsonate,jefe del Gobierno
 obispo de Santiago de María,cargo eclesiástico
-baloncestista,deportista
-Universidad Estatal de California,universidad
 Gloria Salguero Gross,ser humano
 Miguel José de Castro y Lara,ser humano
 Miguel Tomás Murillo,ser humano
@@ -7560,11 +6592,7 @@ Irma Dimas,ser humano
 Nelson Rivera,ser humano
 Isidro Gutiérrez,ser humano
 Departamento de San Miguel,departamento
-alcalde,cargo público
-bailarín,profesión
-novelista,escritor
 Concepción Las Vueltas,distrito
-Universidad Rafael Landívar,universidad
 Academia Salvadoreña de la Lengua,institución académica
 Jamaica,país
 Moncagua,distrito
@@ -7585,15 +6613,10 @@ Roberto Cañas López,ser humano
 Roberto Galicia,ser humano
 Rodolfo Barón Castro,ser humano
 Roger Lindo,ser humano
-Román Mayorga Rivas,ser humano
 Roxana Webb,ser humano
 Ruz,página de desambiguación de Wikimedia
-Montreal,ciudad
 luchador de muay thai,profesión
-luchador de artes marciales mixtas,profesión
-Escuela Nacional de Antropología e Historia,institución académica
 Orden de las Palmas Magisteriales,orden
-caricaturista,profesión
 Salvador Infante,ser humano
 Santiago Ignacio Barberena Fuentes,ser humano
 Stanley Boggs,ser humano
@@ -7619,9 +6642,7 @@ Ohio,estado
 San Sebastián,municipio
 presbítero,sacerdote
 Colegio y Seminario Tridentino de Nuestra Señora de la Asunción,escuela secundaria
-presentador de televisión,presentador
 Acta de Independencia de Centroamérica,documento
-rector,educación
 Anselmo Paiz,ser humano
 Walter Thilo Deininger,ser humano
 Rodrigo Tona,ser humano
@@ -7645,11 +6666,8 @@ Johanna Toruño,ser humano
 Departamento de Chalatenango,departamento
 Presidente de la Asamblea Legislativa,cargo público
 Sololá,municipio
-emprendedor,profesión
 Orden Nacional José Matías Delgado,orden
-empresario,ocupación
 accionista,rol social
-defensa,posición de fútbol
 Barrio Concepción,barrio de El Salvador
 Ministro de Relaciones Exteriores y Justicia,cargo público
 Orden Civil de Alfonso X el Sabio,orden
@@ -7658,11 +6676,9 @@ Ministro de Instrucción Pública,ministro
 Presidente del Ateneo de El Salvador,presidente
 Decano de la Facultad de Ingeniería y Arquitectura de la Universidad de El Salvador,cargo
 centrocampista,posición de fútbol
-enfermero,profesión
 Medalla Florence Nightingale,medalla
 Fresno,ciudad
 farmacéutico,profesión sanitaria
-agricultor,trabajador
 cartelista,profesión
 Oscar Armando Hernández Morales,ser humano
 Ana María Dueñas,ser humano
@@ -7671,11 +6687,8 @@ Montavious Marc,ser humano
 Phoenix Mosley,ser humano
 Vanessa Núñez,ser humano
 Roxana Elena Méndez Arévalo,ser humano
-matemático,profesión
 Universidad de São Paulo,universidad
-investigador,profesional
 Universidad Federal de Paraná,universidad
-Universidad de Barcelona,universidad
 Berta Coralia Valle,ser humano
 Carlos Clará,ser humano
 Mario Dary Rivera,ser humano
@@ -7696,14 +6709,11 @@ Samuel Cleto Dawson Meza,ser humano
 Enriqueta Bonilla Portal,ser humano
 Oscar Gustavo Guerrero,ser humano
 Víctor Valencia,ser humano
-recolector de plantas,ocupación
 propagandista,profesión
 prisionero,estatus legal
-dibujante,profesión
 Ciudad Arce,entidad territorial administrativa
 Sesori,distrito
 Gobernador del Departamento de Ahuachapán,gobernador
-Chinandega,municipio
 impresor,trabajador calificado
 Director General de Correos,cargo
 Wilfredo Huezo,ser humano
@@ -7729,7 +6739,6 @@ Francisco Guevara,ser humano
 levantador de potencia,profesión
 Ayudante del Observatorio Meteorológico de El Salvador,cargo
 Universidad Evangélica de El Salvador,universidad
-Gran Cruz de la Orden del Mérito Civil,grado de una orden
 Ministro de Guerra y Fomento,ministro
 Ministro de lo Interior e Instrucción Pública,ministro
 Consejero de la Facultad de Jurisprudencia,miembro del consejo directivo
@@ -7738,7 +6747,6 @@ Ministro General,cargo
 República Federal de Centroamérica,estado
 Ingeniero de Caminos,ingeniero
 Consejero de la Facultad de Medicina y Cirugía,miembro del consejo directivo
-cirujano,profesión
 Director Suplente del Hospital Rosales y Cementerio de San Salvador,cargo
 Marvin Pleitez,ser humano
 Gustavo Villatoro,ser humano
@@ -7760,22 +6768,14 @@ Cristian Gil,ser humano
 Juan Bértis,ser humano
 Felipe Bértis,ser humano
 Guadalupe Malespín,ser humano
-profesor universitario,profesión académica
 Universidad Dr. José Matías Delgado,universidad
 Ministro de Justicia y Seguridad Pública,ministro
-director de cine,profesión
-Suiza,país
-Escuela Internacional de Cine y Televisión,escuela de cine
 Fly So Far,película
 militante,activista
-piloto de automovilismo,profesión
 Atiquizaya,distrito
 Barrio Santa Lucía,barrio
-historiador,profesión
 Manual de historia económica de El Salvador,libro
-Universidad Nacional Autónoma de México,universidad
 Apocalypto,película
-pianista,profesión
 Telecorporación Salvadoreña,conglomerado mediático
 Orden del Libertador de los Esclavos José Simeón Cañas,orden
 Instituto Politécnico y Universidad Estatal de Virginia,universidad
@@ -7801,16 +6801,12 @@ Juan Quinteros,ser humano
 Pauline Ovalle,ser humano
 Gobernador del Departamento de Usulután,gobernador
 artista plástico,profesión artística
-ceramista,profesión
 meteorólogo,profesión
 Universidad de Colorado en Boulder,universidad
-activista,ocupación
 Escuela Militar Fishburne,escuela
 Santa Cruz,municipio
-condado de Los Ángeles,condado de California
-Atlanta,ciudad
+condado de Los Ángeles,condado
 Mejicanos,entidad territorial administrativa
-San Francisco,ciudad
 José Roberto Dutriz,ser humano
 Alfredo Rivera,ser humano
 Alejandro Cotto,ser humano
@@ -7832,11 +6828,7 @@ Celia Medrano,ser humano
 Destiny Campbell,ser humano
 Vanessa Aguilar,ser humano
 Universidad Cristiana de Texas,universidad
-vicepresidente,cargo
-Buenos Aires,ciudad
-estudiante,estudiante
 Universidad Francisco Gavidia,universidad
-badmintonista,deportista
 Universidad del Este de Carolina,institución educativa
 Universidad de California en Irvine,universidad
 Raúl Antonio García,ser humano
@@ -7860,10 +6852,8 @@ Rubén Guevara,ser humano
 Rubén Quijada,ser humano
 Rubén Ignacio Zamora Rivas,ser humano
 Ciudad Delgado,entidad territorial administrativa
-West Lafayette,ciudad de Estados Unidos
-Universidad Purdue,universidad
+West Lafayette,ciudad
 Grupo Poma,negocio
-Escuela Preparatoria de North Hollywood,escuela
 Ministro de la Presidencia de El Salvador,ministro
 Rufina Amaya,ser humano
 Rúsvel Saravia,ser humano
@@ -7888,11 +6878,7 @@ Vicente Melgar,ser humano
 Pasaquina,distrito
 San Luis de la Reina,distrito
 Nueva Guadalupe,distrito
-Paraguay,país
 Universidad Brigham Young,universidad
-Universidad de Arizona,universidad
-velocista,disciplina deportiva
-Universidad Autónoma de Barcelona,universidad
 San Juan Opico,asentamiento
 Apopa,entidad territorial administrativa
 Santo Tomás,página de desambiguación de Wikimedia
@@ -7918,18 +6904,11 @@ Henrry Mejia,ser humano
 Rubén Licona,ser humano
 Efraín López,ser humano
 Tela,página de desambiguación de Wikimedia
-futbolista,jugador
-Honduras,país
-Santa Bárbara,ciudad
-entrenador,profesión
-Comayagua,página de desambiguación de Wikimedia
 San Pedro Sula,ciudad
 Villanueva,municipio
-Tegucigalpa,ciudad
 El Porvenir,página de desambiguación de Wikimedia
 Catacamas,municipio
 El Progreso,página de desambiguación de Wikimedia
-presidente,propiedad de Wikidata para elementos sobre organizaciones
 Universidad de Albany,universidad
 Primera Dama de Honduras,cargo
 José Santos Guardiola,ser humano
@@ -7956,20 +6935,11 @@ Emilio Umanzor,ser humano
 Emilson Cruz,ser humano
 Enrique Flores Lanza,ser humano
 Erick Andino,ser humano
-periodista,profesión
 Universidad de Phoenix,universidad
 Roatán,isla
-actor,profesión
 Brassavola de oro,distinción
-político,profesión
-vicepresidente,cargo
-Universidad de Notre Dame,universidad
-La Libertad,municipio
 Sonaguera,municipio
-activista por los derechos humanos,activista
-esgrimista,deportista
 Olanchito,municipio
-abogado,profesión
 Erick Martínez Ávila,ser humano
 Mary Flake de Flores,ser humano
 Ernesto Noel Aquino,ser humano
@@ -7992,16 +6962,8 @@ Gerson Rodas,ser humano
 Sami Kafati,ser humano
 Universidad Nacional Autónoma de Honduras,universidad
 Memphis,ciudad
-Estados Unidos,país
-Universidad Estatal de Luisiana,universidad
-empresario,ocupación
-Universidad de Texas en Austin,universidad
-diputado del Congreso Nacional de Honduras,parlamentario
 Santa Rosa de Aguán,municipio
-Universidad de Texas A&M,universidad
 Brus Laguna,municipio
-boxeador,deportista
-director de cine,profesión
 Ramón Rosa,ser humano
 Gilberto Machado,ser humano
 Felipe Bustillo,ser humano
@@ -8022,32 +6984,20 @@ Federico Ramírez,ser humano
 Gaby Flores,ser humano
 Gonzalo Guardiola,ser humano
 Hermán Allan Padgett,ser humano
-Universidad de San Carlos de Guatemala,universidad
 Juticalpa,ciudad
-La Esperanza,asentamiento
-compositor,músico
 Premio Nacional de Arte Pablo Zelaya Sierra,distinción
-Santa Rosa de Copán,ciudad
-diplomático,profesión
 Orden de la Cruz del Sur,orden
 Universidad de Boston,universidad
-botánico,biólogo
 Universidad de Colorado,universidad
-escritor,profesión
 Concepción de María,municipio
 La Lima,municipio
 La Unión,asentamiento
-juez,propiedad de Wikidata relacionada con el derecho y la justicia
-cantante,músico
-artista,profesión
-Departamento de Comayagua,departamento
 Departamento de El Paraíso,departamento
 Rafael Coello Ramos,ser humano
 Óscar Boniek García,ser humano
 Jimmy Stewart,ser humano
 José María Reyes Mata,ser humano
 Carlos Flores Facussé,ser humano
-Reinaldo Llanta,ser humano
 Fernando Bulnes,ser humano
 Donis Escober,ser humano
 Juan Lindo y Zelaya,ser humano
@@ -8065,19 +7015,9 @@ Policarpo Paz García,ser humano
 Comayagüela,entidad territorial administrativa
 Orden de Francisco Morazán,orden
 San Francisco de Yojoa,municipio
-médico,profesión
 Presidente del Congreso Nacional de Honduras,cargo
-Cali,ciudad
-Colombia,país
-Universidad del Valle,universidad
-San Ignacio,comuna
-España,país
-presidente de Honduras,cargo público
 Plaplaya,pueblo
 Ocotepeque,ciudad
-Universidad Humboldt de Berlín,universidad
-árbitro de fútbol,profesión
-Instituto del Hemisferio Occidental para la Cooperación en Seguridad,escuela
 Marcala,municipio
 Academia Militar de Honduras General Francisco Morazán,institución académica
 Goascorán,municipio
@@ -8102,14 +7042,9 @@ Javier Arnaldo Portillo,ser humano
 Javier Hernández Maradiaga,ser humano
 Javier Omar Martínez,ser humano
 Caridad,municipio
-pintor,profesión
 Sabanagrande,página de desambiguación de Wikimedia
 Dulce Nombre,página de desambiguación de Wikimedia
-arqueólogo,profesión
-Universidad Duke,universidad
-guionista,profesión
 Morolica,municipio
-nadador,deportista
 Óscar Andrés Rodríguez Maradiaga,ser humano
 Roberto Micheletti,ser humano
 Wilson Palacios,ser humano
@@ -8120,7 +7055,6 @@ Diego Vigil,ser humano
 Francisco Morazán,página de desambiguación de Wikimedia
 Julio Lozano Díaz,ser humano
 Saúl Martínez,ser humano
-César Ham,ser humano
 José de la Cruz Turcios y Barahona,ser humano
 Roger Rojas,ser humano
 Rafael López Gutiérrez,ser humano
@@ -8130,18 +7064,11 @@ Valeriu Marcu,ser humano
 Juan Ángel Arias,ser humano
 "Milton ""Chocolate"" Flores",ser humano
 José Justo Milla,ser humano
-obispo católico,cargo eclesiástico
 Universidad de Innsbruck,universidad
-cardenal,clérigo católico
 San Manuel,municipio
-Jutiapa,página de desambiguación de Wikimedia
 Universidad Nacional Autónoma de Nicaragua-León,universidad
-presidente de El Salvador,presidente
-Hong Kong británico,colonia
 Departamento de Colón,departamento
 Departamento de Choluteca,departamento
-sacerdote católico,presbítero
-obispo auxiliar,cargo eclesiástico
 Instituto Salesiano San Miguel,institución académica
 Bucarest,ciudad
 Rumania,país
@@ -8150,7 +7077,6 @@ Carlos Pavón Plumer,ser humano
 Emilio Izaguirre,ser humano
 Amado Guevara,ser humano
 Ramón Núñez,ser humano
-Florencio Xatruch,ser humano
 Oswaldo López Arellano,ser humano
 Wilmer Crisanto,ser humano
 Francisco Bertrand Barahona,ser humano
@@ -8165,16 +7091,13 @@ Carlos Céleo Arias López,ser humano
 Noel Jalladares,ser humano
 Ricardo Maduro,ser humano
 Enrique Ortez,ser humano
-Jugador Más Valioso de la Major League Soccer,Jugador Más Valioso
+Jugador Más Valioso de la Major League Soccer,deportista
 Escuela Preparatoria W. T. White,escuela secundaria superior
-Danlí,municipio
-Universidad de El Salvador,universidad
 San Francisco de Coray,municipio
 Departamento de Santa Bárbara,departamento
 Ceguaca,municipio
 Departamento de Intibucá,departamento
 Colegio Tridentino de Comayagua,institución
-Panamá,municipio
 Ministro de Relaciones Exteriores,cargo público
 Horacio Parham,ser humano
 Héctor Enrique Santos Hernández,ser humano
@@ -8196,21 +7119,14 @@ Ian Osorio,ser humano
 Luis Alberto Salgado López,ser humano
 Luis Landa Escober,ser humano
 Luis Lobo,ser humano
-obispo diocesano,cargo eclesiástico
 Gualala,página de desambiguación de Wikimedia
-farmacéutico,profesión sanitaria
 Yoro,página de desambiguación de Wikimedia
 Málaga,municipio
 Orden José Cecilio del Valle,orden
 Departamento de Olancho,departamento
-sacerdote,clérigo
 Gracias,ciudad
-narcotraficante,contrabandista
-Trujillo,estado
 Omoa,municipio
-voleibolista,deportista
 Cedros,página de desambiguación de Wikimedia
-Universidad de Chile,universidad
 Porfirio Lobo Sosa,ser humano
 Rafael Heliodoro Valle,ser humano
 Jorge Claros,ser humano
@@ -8230,11 +7146,8 @@ Francisco Inestroza,ser humano
 Crescencio Gómez Valladares,ser humano
 José María Medina,ser humano
 José Santiago Bueso Soto,ser humano
-Universidad de Miami,universidad
-Premio María Moors Cabot,distinción
 San Nicolás,comuna
 Jesús de Otoro,municipio
-La Paz,ciudad
 Universidad del Estado de Misisipi,universidad
 Universidad de Monterrey,universidad
 Academia Literaria de Tegucigalpa,institución académica
@@ -8284,11 +7197,7 @@ Néstor Matamala,ser humano
 Omar Elvir,ser humano
 Utila,isla
 activista social,actividad humana
-taekwondista,deportista
-San Marcos,página de desambiguación de Wikimedia
-Choluteca,página de desambiguación de Wikimedia
 Cholchol,comuna
-Chile,país
 Elvin Ernesto Santos Peña,ser humano
 Darwin Oliva,ser humano
 Jorge Arturo Reina,ser humano
@@ -8308,12 +7217,9 @@ José Güity,ser humano
 José Luis Fuentes,ser humano
 Luis Alfredo Ramírez,ser humano
 Marvin Sánchez,ser humano
-Universidad Nacional Autónoma de México,universidad
 Santa Cruz de Yojoa,municipio
-actor de cine,profesión
 Schlotheim,municipio
 Himno nacional de Honduras,himno nacional
-jugador de fútbol americano,jugador
 Escuela secundaria Thomas Richard Robinson,escuela secundaria superior
 Pontificia Universidad Lateranense,universidad
 José Piñeda,ser humano
@@ -8338,9 +7244,6 @@ José Francisco Milla Guevara,ser humano
 José Lino Matute,ser humano
 Ateneo Pontificio San Anselmo,universidad
 Sambo Creek,asentamiento
-velocista,disciplina deportiva
-piloto de aviación,profesión
-embajador,cargo
 Mario César Rodríguez,ser humano
 Marvin Brown,ser humano
 Milton Reyes,ser humano
@@ -8353,7 +7256,6 @@ Orlin Vallecillo,ser humano
 Quiarol Arzú,ser humano
 Reynaldo Pineda,ser humano
 Ricky Denis García,ser humano
-Rigoberto Gómez,ser humano
 Robel Bernárdez,ser humano
 Roberto Bailey,ser humano
 Rommel Murillo,ser humano
@@ -8362,12 +7264,8 @@ Víctor Coello,ser humano
 Manuel de Adalid y Gamero,ser humano
 Melvin Valladares,ser humano
 Arenal,página de desambiguación de Wikimedia
-modelo,propiedad
 Villa de San Francisco,municipio
-Guatemala,país
-Santa Fe,ciudad
 Departamento de Cortés,departamento
-participante en concursos de belleza,concurseante
 Ramón Ernesto Cruz Uclés,ser humano
 Cantarranas,asentamiento
 José Francisco Zelaya y Ayes,ser humano
@@ -8391,8 +7289,6 @@ Darwin Pacheco,ser humano
 David Daniel Álvarez,ser humano
 David Romero Ellner,ser humano
 San Antonio del Norte,municipio
-halterófilo,atleta de fuerza
-tirador,cinturón
 Tierra Blanca,asentamiento
 Sinuapa,municipio
 Orlando Bueso,ser humano
@@ -8419,18 +7315,11 @@ Rony Morales,ser humano
 Rony Padilla,ser humano
 Guarizama,municipio
 San Miguel Guancapla,municipio
-Universidad de São Paulo,universidad
-Ciudad de Panamá,ciudad
-Miami,ciudad de Estados Unidos
 Universidad Creighton,universidad
 personalidad de radio,profesión
-Boston,ciudad
 Siguatepeque,municipio
-Instituto Tecnológico y de Estudios Superiores de Monterrey,universidad
-atleta,deportista
 Victor Ariel Martinez Castro,ser humano
 Jose Alfredo Castillo Casanova,ser humano
-baloncestista,deportista
 Jose Rolando Argeñal Avelar,ser humano
 Sebastian Rodrigo Mc.Cormick Ayestas,ser humano
 Diego Andres Lopez Segura,ser humano
@@ -8471,18 +7360,10 @@ Johel Zelaya,ser humano
 Luis Santamaría Crisanto Peña,ser humano
 Júnior Costly,ser humano
 Dickinson College,college
-cineasta,artista
-productor de cine,profesión
 Langue,página de desambiguación de Wikimedia
-influencer,profesión
-dirigente deportivo,profesión
 Coyoles Central,asentamiento
-activista,ocupación
-economista,profesión
-Facultad Latinoamericana de Ciencias Sociales,instituto
 Banco Mundial,institución financiera internacional
 Reitoca,municipio
-arquitecto,profesión
 Universidad de San Pedro Sula,universidad
 Maribel Lieberman,ser humano
 Dixon Fermín Ramírez,ser humano
@@ -8505,7 +7386,6 @@ Surie Rivera,ser humano
 Lucia Canahuati,ser humano
 Ivanna Romero,ser humano
 Jutiquile,asentamiento
-emprendedor,profesión
 chocolatero,profesión
 San Jerónimo,municipio
 República Popular China,país
@@ -8550,7 +7430,6 @@ Linda Gabriela Martinez Alvarez,ser humano
 Lia Yolaniy Mariel Medina Zelaya,ser humano
 Maria Raquel Breve Cardona,ser humano
 Jinan Abdalah Funes,ser humano
-académico,rango académico
 Helen Williams,ser humano
 Erasmo Sierra,ser humano
 Machiel Ramon,ser humano
@@ -8590,11 +7469,7 @@ Lucila Estrada de Pérez,ser humano
 Jefryn Macías,ser humano
 Iliana Pineda,ser humano
 Luis Gustavo Araujo Rodriguez,ser humano
-activista LGBTI,activista
-El Salvador,país
 Sabá,municipio
-ciclista,deportista
-investigador,profesional
 Universidad Católica de Honduras,universidad
 Universidad Estatal de Maringá,universidad
 Marco Antonio Andino,ser humano
@@ -8636,10 +7511,6 @@ Edgardo Paz Barnica,ser humano
 Illich Guardiola,ser humano
 Joshua Nieto,ser humano
 José Rosario Bonano,ser humano
-Instituto de Tecnología de Georgia,universidad
-remero,función laboral
-actor de teatro,oficio
-actor de voz,Wikidata property to identify contributors to audiovisual works
 Chesed Sibaja,ser humano
 Deron Jasher Watler Brooks,ser humano
 Jose David Espinal Nuñez,ser humano
@@ -8681,8 +7552,6 @@ Héctor Castellanos,ser humano
 Armando Castro,ser humano
 Ángel Castro Rodríguez,ser humano
 Henry Clark,ser humano
-Escuela Agrícola Panamericana,universidad
-deportista,profesión
 Jimmy James Bailey,ser humano
 Gladys Bernarda Casco,ser humano
 Miguel Ángel Gámez,ser humano
@@ -8692,7 +7561,6 @@ David Matamoros Batson,ser humano
 Oscar Orlando Burgos,ser humano
 Carlos Gabriel Kattán,ser humano
 Sergio Arturo Castellanos,ser humano
-Washington D. C.,capital federal
 Alberto Chedrani,ser humano
 Wilfredo Bustillo Castellanos,ser humano
 Ana Julia García,ser humano
@@ -8756,7 +7624,6 @@ Pamela Vásquez,ser humano
 Clifford Laing,ser humano
 Iizzwa Medina,ser humano
 Selvin Laínez,ser humano
-San Lorenzo,ciudad
 tenista de mesa,deportista
 Brayan Velásquez,ser humano
 Henry Figueroa Alonzo,ser humano
@@ -8798,10 +7665,7 @@ José Zúñiga,ser humano
 Denis Suazo,ser humano
 neurólogo,médico especialista
 Departamento de Yoro,departamento
-astrónomo,científico
-Universidad Complutense de Madrid,universidad
 Unión Astronómica Internacional,organización
-Santa Ana,ciudad
 Denovan Torres,ser humano
 Celio Valladares,ser humano
 Miguel Andonie Fernández,ser humano
@@ -8823,13 +7687,10 @@ Miguel Morazán,ser humano
 Néstor Martínez Carrillos,ser humano
 Reinaldo Sánchez Rivera,ser humano
 Victoria,ciudad
-Universidad del Sur de California,universidad
 Premio Nacional de Literatura Ramón Rosa,distinción
 Yamaranguila,municipio
-militar,profesión
 Fornit,grupo musical
 Skokie,telefilme
-primera dama,consorte
 Héctor David García Osorio,ser humano
 Luis Alvarado,ser humano
 Selvin Castellanos,ser humano
@@ -8850,7 +7711,6 @@ Arnold Solórzano,ser humano
 José Francisco Valladares,ser humano
 Darixon Vuelto,ser humano
 Jorge Zaldívar,ser humano
-Pontificia Universidad Gregoriana,universidad
 Morazán,página de desambiguación de Wikimedia
 Víctor Zúniga,ser humano
 Porciano Ávila,ser humano
@@ -8894,10 +7754,8 @@ Esdras Amado López,ser humano
 José Barralaga,ser humano
 Leo Asís Paz,ser humano
 Lesvin Medina,ser humano
-San José,ciudad
 Choloma,municipio
 Lepaterique,municipio
-director de orquesta,profesión
 Nacaome,ciudad
 Marlon Escoto,ser humano
 Neida Sandoval,ser humano
@@ -8920,9 +7778,7 @@ Misael Ruíz,ser humano
 Osman Melgares,ser humano
 Pablo Arzú,ser humano
 San Matías,ciudad
-funcionario,empleado público
 Universidad Nacional de Agricultura,universidad
-luchador,ocupación
 Pedro Joel Vargas,ser humano
 Ricardo Elencoff,ser humano
 Robbie Matute,ser humano
@@ -8943,7 +7799,6 @@ Fanny Rodríguez,ser humano
 David Meza,ser humano
 Wendy Umanzor,ser humano
 Waleska Diaz,ser humano
-yudoca,deportista
 San Francisco de Becerra,municipio
 Carlos Urbizo,ser humano
 Rigoberto Paredes,ser humano
@@ -8969,52 +7824,35 @@ Compay Segundo,ser humano
 Ibrahim Ferrer,ser humano
 Dave Lombardo,ser humano
 La Habana,página de desambiguación de Wikimedia
-actor,profesión
 Cuba,Cuba
-cantante,cantante
-compositor,compositor
 director de orquesta,director de orquest
 Cumanayagua,municipio
 escritor,escritor
 Francia,Francia
 Sagua la Grande,Sagua la Grande
 novelista,novelista
-Estados Unidos,asentamiento
-Universidad Estatal de Florida,universidad
-Lima,ciudad
-Universidad Nacional Mayor de San Marcos,universidad
 Cienfuegos,Cienfuegos
-yudoca,yudoca
 Santa Clara,isla
 ciclista de pista,deportista
 Camagüey,Camagüey
 atleta,atleta
 Italia,Italia
 Sancti Spíritus,página de desambiguación de Wikimedia
-tirador,cinturón
-España,página de desambiguación de Wikimedia
-economista,profesión
-Santiago de Cuba,ciudad
 Gibara,Gibara
 guionista,guionista
 Tres tristes tigres,obra literaria
-Premio Miguel de Cervantes,distinción
 militar,militar
-Universidad de La Habana,universidad
 diputado de la Asamblea Nacional del Poder Popular de Cuba,diputado de
 provincia de Guantánamo,provincia
-boxeador,boxeador
 Orden Olímpica de Plata,grado de una orden
 Aguas Claras,página de desambiguación de Wikimedia
 Antes que anochezca,película
-Beca Guggenheim,distinción
 entrenador,entrenador
 "Malabana, (película de 2001)",película
 Dúo Los Compadres,dúo musical
 San Luis,San Luis
 Buena Vista Social Club,página de desambiguación de Wikimedia
-premio Grammy al mejor álbum latino tropical,categoría de un premio
-baterista,baterista
+baterista,músico
 Slayer,banda de heavy metal
 Federico Laredo Brú,ser humano
 Abel Prieto,ser humano
@@ -9037,7 +7875,6 @@ Conrado Pérez,ser humano
 Ruperto Herrera Tabio,ser humano
 Juan Domecq,ser humano
 San Juan de los Remedios,asentamiento
-abogado,profesión
 Presidente de Cuba,jefe de Estado
 Pinar del Río,Pinar del R
 Unión de Escritores y Artistas de Cuba,asociación cultural
@@ -9047,8 +7884,6 @@ Provincia de Villa Clara,provincia
 terrorista,delincuente
 Agencia Central de Inteligencia,Agencia Central de
 Bayamo,Bayamo
-Premio Tomás Luis de Victoria,distinción
-baloncestista,deportista
 Las Villas,página de desambiguación de Wikimedia
 Salón de la Fama FIBA,distinción
 Celia Cruz,ser humano
@@ -9061,7 +7896,6 @@ Mongo Santamaría,ser humano
 Wifredo Lam,ser humano
 Daniel Núñez,ser humano
 Vilma Espin Guillois,ser humano
-Tomás Regalado,ser humano
 Chelo Alonso,ser humano
 Pedro Juan Gutiérrez,ser humano
 José Carlos Somoza,ser humano
@@ -9076,15 +7910,12 @@ Premio Lo Nuestro a la Excelencia,categoría de un premio
 Advisory Council,concejo
 embajador,rango diplomático
 Centro de Educación Artística,institución educativa
-ajedrecista,ajedrecista
 actor de televisión,actor de televisión
 Medalla de Victoria Segunda Guerra Mundial,United States service medals of the world wars
 Premio Billboard Salón de la Fama,distinción
 dibujante arquitectónico,dibujante ar
 Academia Nacional de Bellas Artes San Alejandro,institución académica
-halterófilo,halterófil
 ingeniero,ingeniero
-Instituto Tecnológico de Massachusetts,universidad
 Premio Lenin de la Paz,distinción
 político,político
 Secundaria Immaculata-Lasalle,escuela secundaria superior
@@ -9092,18 +7923,13 @@ alcalde de Miami,alcalde de
 Matanzas,Matanzas
 El Rey de La Habana,película
 psiquiatra,profesión
-Universidad Complutense de Madrid,universidad
 La caverna de las ideas,obra escrita
 Guantánamo,Guantánamo
 Premio Rodolfo Walsh,distinción
 escultor,artista visual
-Universidad de Iowa,universidad
 Premio de Roma,distinción
 College de Brooklyn de la Universidad de la Ciudad de Nueva York,institución educativa
-cantante de ópera,profesión musical
-voleibolista,deportista
 jugador de voleibol de playa,ocupación
-Nueva York,página de desambiguación de Wikimedia
 premio Grammy a la mejor grabación latina,categoría de un premio
 Maritza Arribas Robaina,ser humano
 Román Hernández Onna,ser humano
@@ -9126,8 +7952,7 @@ Moisés Simons,ser humano
 Emilio Correa,ser humano
 Armando Hart Dávalos,ser humano
 Marianao,municipio
-Dorog,ciudad en Hungría
-sacerdote católico,presbítero
+Dorog,ciudad
 Hungría,álbum
 Arroyo Naranjo,municipio
 espía,espía
@@ -9137,7 +7962,6 @@ gimnasta artístico,gimnasta art
 Universidad de Tulsa,universidad
 provincia de Matanzas,provincia
 Bahía Honda,página de desambiguación de Wikimedia
-Universidad de Miami,universidad
 San Germán (Holguín),asentamiento
 El manisero,obra de composición musical
 ministro de Cultura,ministro de Cult
@@ -9158,28 +7982,19 @@ Mayra Verónica,ser humano
 Mel Martínez,ser humano
 Yarianna Martínez,ser humano
 Yanet Cruz,ser humano
-Beatriz Valdés,ser humano
 Antonio Sánchez de Bustamante y Sirvén,ser humano
 Carmen Valdés,ser humano
 Rudy Sarzo,ser humano
 San Antonio de los Baños,ciudad
 Barry University,universidad
-obispo auxiliar,cargo eclesiástico
 gobernador real de La Florida,gobernador real
 Real y Militar Orden de San Fernando,orden
 Jagüey Grande,Jagüey Grande
-obispo diocesano,cargo eclesiástico
 Comandante de la Orden Nacional de la Legión de Honor,Comendador
-velocista,disciplina deportiva
 lanzador de martillo,lanzador de mart
-saltador,saltador
-México,asentamiento
-Premio Xavier Villaurrutia,distinción
 Secretario de Vivienda y Desarrollo Urbano de los Estados Unidos,ministro
 Jiguaní,Jiguaní
-beisbolista,deportista
 lanzador de jabalina,lanzador de jab
-actor de teatro,oficio del teatro
 científico,científico
 Corte Permanente de Arbitraje,Corte Perman
 San José de las Lajas,ciudad
@@ -9208,18 +8023,15 @@ Rita Marley,ser humano
 Real Conservatorio Superior de Música de Madrid,Real Conservatorio Superior
 percusionista,percusionista
 Nuevitas,ciudad
-médico,profesión
 El Cerro,municipio
 Premio Sájarov,distinción
 Media Luna,Media Luna
 La Lisa,municipio
 Tierra inerme,obra literaria
-Premio Casa de las Américas,distinción
 Guanabacoa,municipio
-pianista,pianista
+pianista,músico
 Conservatorio Carlos Alfredo Peyrellade,conservatorio de música
 Yaguajay,municipio
-juez,propiedad de Wikidata relacionada con el derecho y la justicia
 I Threes,grupo musical
 Alejo Carpentier,ser humano
 Mirta Yáñez,ser humano
@@ -9250,19 +8062,15 @@ aristócrata,aristócrata
 Luxemburgo,país
 Universidad de Ginebra,universidad
 Gran Duquesa Consorte de Luxemburgo,cargo
-empresario,ocupación
 Escuela de Ballet estadounidense,Escuela de Ballet
 Giselle,obra dramático-musical
-Neuilly-sur-Seine,comuna francesa
+Neuilly-sur-Seine,comuna
 autobiógrafo,biógrafo
-Academia Estadounidense de las Artes y las Letras,institución académica
-Premio Azorín,distinción
 mediofondista,mediofondista
-director de cine,profesión
 Universidad Internacional de Florida,universidad
 Estrella del Paseo de la Fama de Hollywood,distinción
 Limonar,municipio
-saltador de altura,saltador de altura
+saltador de altura,deportista
 Premio Princesa de Asturias de los Deportes,distinción
 Hannover,capital de estado federado
 emprendedor,emprendedor
@@ -9281,7 +8089,6 @@ Luis Manuel Rodríguez,ser humano
 Luis Felipe Martínez,ser humano
 Guillermo Moncada,ser humano
 Fernando Pérez Valdés,ser humano
-Jesús Díaz,ser humano
 Michel López Núñez,ser humano
 Pedro Pablo Pérez,ser humano
 Nicolás Guillén,ser humano
@@ -9294,16 +8101,15 @@ Adelquis Remón Gay,ser humano
 Ciudad de Gerona,ciudad
 Xavier Cugat & His Waldorf-Astoria Orchestra,grupo musical
 Creu de Sant Jordi,cruz de término
-luchador,luchador
+luchador,deportista
 Artemisa,deidad
 Medalla Presidencial de la Libertad,condecoración civil
 Isla de la Juventud,isla
 Suiza,Suiza
 senador de la República,senador de la
 Premio Nacional de Cine de Cuba,distinción
-ciclista,deportista
 Orden de la Bandera Roja del Trabajo,orden
-Yonkers,ciudad del estado de Nueva York
+Yonkers,ciudad
 Unión de Reyes,municipio
 autor,propiedad de Wikidata
 Rafael Freyre,ciudad
@@ -9328,15 +8134,12 @@ Robert Alfonso,ser humano
 Adriana Muñoz,ser humano
 Mirka Francia,ser humano
 embajador de Cuba,embajador
-Universidad de Columbia,universidad
-Universidad de California en San Diego,universidad
 poeta,poeta
 Grupo de Experimentación Sonora del ICAIC,grupo musical
 Universidad de Concepción,universidad
 Birán,Birán
 astronauta,científico
 Fuerza Aérea de Cuba,fuerza aérea
-Caibarién,ciudad
 Collar de la Orden de Isabel la Católica,grado de una orden
 Paradiso,gemeinde de Suiza
 Las Tunas,Las Tunas
@@ -9362,26 +8165,23 @@ Luis F. de Armas,ser humano
 Yoel Romero,ser humano
 Virgilio Piñera,ser humano
 Marburgo,página de desambiguación de Wikimedia
-naturalista,científico
 Universidad de Marburgo,universidad
 Holguín,Holguín
 bailarín de ballet,bailarín de
-Reino Unido,país
 Escuela Nacional de Ballet,escuela
 Ballet Real,compañía de ballet
 Amancio,ser humano
-músico de jazz,músico de jazz
 Mayarí,Mayarí
 esgrimista,esgrimista
 Agnostic Front,grupo de punk
 Porno para Ricardo,grupo musical
 Ferrol,municipio
 alcalde de Culleredo,cargo público
-Poltava,Ciudad
+Poltava,ciudad
 Rusia,país
 aracnólogo,profesión
 Instituto de Ecologia y Sistemática,instituto de investigación
-luchador de artes marciales mixtas,luchador de
+luchador de artes marciales mixtas,deportista
 músico,músico
 Leonardo Padura Fuentes,ser humano
 Jorge Aguilera,ser humano
@@ -9407,14 +8207,10 @@ Frank País,ciudad
 Clase Nimitz,clase naval
 America's Funniest Home Videos,serie de televisión
 Roma,ciudad
-Escuela Juilliard,institución educativa
 La Palma,La Palma
 Escuela del Louvre,institución educativa universit
-Universidad de California en Los Ángeles,universidad
-Santana,página de desambiguación de Wikimedia
 Herradura,Herradura
-Gerona,municipio
-violinista,violinista
+violinista,músico
 Xavier Cugat y su Orquestra,grupo musical
 Ileana Ros-Lehtinen,ser humano
 Silvia Chivás,ser humano
@@ -9436,22 +8232,17 @@ José Ignacio Rivero,ser humano
 José Guerra,ser humano
 Luis Alberto Pérez-Rionda,ser humano
 Yumilka Ruíz,ser humano
-miembro de la Cámara de Representantes de los Estados Unidos,legislador
 Manzanillo,Manzanillo
 Medalla de Servicio por la Democracia,distinción
 Palma Soriano,ciudad
 Movimiento 26 de Julio,organización política
-Rosario,municipio
 guerrillero,guerrillero
-Universidad de Buenos Aires,universidad
 La guerra de guerrillas,obra literaria
-saltador de pértiga,saltador de pé
-vallista,vallista
+saltador de pértiga,deportista
+vallista,deportista
 Moa,Moa
 "Gran Cruz, clase especial, del Mérito de La República Federal de Alemania","Gran Cruz, clase"
-periodista,profesión
 Diario de la Marina,diario
-Premio María Moors Cabot,distinción
 Comité Olímpico Internacional,organización
 César Évora Diaz,ser humano
 Pedro Moreno,ser humano
@@ -9481,12 +8272,8 @@ Gobernantes de Nuevo León,cargo público
 cantautor,cantautor
 Vigo,municipio
 Consolación del Sur,municipio
-Salsa Giants,grupo musical
-Instituto Tecnológico y de Estudios Superiores de Monterrey,universidad
 Secretario de Comercio de los Estados Unidos,ministro de Comercio
 Universidad Thomas Jefferson,universidad
-Orden Nacional de la Legión de Honor,orden estatal
-Morón,página de desambiguación de Wikimedia
 Yordany Álvarez,ser humano
 Juan Miguel Miranda Ramírez,ser humano
 Aureliano Sánchez Arango,ser humano
@@ -9507,12 +8294,10 @@ Miguel Mariano Gómez,ser humano
 Carlos Mendieta,ser humano
 Carlos Hevia,ser humano
 Alfredo Zayas y Alfonso,ser humano
-futbolista,jugador
 Instituto de Música Curtis,institución educativa
 Premios Grammy,distinción
 balonmanista,deportista
 productor discográfico,productor discográf
-International Latin Music Hall of Fame,distinción
 Universidad Cornell,universidad
 Vueltas,asentamiento
 Academia Naval de los Estados Unidos,institución educativa pública
@@ -9537,7 +8322,6 @@ René Portocarrero,ser humano
 Hermano León,ser humano
 Driulis González Morales,ser humano
 Eliseo Reyes Rodríguez,ser humano
-Barcelona,ciudad
 Owatonna,ciudad
 Universidad de Nebraska-Lincoln,universidad
 provincia de La Habana,provincia
@@ -9547,8 +8331,7 @@ Cruz de Oficial de la Orden del Mérito de la República Federal de Alemania,con
 Irakere,grupo musical
 Embajador de Buena Voluntad,título honorífico
 Rodas,Rodas
-ilustrador,profesión
-Arbois,comuna francesa
+Arbois,comuna
 recolector de plantas,recolector de plant
 Álex Acuña,ser humano
 Gonzalo Roig,ser humano
@@ -9579,7 +8362,6 @@ Ministry,página de desambiguación de Wikimedia
 Majagua,Majagua
 Cacocum,Cacocum
 Academia Militar Mijaíl V. Frunze,institución académica
-Academia de Artes y Ciencias Cinematográficas,film academy
 Premios Saturn,distinción
 Los Zafiros,Los Zafiros
 María Teresa Mora Iturralde,ser humano
@@ -9602,20 +8384,16 @@ Pío Leyva,ser humano
 Nilo Cruz,ser humano
 Paquito D'Rivera,ser humano
 Julia Emilia Valdés Borrero,ser humano
-luchador profesional,luchador profesional
 artista,artista
-Liga de estudiantes de arte de Nueva York,institución académica
 profesor de educación física,profesor de educ
 Instituto Técnico Militar,escuela
 Premios Emmy,distinción
 Bejucal,municipio
-profesor,educador
 Middlebury College,universidad
 alcalde,alcalde
 Cobra,tipo de coche de tranvía
 pintor,pintor
 Salón de la fama de Wrestling Observer Newsletter,distinción
-Universidad Brown,universidad
 líder de banda,líder de banda
 Eglise Gutiérrez,ser humano
 Eladio Valdés,ser humano
@@ -9639,12 +8417,10 @@ Emilio Palmero,ser humano
 Emilio Palomino,ser humano
 Escuela Secundaria Coral Gables,escuela secundaria superior
 Escuela de Música Frost,escuela de música
-activista por los derechos humanos,activista
 Escuela Secundaria Mayor de Miami Beach,escuela secundaria superior
 Omara Portuondo,ser humano
 "Marymount School, Nueva York",escuela
 Embajadores de las Naciones Unidas,título de autoridad
-Medalla de Oro al Mérito en las Bellas Artes,distinción
 Yesenia Centeno,ser humano
 Issac Delgado,ser humano
 Michael Aris,ser humano
@@ -9665,19 +8441,16 @@ Yordenis Ugás,ser humano
 Celso Golmayo Zúpide,ser humano
 Francisco Ferreras,ser humano
 Carlos Bringuier,ser humano
-maratonista,maratonista
+maratonista,deportista
 Premio Grammy latino por mejor álbum tropical tradicional,distinción
-Canadá,parada de autobús
 Escuela de Estudios Orientales y Africanos,universidad
 St John's College,St John's College
 Melena del Sur,ciudad
 Minas,página de desambiguación de Wikimedia
 Songo,Songo
-luchador de muay thai,profesión
 Cifuentes,municipio
 Orden al Mérito de Chile,orden
 Logroño,municipio
-nadador,nadador
 apneísta,apneísta
 Lourdes Rensoli,ser humano
 Lucía Hechavarría Schwesinger,ser humano
@@ -9699,10 +8472,7 @@ Magdalena Peñarredonda,ser humano
 Maite Díaz González,ser humano
 Manuel Almagro Urrutia,ser humano
 Manuel Aranaz Castellanos,ser humano
-conservador de museo,profesión
-profesor universitario,profesión académica
 Guayaquil,Guayaquil
-Universidad Pontificia de Salamanca,universidad
 El Cobre,página de desambiguación de Wikimedia
 Punta Alegre,página de desambiguación de Wikimedia
 Premio Alejo Carpentier,distinción
@@ -9732,15 +8502,10 @@ Alejandro Oms,ser humano
 Alex Abella,ser humano
 Mariblanca Armenteros,ser humano
 demógrafo,demógrafo
-Universidad de Princeton,universidad
 Escuela Secundaria de Beverly Hills,escuela secundaria superior
 diplomático,diplomático
-Universidad de Georgetown,universidad
-Universidad Católica de América,universidad
-Universidad Estatal de San Francisco,universidad
 entrenador de selección nacional,entrenador
 Universidad Nacional de Educación Física y Deporte de Ucrania,universidad
-piragüista,piragüista
 rapero,rapero
 Víctor Manuel García Valdez,ser humano
 Walter Benítez,ser humano
