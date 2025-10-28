@@ -23,9 +23,8 @@ for f in carpeta.glob("*.csv"):
     df["source_file"] = f.stem
     df = filter_data(df)
     (out_folder / f.name).write_text(df.to_csv(index=False))
-
     dfs.append(df)
 
 final = pd.concat(dfs, ignore_index=True).drop_duplicates(subset=["entidad", "relacion", "objeto"])
-final.to_csv(out_folder / "triplets.csv", index=False)
+(out_folder / "triplets.csv").write_text(final.to_csv(index=False))
 print(f"Listo. ({len(final)} filas únicas)")
