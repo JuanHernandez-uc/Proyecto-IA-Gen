@@ -4,6 +4,19 @@ import re
 import unicodedata
 import pandas as pd
 
+STOP_WORDS = {
+    # Artículos y determinantes
+    "el", "la", "los", "las", "lo", "un", "una", "unos", "unas", "al", "del",
+
+    # Preposiciones y conjunciones
+    "a", "ante", "bajo", "con", "contra", "de", "desde", "en", "entre", "hacia",
+    "hasta", "para", "por", "segun", "sin", "sobre", "tras", "y", "o", "u", "e", "ni", "pero",
+
+    # Pronombres y posesivos
+    "mi", "mis", "tu", "tus", "su", "sus", "nuestro", "nuestra", "nuestros", "nuestras",
+    "vuestro", "vuestra", "vuestros", "vuestras", "se", "que", "quien", "cual", "cuales",
+    "de", "del", "la", "las", "el", "los", "en", "al", "por", "para", "su", "sus", "es", "como",
+}
 
 relaciones_a_eliminar = [
     "fabricante",
@@ -56,6 +69,30 @@ relaciones_a_eliminar = [
     "categoria para los mapas de este elemento"
 ]
 
+def _clean_text(text):
+    """Normaliza texto: minúsculas, sin tildes ni puntuación, y sin stopwords."""
+    if not isinstance(text, str):
+        return ""
+    text = remove_accents(text).lower()
+    # Remueve puntuación y símbolos simples
+    text = re.sub(r"[^a-z0-9\s]", " ", text)
+    tokens = [t for t in text.split() if t not in STOP_WORDS]
+    return " ".join(tokens)
+
+def _entity_in_objects(entidad, objetos):
+    """True si la entidad (limpia) es substring de alguno de los objetos (limpios)."""
+    entidad_clean = _clean_text(entidad)
+    if not entidad_clean:
+        return False
+
+    if isinstance(objetos, list):
+        return any(
+            isinstance(o, str) and entidad_clean in _clean_text(o)
+            for o in objetos
+        )
+    elif isinstance(objetos, str):
+        return entidad_clean in _clean_text(objetos)
+    return False
 
 def normalize_columns(df, columns):
     """
@@ -74,9 +111,6 @@ def normalize_columns(df, columns):
     pandas.DataFrame
         Copia del DataFrame con las columnas normalizadas.
     """
-    
-import unicodedata
-import pandas as pd
 
 def remove_accents(text):
     if not isinstance(text, str):
@@ -201,9 +235,13 @@ def filter_data(df):
     df = df[df["relacion"].str.lower() != remove_accents("empresa productora")]
     df = df[df["relacion"].str.lower() != remove_accents("idioma de la película")]
     df = df[df["relacion"].str.lower() != remove_accents("programa de televisión")]
+    
+    RELACIONES_A_ELIMINAR_NORM = {
+        remove_accents(s).strip().lower() for s in relaciones_a_eliminar
+    }
     df = df[~df["relacion"].apply(
-        lambda x: remove_accents(str(x)).strip().lower() in relaciones_a_eliminar
-    )]
+        lambda x: remove_accents(str(x)).strip().lower() in RELACIONES_A_ELIMINAR_NORM
+        )]
 
     # por objetos (son listas de strings)
     def _has_http(value):
@@ -234,16 +272,6 @@ def filter_data(df):
     # drop duplicates que funciona con lista objetos
     df = df.assign(objetos=df["objetos"].apply(lambda x: tuple(x) if isinstance(x, list) else x)) \
        .drop_duplicates(subset=["entidad", "relacion", "objetos"], keep="first")
-
-    # Filtro: eliminar filas donde la entidad es substring de alguno de los objetos
-    def _entity_in_objects(entidad, objetos):
-        if not isinstance(entidad, str):
-            return False
-        if isinstance(objetos, list):
-            return any(isinstance(o, str) and entidad in o for o in objetos)
-        elif isinstance(objetos, str):
-            return entidad in objetos
-        return False
 
     df = df[~df.apply(lambda row: _entity_in_objects(row["entidad"], row["objetos"]), axis=1)]
 
