@@ -15,12 +15,11 @@ def filter_data(df):
     
     ## filtros de objeto
     df = df[~df["objeto"].str.match(r"^http", na=False)] # links
-
     return df
     
 
 carpeta = Path("Datasets")
-out_folder = os.path.join(carpeta, "filtered_data")
+out_folder = carpeta / "filtered_data"
 
 dfs = []
 for f in carpeta.glob("*.csv"):
@@ -28,14 +27,12 @@ for f in carpeta.glob("*.csv"):
         df = pd.read_csv(f)
         df = df[["entidad", "relacion", "objeto"]].copy()
         df["source_file"] = f.name.replace(".csv", "")
-        
         df = filter_data(df)
-        df.to_csv(os.path.join(out_folder, f), index=False) # guardamos en carpeta filtered_data
+        out_path = out_folder / f.name
+        df.to_csv(out_path, index=False) # guardamos en carpeta filtered_data
         dfs.append(df)
 
 final = pd.concat(dfs, ignore_index=True)
-
 final = final.drop_duplicates(subset=["entidad", "relacion", "objeto"])
-
 final.to_csv(os.path.join(out_folder, "triplets.csv"), index=False)
 print(f"Listo. ({len(final)} filas únicas)")
