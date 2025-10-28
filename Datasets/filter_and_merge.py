@@ -4,9 +4,10 @@ import re
 
 def filter_data(df):
     # filtros
-    df = df[~df["entidad"].str.match(r"^Q\d+$", na=False)]
+    df = df[~df["entidad"].str.match(r"^Q\d+$", na=False)] # Entidades que quedaron como QID
     df = df[df["relacion"] != "se encuentra en el huso horario"]
-    df = df[~df["objeto"].str.match(r"^http", na=False)]
+    df = df[~df["relacion"].str.match(r"^P\d+$", na=False)] # Relaciones que quedaron como QID
+    df = df[~df["objeto"].str.match(r"^http", na=False)] # Links a páginas
     return df
 
 carpeta = Path("Datasets")
