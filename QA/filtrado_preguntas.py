@@ -94,24 +94,6 @@ def _entity_in_objects(entidad, objetos):
         return entidad_clean in _clean_text(objetos)
     return False
 
-def normalize_columns(df, columns):
-    """
-    Normaliza texto en columnas seleccionadas de un DataFrame:
-    convierte a minúsculas y elimina tildes/acentos.
-    
-    Parameters
-    ----------
-    df : pandas.DataFrame
-        DataFrame de entrada.
-    columns : list of str
-        Lista de nombres de columnas a normalizar.
-    
-    Returns
-    -------
-    pandas.DataFrame
-        Copia del DataFrame con las columnas normalizadas.
-    """
-
 def remove_accents(text):
     if not isinstance(text, str):
         return text
@@ -125,26 +107,13 @@ def normalize_columns(df, columns):
     """
     Normaliza texto en columnas seleccionadas de un DataFrame:
     convierte a minúsculas y elimina tildes/acentos.
-    Compatible con celdas que contengan listas de strings.
-    
-    Parameters
-    ----------
-    df : pandas.DataFrame
-        DataFrame de entrada.
-    columns : list of str
-        Lista de nombres de columnas a normalizar.
-    
-    Returns
-    -------
-    pandas.DataFrame
-        Copia del DataFrame con las columnas normalizadas.
+    Compatible con celdas que contengan strings, listas o listas de listas.
     """
-
     def _normalize_cell(value):
-        if isinstance(value, list):
-            return [remove_accents(v) if isinstance(v, str) else v for v in value]
-        elif isinstance(value, str):
+        if isinstance(value, str):
             return remove_accents(value)
+        elif isinstance(value, list):
+            return [_normalize_cell(v) for v in value]  # recursión
         else:
             return value
 
@@ -282,7 +251,7 @@ folder = Path('QA')
 df = pd.read_csv(folder / 'QA_dataset_aliases_filtrados.csv')
 
 print(f"\nInitial dataset size: {len(df)} rows")
-df_normalized = normalize_columns(df, ['entidad', 'relacion', 'objetos'])
+df_normalized = normalize_columns(df, ['entidad', 'relacion', 'objetos', 'respuestas', 'respuestas_aliases'])
 df_filtered = filter_data(df_normalized)
 (folder / 'golden_QA_dataset.csv').write_text(df_filtered.to_csv(index=False))
 print(f'Filtered dataset size: {len(df_filtered)} rows')
