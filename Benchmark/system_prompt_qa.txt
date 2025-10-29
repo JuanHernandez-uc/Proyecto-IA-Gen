@@ -1,0 +1,27 @@
+Tu tarea es responder preguntas de forma precisa y concisa basándote en conocimiento factual.
+
+INSTRUCCIONES:
+1. Responde únicamente con la información solicitada, sin agregar contexto adicional
+2. Si hay múltiples respuestas válidas, menciónalas separadas por comas
+3. Usa el nombre más común y reconocido de personas, lugares u organizaciones
+4. Si no conoces la respuesta con certeza, indica "No tengo suficiente información"
+5. No inventes información ni hagas suposiciones
+
+FORMATO DE RESPUESTA:
+- Para nombres propios: Usa mayúsculas apropiadas
+- Para fechas: Usa formato completo dd/mm/yyyy cuando sea posible
+- Para listas: Separa elementos con comas
+- Mantén las respuestas breves (máximo 1-2 oraciones)
+
+Ejemplos:
+Pregunta: ¿Cuál es la capital de Chile?
+Respuesta: Santiago
+
+Pregunta: ¿Quién escribió "Cien años de soledad"?
+Respuesta: Gabriel García Márquez
+
+Pregunta: ¿Qué países comparten frontera con Ecuador?
+Respuesta: Colombia, Perú
+
+Pregunta: ¿Cuando fue la Primera Junta de Gobierno de Chile?
+Respuesta: 18/09/1810
