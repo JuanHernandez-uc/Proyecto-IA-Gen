@@ -1,783 +1,271 @@
 {
     "start": "Contesta la siguiente pregunta: ",
-    "Lugar de nacimiento": {
-        "start": "¿Dónde nació ",
-        "end": "?"
-    },
-    "Ocupación": {
-        "start": "¿Cuál es la ocupación de ",
-        "end": "?"
-    },
-    "Ciudadanía": {
-        "start": "¿Cuál es la ciudadanía de ",
-        "end": "?"
-    },
-    "Educado en": {
-        "start": "¿Dónde estudió ",
-        "end": "?"
-    },
-    "Empleador": {
-        "start": "¿Quién es el empleador de ",
-        "end": "?"
-    },
-    "Premio recibido": {
-        "start": "¿Qué premio recibió ",
-        "end": "?"
-    },
-    "Fecha de nacimiento": {
-        "start": "¿Cuál es la fecha de nacimiento de ",
-        "end": "?"
-    },
-    "Cargo": {
-        "start": "¿Qué cargo ocupa ",
-        "end": "?"
-    },
-    "Fecha de defunción": {
-        "start": "¿Cuándo falleció ",
-        "end": "?"
-    },
-    "Miembro de": {
-        "start": "¿De qué organización es miembro ",
-        "end": "?"
-    },
-    "país": {
-        "start": "¿En qué país se encuentra ",
-        "end": "?"
-    },
-    "instancia de": {
-        "start": "¿De qué tipo de instancia es ",
-        "end": "?"
-    },
-    "subclase de": {
-        "start": "¿Cuál es la clase de la subclase ",
-        "end": "?"
-    },
-    "ámbito de la ocupación": {
-        "start": "¿En qué ámbito se desempeña la ocupación ",
-        "end": "?"
-    },
-    "categoría principal del tema": {
-        "start": "¿Cuál es la categoría principal del tema  ",
-        "end": "?"
-    },
-    "se encuentra en el huso horario": {
-        "start": "¿En qué huso horario se encuentra ",
-        "end": "?"
-    },
-    "miembro de": {
-        "start": "¿De qué organización es miembro ",
-        "end": "?"
-    },
-    "situado en la entidad territorial administrativa": {
-        "start": "¿En qué entidad territorial administrativa está situada la entidad ",
-        "end": "?"
-    },
-    "filial": {
-        "start": "¿Qué instituciones son filiales de ",
-        "end": "?"
-    },
-    "forma parte de": {
-        "start": "¿De qué entidad forma parte ",
-        "end": "?"
-    },
-    "ciudad hermana": {
-        "start": "¿Cuál es la ciudad hermana de ",
-        "end": "?"
-    },
-    "categoría para las personas que nacieron aquí": {
-        "start": "¿Qué categoría agrupa a las personas que nacieron en ",
-        "end": "?"
-    },
-    "jefe de gobierno": {
-        "start": "¿Quién es el jefe de gobierno de ",
-        "end": "?"
-    },
-    "santo patrón": {
-        "start": "¿Quién es el santo patrón de ",
-        "end": "?"
-    },
-    "fundador": {
-        "start": "¿Quién fue el fundador de ",
-        "end": "?"
-    },
-    "lista de interés para el proyecto Wikimedia": {
-        "start": "¿En qué lista de interés del proyecto Wikimedia está incluida ",
-        "end": "?"
-    },
-    "residencia oficial": {
-        "start": "¿Cuál es la residencia oficial de ",
-        "end": "?"
-    },
-    "continente": {
-        "start": "¿En qué continente se encuentra ",
-        "end": "?"
-    },
-    "nombrado en referencia a": {
-        "start": "¿En honor a quién o a qué fue nombrado ",
-        "end": "?"
-    },
-    "forma de gobierno": {
-        "start": "¿Cuál es la forma de gobierno de ",
-        "end": "?"
-    },
-    "subdividido en (división administrativa)": {
-        "start": "¿En qué divisiones administrativas está subdividido ",
-        "end": "?"
-    },
     "deporte": {
         "start": "¿A qué deporte pertenece la entidad ",
         "end": "?"
     },
-    "categoría de miembros": {
-        "start": "¿A qué categoría de miembros pertenece ",
+    "distrito escolar": {
+        "start": "¿A qué distrito escolar corresponde ",
         "end": "?"
     },
-    "género": {
-        "start": "¿Cuál es el género de ",
-        "end": "?"
-    },
-    "sello discográfico": {
-        "start": "¿Con qué sello discográfico trabaja ",
-        "end": "?"
-    },
-    "campo de trabajo": {
-        "start": "¿En qué campo de trabajo se desempeña ",
+    "aplica a la jurisdiccion": {
+        "start": "¿En qué jurisdicción ejerce autoridad ",
         "end": "?"
     },
     "situado cerca del cuerpo de agua": {
         "start": "¿Cerca de qué cuerpo de agua está situada la entidad ",
         "end": "?"
     },
-    "Obra notable": {
-        "start": "¿Cuál es una obra notable de ",
-        "end": "?"
-    },
-    "capital": {
-        "start": "¿Cuál es la capital de ",
+    "sello discografico": {
+        "start": "¿Con qué sello discográfico trabaja ",
         "end": "?"
     },
     "comparte fronteras con": {
         "start": "¿Con qué zona comparte fronteras ",
         "end": "?"
     },
-    "patrocinador": {
-        "start": "¿Quién es el patrocinador de ",
-        "end": "?"
-    },
-    "opuesto a": {
-        "start": "¿A qué se opone ",
-        "end": "?"
-    },
-    "ubicación de la sede": {
-        "start": "¿Dónde se encuentra la sede de la entidad ",
-        "end": "?"
-    },
-    "compuesto por": {
-        "start": "¿Por quién o por qué está compuesto la entidad ",
-        "end": "?"
-    },
-    "descrito en la fuente": {
-        "start": "¿En qué fuente está descrita la entidad ",
-        "end": "?"
-    },
-    "gerente/director": {
-        "start": "¿Quién es el gerente o director de ",
-        "end": "?"
-    },
-    "forma jurídica": {
-        "start": "¿Cuál es la forma jurídica de ",
-        "end": "?"
-    },
-    "idioma oficial": {
-        "start": "¿Cuál es el idioma oficial de ",
-        "end": "?"
-    },
-    "categoría para las personas que estudiaron en esta institución": {
-        "start": "¿Qué categoría agrupa a las personas que estudiaron en ",
-        "end": "?"
-    },
-    "categoría para empleados de la organización": {
-        "start": "¿Qué categoría agrupa a los empleados de ",
-        "end": "?"
-    },
-    "designado por": {
-        "start": "¿Quién designó a ",
-        "end": "?"
-    },
-    "calendario académico": {
-        "start": "¿Cuál es el calendario académico de ",
-        "end": "?"
-    },
-    "capital de": {
-        "start": "¿De qué entidad es capital ",
-        "end": "?"
-    },
-    "autor": {
-        "start": "¿Quién es el/la autor/a de ",
-        "end": "?"
-    },
-    "editorial": {
-        "start": "¿Qué editorial publicó la obra ",
-        "end": "?"
-    },
-    "idioma de la obra o del nombre": {
-        "start": "¿En qué idioma está la obra o el nombre ",
-        "end": "?"
-    },
-    "país de origen": {
-        "start": "¿En cuál país fue creada la entidad ",
-        "end": "?"
-    },
-    "sujeto tiene rol": {
-        "start": "¿Qué rol tiene ",
-        "end": "?"
-    },
-    "elemento operado": {
-        "start": "¿Qué elemento opera la entidad ",
-        "end": "?"
-    },
-    "plantilla principal del tema": {
-        "start": "¿Cuál es la plantilla principal del tema de ",
-        "end": "?"
-    },
-    "evento significativo": {
-        "start": "¿Qué evento significativo está asociado a ",
-        "end": "?"
-    },
-    "ubicación": {
-        "start": "¿Dónde se encuentra ",
-        "end": "?"
-    },
-    "conferido por": {
-        "start": "¿Quién confiere la entidad ",
-        "end": "?"
-    },
-    "música de": {
-        "start": "¿Quién compuso la música ",
-        "end": "?"
-    },
-    "intérprete": {
-        "start": "¿Quién interpreta la obra ",
-        "end": "?"
-    },
-    "ganador": {
-        "start": "¿Quién fue el/la ganador/a de ",
-        "end": "?"
-    },
-    "producto": {
-        "start": "¿Qué producto fabrica, produce o gestiona ",
-        "end": "?"
-    },
-    "forma artística": {
-        "start": "¿Qué forma artística representa ",
-        "end": "?"
-    },
-    "rama militar": {
-        "start": "¿A qué rama militar pertenece ",
-        "end": "?"
-    },
-    "categoría para los galardonados con este premio": {
-        "start": "¿Qué categoría agrupa a los galardonados con ",
-        "end": "?"
-    },
-    "sucedido por": {
-        "start": "¿Quién sucedió a ",
-        "end": "?"
-    },
-    "aplica a la jurisdicción": {
-        "start": "¿A qué jurisdicción aplica ",
-        "end": "?"
-    },
-    "lugar de publicación": {
-        "start": "¿Dónde fue publicada la entidad ",
-        "end": "?"
-    },
-    "categoría de personas relacionadas": {
-        "start": "¿A qué categoría pertenecen las personas relacionadas con ",
-        "end": "?"
-    },
-    "operador": {
-        "start": "¿Quién opera ",
-        "end": "?"
-    },
-    "área de operación": {
-        "start": "¿En qué área opera ",
-        "end": "?"
-    },
-    "director": {
-        "start": "¿Quién estuvo a cargo de la dirección de ",
-        "end": "?"
-    },
-    "religión": {
-        "start": "¿Cuál es la religión de ",
-        "end": "?"
-    },
-    "guionista": {
-        "start": "¿Quién escribió el guión de ",
-        "end": "?"
-    },
-    "diferente de": {
-        "start": "¿De qué es diferente ",
-        "end": "?"
-    },
-    "rango inmediatamente inferior": {
-        "start": "¿Cuál es el rango inmediatamente inferior a ",
-        "end": "?"
-    },
-    "rango inmediatamente superior": {
-        "start": "¿Cuál es el rango inmediatamente superior a ",
-        "end": "?"
-    },
-    "material empleado": {
-        "start": "¿De qué material es la entidad ",
-        "end": "?"
-    },
-    "tema principal de la obra": {
-        "start": "¿Cuál es el tema principal de ",
-        "end": "?"
-    },
-    "idioma usado": {
-        "start": "¿Qué idioma se usa en ",
-        "end": "?"
-    },
-    "organización dirigida desde este cargo": {
-        "start": "¿Qué organización es dirigida desde el cargo de ",
-        "end": "?"
-    },
-    "miembro del reparto": {
-        "start": "¿Quién es miembro del reparto de ",
-        "end": "?"
-    },
-    "categoría que contiene subcategorías epónimas": {
-        "start": "¿Qué categoría contiene subcategorías epónimas relacionadas con ",
-        "end": "?"
-    },
-    "se dice que es lo mismo que": {
-        "start": "¿Con qué se dice que es lo mismo ",
-        "end": "?"
-    },
-    "vestimenta": {
-        "start": "¿Qué tipo de vestimenta usa o caracteriza a ",
-        "end": "?"
-    },
-    "caracterizado por": {
-        "start": "¿Por qué se caracteriza ",
-        "end": "?"
-    },
-    "precedido por": {
-        "start": "¿Qué antecede a ",
-        "end": "?"
-    },
-    "faceta de": {
-        "start": "¿De qué es una faceta ",
-        "end": "?"
-    },
-    "acreditación": {
-        "start": "¿Qué entidad acredita a ",
-        "end": "?"
-    },
-    "lista del elemento": {
-        "start": "¿En qué lista se incluye el elemento ",
-        "end": "?"
-    },
-    "presidente": {
-        "start": "¿Quién es el/la presidente de ",
-        "end": "?"
-    },
-    "ocupación": {
-        "start": "¿Cuál es la ocupación de ",
-        "end": "?"
-    },
-    "elemento ejemplo": {
-        "start": "¿Qué entidad es ejemplo de ",
-        "end": "?"
-    },
-    "cargo ocupado por el jefe de gobierno": {
-        "start": "¿Qué cargo ocupa el jefe de gobierno de ",
-        "end": "?"
-    },
-    "causa de destrucción": {
-        "start": "¿Cuál fue la causa de destrucción de ",
-        "end": "?"
-    },
-    "texto regulador principal": {
-        "start": "¿Cuál es el texto regulador principal de ",
-        "end": "?"
-    },
-    "letra de": {
-        "start": "¿Quién escribió la letra de ",
-        "end": "?"
-    },
-    "productor": {
-        "start": "¿Quién es el/la productor/a de ",
-        "end": "?"
-    },
-    "objetivo del proyecto o de la acción": {
-        "start": "¿Cuál es el objetivo del proyecto o de la acción de ",
-        "end": "?"
-    },
-    "secretario general": {
-        "start": "¿Quién es el secretario general de ",
-        "end": "?"
-    },
-    "ilustrador": {
-        "start": "¿Quién es el ilustrador de ",
-        "end": "?"
-    },
-    "lugar de formación": {
-        "start": "¿Dónde se formó la entidad ",
-        "end": "?"
-    },
-    "influenciado por": {
-        "start": "¿Por quién fue influenciado ",
-        "end": "?"
-    },
-    "lugar de trabajo": {
-        "start": "¿Dónde trabaja ",
-        "end": "?"
-    },
-    "ubicación narrativa": {
-        "start": "¿Dónde se desarrolla la historia de ",
-        "end": "?"
-    },
-    "financiador": {
-        "start": "¿Quién financia o financió a la entidad ",
-        "end": "?"
-    },
-    "industria": {
-        "start": "¿A qué industria pertenece la entidad ",
-        "end": "?"
-    },
-    "creador": {
-        "start": "¿Quién es el creador de ",
-        "end": "?"
-    },
-    "organización matriz": {
-        "start": "¿Cuál es la organización matriz de la entidad ",
-        "end": "?"
-    },
-    "escudo de armas": {
-        "start": "¿Cuál es el escudo de armas de ",
-        "end": "?"
-    },
-    "propietario de": {
-        "start": "¿De qué es propietario ",
-        "end": "?"
-    },
-    "propiedad de": {
-        "start": "¿A quién pertenece ",
-        "end": "?"
-    },
-    "título nobiliario": {
-        "start": "¿Qué título nobiliario posee ",
-        "end": "?"
-    },
-    "premio recibido": {
-        "start": "¿Qué premio recibió ",
-        "end": "?"
-    },
-    "califica para el evento": {
-        "start": "¿Para qué evento califica ",
-        "end": "?"
-    },
-    "mantenido por el wikiproyecto": {
-        "start": "¿Qué Wikiproyecto mantiene ",
-        "end": "?"
-    },
-    "confiere": {
-        "start": "¿Qué otorga o confiere ",
-        "end": "?"
-    },
-    "relación diplomática": {
-        "start": "¿Con qué país mantiene relaciones diplomáticas ",
-        "end": "?"
-    },
-    "categoría para las personas que fallecieron aquí": {
-        "start": "¿Qué categoría agrupa a las personas que fallecieron en ",
-        "end": "?"
-    },
-    "reemplaza a": {
-        "start": "¿A quién o a qué reemplaza ",
+    "genero": {
+        "start": "¿Cuál es el género de ",
         "end": "?"
     },
     "himno": {
         "start": "¿Cuál es el himno de ",
         "end": "?"
     },
-    "rector": {
-        "start": "¿Quién es el rector de la entidad ",
+    "idioma oficial": {
+        "start": "¿Cuál es el idioma oficial de ",
         "end": "?"
     },
-    "afiliación": {
-        "start": "¿A qué institución o grupo está afiliado ",
+    "capital": {
+        "start": "¿Cuál es la capital de ",
+        "end": "?"
+    },  
+    "ciudadania": {
+        "start": "¿Cuál es la ciudadanía de ",
         "end": "?"
     },
-    "actor de voz": {
-        "start": "¿Quién es el/la actor/actriz de voz de ",
+    "fecha de nacimiento": {
+        "start": "¿Cuál es la fecha de nacimiento de ",
         "end": "?"
     },
-    "jefe de Estado": {
-        "start": "¿Quién es el/la jefe de Estado de ",
+    "forma de gobierno": {
+        "start": "¿Cuál es la forma de gobierno de ",
         "end": "?"
     },
-    "serie": {
-        "start": "¿A qué serie pertenece ",
+    "ocupacion": {
+        "start": "¿Cuál es la ocupación de ",
         "end": "?"
     },
-    "bandera": {
-        "start": "¿Cuál es la bandera de ",
+    "organizacion matriz": {
+        "start": "¿Cuál es la organización matriz de la entidad ",
         "end": "?"
     },
-    "color": {
-        "start": "¿Qué color representa o caracteriza a ",
+    "religion": {
+        "start": "¿Cuál es la religión de ",
         "end": "?"
     },
-    "geografía": {
-        "start": "¿Cuál es la geografía de ",
+    "residencia oficial": {
+        "start": "¿Cuál es la residencia oficial de ",
         "end": "?"
     },
-    "titular del cargo": {
-        "start": "¿Quién es el/la titular del cargo de ",
+    "fecha de defuncion": {
+        "start": "¿Cuándo falleció ",
         "end": "?"
     },
-    "lista de": {
-        "start": "¿Qué lista incluye a ",
+    "capital de": {
+        "start": "¿De qué entidad es capital ",
         "end": "?"
     },
-    "estatus patrimonial": {
-        "start": "¿Cuál es el estatus patrimonial de ",
+    "miembro de": {
+        "start": "¿De qué organización es miembro ",
         "end": "?"
     },
-    "historia": {
-        "start": "¿Cuál es la historia de ",
-        "end": "?"
-    },
-    "cultura": {
-        "start": "¿Qué aspectos culturales caracterizan a ",
-        "end": "?"
-    },
-    "teléfono de emergencia": {
-        "start": "¿Cuál es el teléfono de emergencia de ",
-        "end": "?"
-    },
-    "cantidad física medida": {
-        "start": "¿Qué cantidad física mide ",
-        "end": "?"
-    },
-    "organizador": {
-        "start": "¿Quién organiza ",
-        "end": "?"
-    },
-    "movimiento": {
-        "start": "¿A qué movimiento pertenece ",
-        "end": "?"
-    },
-    "colección": {
-        "start": "¿En qué colección se encuentra ",
+    "educado en": {
+        "start": "¿Dónde estudió ",
         "end": "?"
     },
     "lugar de sepultura": {
         "start": "¿Dónde está sepultado ",
         "end": "?"
     },
-    "sexo o género": {
-        "start": "¿Cuál es el sexo o género de ",
+    "lugar de publicacion": {
+        "start": "¿Dónde fue publicada la entidad ",
         "end": "?"
     },
-    "país de nacionalidad": {
-        "start": "¿Cuál es el país de nacionalidad de ",
+    "lugar de nacimiento": {
+        "start": "¿Dónde nació ",
         "end": "?"
     },
-    "nombre de pila": {
-        "start": "¿Cuál es el nombre de pila de ",
+    "ubicacion": {
+        "start": "¿Dónde se encuentra ",
         "end": "?"
     },
-    "parcialmente coincidente con": {
-        "start": "¿Con qué es parcialmente coincidente ",
+    "ubicacion de la sede": {
+        "start": "¿Dónde se encuentra la sede de la entidad ",
         "end": "?"
     },
-    "situado en la entidad geográfica": {
-        "start": "¿En qué entidad geográfica está situado ",
+    "lugar de formacion": {
+        "start": "¿Dónde se formó la entidad ",
         "end": "?"
     },
-    "formato de periódico": {
-        "start": "¿Cuál es el formato del periódico ",
+    "lugar de trabajo": {
+        "start": "¿Dónde trabaja ",
         "end": "?"
     },
-    "manifestación de": {
-        "start": "¿De qué es una manifestación ",
+    "pais de origen": {
+        "start": "¿En cuál país fue creada la entidad ",
         "end": "?"
     },
-    "estadio": {
-        "start": "¿En qué estadio juega o se encuentra ",
+    "nombrado en referencia a": {
+        "start": "¿En honor a quién o a qué fue nombrado ",
         "end": "?"
     },
-    "liga": {
-        "start": "¿En qué liga participa ",
+    "continente": {
+        "start": "¿En qué continente se encuentra ",
+        "end": "?"
+    },
+    "situado en la entidad territorial administrativa": {
+        "start": "¿En qué entidad territorial administrativa está situada la entidad ",
+        "end": "?"
+    },
+    "idioma de la obra o del nombre": {
+        "start": "¿En qué idioma está la obra o el nombre ",
+        "end": "?"
+    },
+    "idioma de la pelicula o programa de television": {
+        "start": "¿En qué idioma está la película o programa de televisión ",
+        "end": "?"
+    },
+    "pais": {
+        "start": "¿En qué país se encuentra ",
+        "end": "?"
+    },
+    "musica de": {
+        "start": "¿Quién compuso la música ",
+        "end": "?"
+    },
+    "conferido por": {
+        "start": "¿Quién confiere la entidad ",
+        "end": "?"
+    },
+    "creador": {
+        "start": "¿Quién es el creador de ",
         "end": "?"
     },
     "empleador": {
         "start": "¿Quién es el empleador de ",
         "end": "?"
     },
-    "arquitecto": {
-        "start": "¿Quién fue el arquitecto de ",
+    "gerente/director": {
+        "start": "¿Quién es el gerente o director de ",
         "end": "?"
     },
-    "condado histórico": {
-        "start": "¿A qué condado histórico pertenece ",
+    "ilustrador": {
+        "start": "¿Quién es el ilustrador de ",
         "end": "?"
     },
-    "color oficial": {
-        "start": "¿Cuál es el color oficial de ",
+    "jefe de gobierno": {
+        "start": "¿Quién es el jefe de gobierno de ",
         "end": "?"
     },
-    "representa a": {
-        "start": "¿A quién o qué representa ",
+    "rector": {
+        "start": "¿Quién es el rector de la entidad ",
         "end": "?"
     },
-    "basado en": {
-        "start": "¿En qué está basado ",
+    "santo patron": {
+        "start": "¿Quién es el santo patrón de ",
         "end": "?"
     },
-    "libretista": {
-        "start": "¿Quién fue el libretista de ",
+    "actor de voz": {
+        "start": "¿Quién es el/la actor/actriz de voz de ",
         "end": "?"
     },
-    "estatus de los derechos de autor": {
-        "start": "¿Cuál es el estatus de los derechos de autor de ",
+    "autor": {
+        "start": "¿Quién es el/la autor/a de ",
         "end": "?"
     },
-    "instancia tiene partes de la clase": {
-        "start": "¿Qué partes de la clase componen la instancia de ",
+    "jefe de estado": {
+        "start": "¿Quién es el/la jefe de Estado de ",
         "end": "?"
     },
-    "presentador": {
-        "start": "¿Quién es el presentador de ",
+    "presidente": {
+        "start": "¿Quién es el/la presidente de ",
         "end": "?"
     },
-    "suplente del cargo": {
-        "start": "¿Quién es el suplente del cargo de ",
+    "productor": {
+        "start": "¿Quién es el/la productor/a de ",
         "end": "?"
     },
-    "utiliza": {
-        "start": "¿Qué utiliza ",
+    "guionista": {
+        "start": "¿Quién escribió el guión de ",
         "end": "?"
     },
-    "descripción del sello": {
-        "start": "¿Cuál es la descripción del sello de ",
+    "letra de": {
+        "start": "¿Quién escribió la letra de ",
         "end": "?"
     },
-    "reemplazado por": {
-        "start": "¿Por quién o qué fue reemplazado ",
+    "director": {
+        "start": "¿Quién estuvo a cargo de la dirección de ",
         "end": "?"
     },
-    "distrito escolar": {
-        "start": "¿A qué distrito escolar pertenece ",
-        "end": "?"
-    },
-    "portal principal del tema": {
-        "start": "¿Cuál es el portal principal del tema de ",
-        "end": "?"
-    },
-    "banco central": {
-        "start": "¿Cuál es el banco central de ",
-        "end": "?"
-    },
-    "empresa productora": {
-        "start": "¿Qué empresa productora está detrás de ",
-        "end": "?"
-    },
-    "idioma de la película o programa de televisión": {
-        "start": "¿En qué idioma está la película o programa de televisión ",
+    "financiador": {
+        "start": "¿Quién financia o financió a la entidad ",
         "end": "?"
     },
     "descubridor o inventor": {
         "start": "¿Quién fue el descubridor o inventor de ",
         "end": "?"
     },
-    "fabricante": {
-        "start": "¿Quién es el fabricante de ",
+    "fundador": {
+        "start": "¿Quién fue el fundador de ",
         "end": "?"
     },
-    "ubicado en la entidad territorial administrativa actual": {
-        "start": "¿En qué entidad territorial administrativa actual está ubicado ",
+    "ganador": {
+        "start": "¿Quién fue el/la ganador/a de ",
         "end": "?"
     },
-    "cargo ocupado por el dirigente": {
-        "start": "¿Qué cargo ocupa el dirigente de ",
+    "interprete": {
+        "start": "¿Quién interpreta la obra ",
         "end": "?"
     },
-    "prefijo honorífico": {
-        "start": "¿Cuál es el prefijo honorífico de ",
+    "cargo": {
+        "start": "¿Qué cargo ocupa ",
         "end": "?"
     },
-    "punto más alto": {
-        "start": "¿Cuál es el punto más alto de ",
+    "color": {
+        "start": "¿Qué color representa o caracteriza a ",
         "end": "?"
     },
-    "signatario": {
-        "start": "¿Quién es signatario de ",
+    "editorial": {
+        "start": "¿Qué editorial publicó la obra ",
         "end": "?"
     },
-    "clasificación CNC (Francia)": {
-        "start": "¿Cuál es la clasificación CNC (Francia) de ",
+    "acreditacion": {
+        "start": "¿Qué entidad acredita a ",
         "end": "?"
     },
-    "examen realizado": {
-        "start": "¿Qué examen realizó ",
+    "elemento ejemplo": {
+        "start": "¿Qué entidad es ejemplo de ",
         "end": "?"
     },
-    "calificación Medierådet": {
-        "start": "¿Cuál es la calificación Medierådet de ",
+    "evento significativo": {
+        "start": "¿Qué evento significativo está asociado a ",
         "end": "?"
     },
-    "lugar de ambientación": {
-        "start": "¿Dónde está ambientada la historia de ",
+    "idioma usado": {
+        "start": "¿Qué idioma se usa en ",
         "end": "?"
     },
-    "director ejecutivo": {
-        "start": "¿Quién es el director ejecutivo de ",
+    "filial": {
+        "start": "¿Qué instituciones son filiales de ",
         "end": "?"
     },
-    "clima": {
-        "start": "¿Cuál es el clima de ",
+    "premio recibido": {
+        "start": "¿Qué premio recibió ",
         "end": "?"
     },
-    "del universo narrativo": {
-        "start": "¿A qué universo narrativo pertenece ",
-        "end": "?"
-    },
-    "presente en la obra": {
-        "start": "¿En qué obra está presente ",
-        "end": "?"
-    },
-    "orden religiosa": {
-        "start": "¿A qué orden religiosa pertenece ",
-        "end": "?"
-    },
-    "situado en la calle": {
-        "start": "¿En qué calle está situado ",
-        "end": "?"
-    },
-    "núcleo de población": {
-        "start": "¿A qué núcleo de población pertenece ",
-        "end": "?"
-    },
-    "instrumentación": {
-        "start": "¿Qué instrumentación utiliza ",
-        "end": "?"
-    },
-    "uso": {
-        "start": "¿Para qué se utiliza ",
-        "end": "?"
-    },
-    "característica de": {
-        "start": "¿De qué es una característica ",
-        "end": "?"
-    },
-    "editor": {
-        "start": "¿Quién es el editor de ",
+    "producto": {
+        "start": "¿Qué producto fabrica, produce o gestiona ",
         "end": "?"
     }
 }
