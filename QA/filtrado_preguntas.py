@@ -251,7 +251,7 @@ folder = Path('QA')
 df = pd.read_csv(folder / 'QA_dataset_aliases_filtrados.csv')
 
 print(f"\nInitial dataset size: {len(df)} rows")
-df_normalized = normalize_columns(df, ['entidad', 'relacion', 'objetos', 'respuestas', 'respuestas_aliases'])
+df_normalized = normalize_columns(df, ['relacion', 'objetos', 'respuestas', 'respuestas_aliases'])
 df_filtered = filter_data(df_normalized)
 (folder / 'golden_QA_dataset.csv').write_text(df_filtered.to_csv(index=False))
 print(f'Filtered dataset size: {len(df_filtered)} rows')
