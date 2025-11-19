@@ -1,0 +1,1101 @@
+prompt,respuesta
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlota_Pérez se desempeña como Fotoperiodista
+Marcos_Cáceres se desempeña como Empresario
+José_Offerman se desempeña como Jurista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Marcos_Cáceres?
+
+",Empresario
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Roberto_Manrique se desempeña como Fotografo
+Miguel_Montaño se desempeña como Estudiante
+Edgardo_Alfonzo se desempeña como Politologo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Edgardo_Alfonzo?
+
+",Politologo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Eliseo_Payán se desempeña como Oficial_Militar
+Wilfrido_Báez se desempeña como Piraguista
+Wilfredo_Alvarado se desempeña como Militar
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Wilfredo_Alvarado?
+
+",Militar
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Violetta_Quesada se desempeña como Matematico
+Miguel_Bonnin se desempeña como Vallista
+Kurt_Pahlen se desempeña como Bailarin
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Violetta_Quesada?
+
+",Matematico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Luis_Alvarenga se desempeña como Herpetologo
+Victor_Aquino se desempeña como Periodista
+Raquel_Zelaya se desempeña como Ajedrecista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Raquel_Zelaya?
+
+",Ajedrecista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Gabriel_Peralta se desempeña como Esquiador_Alpino
+Mario_Testino se desempeña como Periodista_Freelance
+Lloyd_Labeach se desempeña como Cacique
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Gabriel_Peralta?
+
+",Esquiador_Alpino
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Eddie_Castro se desempeña como Esgrimista
+Florencio_Amarilla se desempeña como Emprendedor
+Alex_Zisis se desempeña como Fondista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Florencio_Amarilla?
+
+",Emprendedor
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Stalin_Quiterio se desempeña como Agricultor
+Virgilio_Galindo se desempeña como Gerente
+Fabricio_Coloccini se desempeña como Camarero
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Stalin_Quiterio?
+
+",Agricultor
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Aneury_Rodríguez se desempeña como Ensayista
+Bartolomé_Mitre se desempeña como Tipografo
+Edmundo_Mellid se desempeña como Informatico_Teorico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Edmundo_Mellid?
+
+",Informatico_Teorico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ronny_Santos se desempeña como Modelo
+Compay_Segundo se desempeña como Ingeniero_Agronomo
+Mario_Chávez se desempeña como Cantante
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Compay_Segundo?
+
+",Ingeniero_Agronomo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jason_Zárate se desempeña como Atleta
+Jason_Richardson se desempeña como Politologo
+Hugo_Brizuela se desempeña como Trabajador_Domestico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Jason_Zárate?
+
+",Atleta
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ana_Marcelo se desempeña como Inventor
+Santiago_Irala se desempeña como Taekwondista
+Pedro_Féliz se desempeña como Jurista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Santiago_Irala?
+
+",Taekwondista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+James_Hudson se desempeña como Percusionista
+Xavier_Carreras se desempeña como Ensayista
+Saturnino_Cerrato se desempeña como Escritor_Tecnico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Xavier_Carreras?
+
+",Ensayista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Dorothea_Wilson se desempeña como Supermodelo
+Carlos_Bonet se desempeña como Escultor
+Carlos_Olivier se desempeña como Medico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Dorothea_Wilson?
+
+",Supermodelo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Gloria_Jiménez se desempeña como Catedratico
+Cara_Buono se desempeña como Activista_Lgbti
+Gerónima_Montealegre se desempeña como Balonmanista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Gerónima_Montealegre?
+
+",Balonmanista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Óscar_Mcfarlane se desempeña como Estudiante
+Nahúm_Espinoza se desempeña como Artista_Visual
+Evana_Daaboul se desempeña como Ensayista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Óscar_Mcfarlane?
+
+",Estudiante
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Takeshi_Fujiwara se desempeña como Artista_Visual
+Nicanor_Parra se desempeña como Juez
+Otilino_Tenorio se desempeña como Explorador
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Takeshi_Fujiwara?
+
+",Artista_Visual
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Gerardo_Guevara se desempeña como Gimnasta_Artistico
+Milena_Gimón se desempeña como Guitarrista
+Mitchell_Doens se desempeña como Surfista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Mitchell_Doens?
+
+",Surfista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Álvaro_Salvadores se desempeña como Matematico
+Omar_Benítez se desempeña como Ictiologo
+Karla_Villalobos se desempeña como Tipografo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Álvaro_Salvadores?
+
+",Matematico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jaime_Duarte se desempeña como Compositor
+Marina_Cárdenas se desempeña como Jurista
+Jon_Abrahams se desempeña como Mediofondista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Jaime_Duarte?
+
+",Compositor
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Víctor_Estrella se desempeña como Activista
+Alexander_Madrigal se desempeña como Caricaturista
+Aniana_Vargas se desempeña como Profesor_Universitario
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Aniana_Vargas?
+
+",Profesor_Universitario
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Alfredo_Poviña se desempeña como Entrenador_Personal
+El_Prieto se desempeña como Dibujante_Arquitectonico
+Aleida_Guevara se desempeña como Polista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Alfredo_Poviña?
+
+",Entrenador_Personal
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Roy_Barahona se desempeña como Farmaceutico
+Emily_Dickinson se desempeña como Mecanico_Automotor
+Elmar_Rojas se desempeña como Compositor
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Elmar_Rojas?
+
+",Compositor
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+César_Millán se desempeña como Animador
+Alejandro_Berrio se desempeña como Geologo
+Dante_Liano se desempeña como Alertador
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Alejandro_Berrio?
+
+",Geologo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Joseíto_Mateo se desempeña como Gimnasta_Artistico
+Jahphet_Landis se desempeña como Herpetologo
+Guillermo_Owen se desempeña como Ornitologo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Joseíto_Mateo?
+
+",Gimnasta_Artistico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Santiago_Zambrano se desempeña como Autobiografo
+Michael_Martínez se desempeña como Monarca
+Francisco_Checa se desempeña como Arquero
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Michael_Martínez?
+
+",Monarca
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Max_Keiser se desempeña como Historietista
+Soledad_Núñez se desempeña como Militar
+Kurt_Bernard se desempeña como Ajedrecista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Soledad_Núñez?
+
+",Militar
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jonathan_Loáisiga se desempeña como Saxofonista
+Alberto_Chedrani se desempeña como Dibujante
+Gert_Rosenthal se desempeña como Mediofondista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Gert_Rosenthal?
+
+",Mediofondista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Manuel_Noriega se desempeña como Informatico_Teorico
+Dulce_Piña se desempeña como Vocalista
+Catalino_Rivarola se desempeña como Percusionista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Dulce_Piña?
+
+",Vocalista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Manuel_Gamboa se desempeña como Maratonista
+Octavio_Paz se desempeña como Marino
+Greta_Garbo se desempeña como Beisbolista_Profesional
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Octavio_Paz?
+
+",Marino
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Marco_Tenorio se desempeña como Caricaturista
+Pilar_Bellido se desempeña como Rapero
+Luis_Benshimol se desempeña como Entrenador
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Luis_Benshimol?
+
+",Entrenador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Toño_Rosario se desempeña como Sacerdote_Catolico
+Daimí_Pernía se desempeña como Astronomo
+Alberth_Elis se desempeña como Informatico_Teorico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Alberth_Elis?
+
+",Informatico_Teorico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Gaspar_Fernández se desempeña como Disenador
+Alejandro_Jenkins se desempeña como Arbitro_Asistente
+Julio_Quevedo se desempeña como Socialite
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Alejandro_Jenkins?
+
+",Arbitro_Asistente
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Marlon_Perlaza se desempeña como Vocalista
+Ricardo_Patiño se desempeña como Informatico_Teorico
+Connie_Marrero se desempeña como Fotoperiodista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Connie_Marrero?
+
+",Fotoperiodista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Leandro_Castro se desempeña como Kayakista
+Leonardo_Valencia se desempeña como Cientifico
+Argenis_Fernández se desempeña como Escultor
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Argenis_Fernández?
+
+",Escultor
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Arabella_Castro se desempeña como Fondista
+Carlos_Góngora se desempeña como Psiquiatra
+Ivan_Almonte se desempeña como Arquero
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Carlos_Góngora?
+
+",Psiquiatra
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Rolando_Blackburn se desempeña como Vocalista
+Hernán_Medford se desempeña como Rabino
+Carlos_Arraiz se desempeña como Bailarin
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Carlos_Arraiz?
+
+",Bailarin
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Libania_Grenot se desempeña como Agricultor
+Ana_Mendieta se desempeña como Entrenador
+Carlos_Ibáñez se desempeña como Artista_Grafico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Carlos_Ibáñez?
+
+",Artista_Grafico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Pompilio_Ortega se desempeña como Marino
+Daniela_Rodriguez se desempeña como Golfista
+Eder_Palacios se desempeña como Oncologo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Pompilio_Ortega?
+
+",Marino
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Kristian_Guzman se desempeña como Politico
+Pablo_Tellez se desempeña como Entrenador_Personal
+Alberto_Mendieta se desempeña como Entrenador
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Kristian_Guzman?
+
+",Politico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Fermín_Ferrer se desempeña como Polista
+Óscar_Sevilla se desempeña como Alto_Cargo
+Jorge_Claros se desempeña como Naturalista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Óscar_Sevilla?
+
+",Alto_Cargo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Vladimir_Guerrero se desempeña como Activista_Lgbti
+Eizi_Matuda se desempeña como Beisbolista
+Jorge_Daponte se desempeña como Fisico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Eizi_Matuda?
+
+",Beisbolista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Saturnino_Laspiur se desempeña como Ensayista
+Raúl_Borges se desempeña como Fondista
+Adolfo_Lazzarini se desempeña como Animador
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Adolfo_Lazzarini?
+
+",Animador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Adriana_Muñoz se desempeña como Triatleta
+Víctor_Castillo se desempeña como Artista_Escenico
+Manuel_Odría se desempeña como Gimnasta_Artistico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Adriana_Muñoz?
+
+",Triatleta
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jaime_Penedo se desempeña como Halterofilo
+Mauricio_Basualto se desempeña como Compositor
+Quilvio_Veras se desempeña como Caricaturista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Jaime_Penedo?
+
+",Halterofilo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Rafael_Spregelburd se desempeña como Comerciante
+Luis_Encarnación se desempeña como Artista_Visual
+Mariano_Latorre se desempeña como Primera_Dama
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Rafael_Spregelburd?
+
+",Comerciante
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Juan_Ossio se desempeña como Ictiologo
+Quino se desempeña como Esgrimista
+Gustavo_Eberlein se desempeña como Columnista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Gustavo_Eberlein?
+
+",Columnista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Álvaro_Gaxiola se desempeña como Clarinetista
+Francisco_Liriano se desempeña como Saxofonista
+Ronney_Mora se desempeña como Demografo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Álvaro_Gaxiola?
+
+",Clarinetista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Victoria_Meza se desempeña como Dramaturgo
+Ignacio_Comonfort se desempeña como Biofisico
+Dionisio_Villacorta se desempeña como Guionista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Victoria_Meza?
+
+",Dramaturgo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Stalin_Rivas se desempeña como Historietista
+Diego_Figueredo se desempeña como Saltador
+Juan_Batista se desempeña como Demografo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Diego_Figueredo?
+
+",Saltador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Sofía_Montenegro se desempeña como Monje
+Abel_Salazar se desempeña como Business_Undergraduate
+Dennis_Ferrera se desempeña como Actor
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Dennis_Ferrera?
+
+",Actor
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Joaquín_Acosta se desempeña como Balonmanista
+Doris_Gibson se desempeña como Nadador
+Waldir_Sáenz se desempeña como Director_Deportivo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Doris_Gibson?
+
+",Nadador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Reimond_Salas se desempeña como Periodista
+Federico_Páez se desempeña como Oficial_Militar
+Bernardino_Villalpando se desempeña como Fotografo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Federico_Páez?
+
+",Oficial_Militar
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Andrés_Orozco se desempeña como Saltador
+Mélido_Pérez se desempeña como Montanero
+Ecuador_Figueroa se desempeña como Modelo_Artistico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Ecuador_Figueroa?
+
+",Modelo_Artistico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Teodoro_Palacios se desempeña como Boxeador
+Luis_Lobo se desempeña como Arqueologo
+Ben_Oglivie se desempeña como Grabador
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Teodoro_Palacios?
+
+",Boxeador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Leandro_Castro se desempeña como Kayakista
+Enrique_Regüeiferos se desempeña como Sacerdote
+Winifer_Fernández se desempeña como Lider_Militar
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Enrique_Regüeiferos?
+
+",Sacerdote
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+René_Figueroa se desempeña como Naturalista
+Christian_Bethancourt se desempeña como Marino
+José_Ardévol se desempeña como Bailarin
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Christian_Bethancourt?
+
+",Marino
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Maridalia_Hernández se desempeña como Arqueologo
+Alejandro_Vial se desempeña como Profesor
+Silvio_Rodríguez se desempeña como Influencer
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Silvio_Rodríguez?
+
+",Influencer
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Anthony_Brea se desempeña como Escritor_Deportivo
+Lucho_Azcarraga se desempeña como Agronomo
+Mr_Lawrence se desempeña como Comerciante
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Mr_Lawrence?
+
+",Comerciante
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Roberto_Villanueva se desempeña como Demografo
+Johnny_Abbes se desempeña como Cantante
+Lucía_Ramírez se desempeña como Baloncestista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Lucía_Ramírez?
+
+",Baloncestista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Kurt_Bernard se desempeña como Ajedrecista
+Luis_Ramos se desempeña como Vallista
+Carix_Ramírez se desempeña como Condottiero
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Luis_Ramos?
+
+",Vallista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ceymar_Castillo se desempeña como Videoartista
+Ernesto_Cristaldo se desempeña como Saxofonista
+Hugo_Curioni se desempeña como Yudoca
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Ernesto_Cristaldo?
+
+",Saxofonista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Johanna_Pineda se desempeña como Critico_Literario
+Edith_Grøn se desempeña como Arpista
+Anthony_Garcia se desempeña como Dibujante
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Johanna_Pineda?
+
+",Critico_Literario
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Omaira_Sánchez se desempeña como Entrenador_Personal
+Wilber_Varela se desempeña como Historietista
+Beycker_Velásquez se desempeña como Vocalista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Wilber_Varela?
+
+",Historietista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Alejandro_Villanueva se desempeña como Musicologo
+Eustaciano_Arias se desempeña como Obispo_Catolico
+Juan_Belaieff se desempeña como Portavoz
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Eustaciano_Arias?
+
+",Obispo_Catolico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Federico_Gamboa se desempeña como Guerrillero
+Jorge_Hernández se desempeña como Realizador
+Sheldry_Sáez se desempeña como Emprendedor
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Jorge_Hernández?
+
+",Realizador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Cecilia_Caceres se desempeña como Fondista
+Carlos_Palacios se desempeña como Vocalista
+Wilin_Rosario se desempeña como Estudiante
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Wilin_Rosario?
+
+",Estudiante
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Julio_Rivera se desempeña como Triatleta
+Luis_Zepeda se desempeña como Fisico
+Pilar_Bellido se desempeña como Rapero
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Luis_Zepeda?
+
+",Fisico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Zulia_Calatayud se desempeña como Trabajador_Domestico
+Armando_Cooper se desempeña como Cantante
+Noémie_Potier se desempeña como Deportista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Zulia_Calatayud?
+
+",Trabajador_Domestico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Adolfo_Lazzarini se desempeña como Animador
+Esther_Castañeda se desempeña como Comediante
+Maridalia_Hernández se desempeña como Arqueologo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Maridalia_Hernández?
+
+",Arqueologo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Patricio_Manns se desempeña como Demografo
+Sergio_Fajardo se desempeña como Abogado
+Miguel_Michelagnoli se desempeña como Astronomo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Patricio_Manns?
+
+",Demografo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Rafael_Colón se desempeña como Escritor
+Mariana_Vega se desempeña como Arquero
+Sixto_Betancourt se desempeña como Oncologo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Sixto_Betancourt?
+
+",Oncologo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Miguel_Olvera se desempeña como Herpetologo
+Gabriel_Gómez se desempeña como Escritor_Deportivo
+Angelino_Garzón se desempeña como Animador
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Gabriel_Gómez?
+
+",Escritor_Deportivo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Dj_Black se desempeña como Artista
+Luis_Alvarenga se desempeña como Herpetologo
+Jean_Beausejour se desempeña como Propagandista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Luis_Alvarenga?
+
+",Herpetologo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Maripaz_Calvo se desempeña como Productor_Discografico
+Titopiña se desempeña como Biofisico
+Yanet_Cruz se desempeña como Sociologo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Titopiña?
+
+",Biofisico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Alberto_Cienfuegos se desempeña como Informatico_Teorico
+Onofre_Durán se desempeña como Yudoca
+Tito_Horford se desempeña como Realizador
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Alberto_Cienfuegos?
+
+",Informatico_Teorico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ariagner_Smith se desempeña como Luchador_Profesional
+Roberto_Matta se desempeña como Demografo
+David_Diach se desempeña como Saxofonista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña David_Diach?
+
+",Saxofonista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Neil_Armstrong se desempeña como Espia
+Bethsaida_Ferreira se desempeña como Jinete_Hipico
+Heiko_Grobenstieg se desempeña como Matematico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Bethsaida_Ferreira?
+
+",Jinete_Hipico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ricardo_Uceda se desempeña como Poeta
+Johnny_Morales se desempeña como Dibujante
+Tomás_Valladares se desempeña como Kayakista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Johnny_Morales?
+
+",Dibujante
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jaime_Castrillón se desempeña como Actor
+Amir_Valle se desempeña como Clarinetista
+Rosa_Markmann se desempeña como Presidente
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Amir_Valle?
+
+",Clarinetista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+José_Offerman se desempeña como Jurista
+Noemi_Leon se desempeña como Comerciante
+Telésforo_Ramos se desempeña como Beisbolista_Profesional
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña José_Offerman?
+
+",Jurista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Dj_Black se desempeña como Artista
+Justo_Villar se desempeña como Mecanico_Automotor
+Heinz_Barmettler se desempeña como Activista_Politico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Dj_Black?
+
+",Artista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ronald_Gamarra se desempeña como Guitarrista_Bajo
+Miguel_Brascó se desempeña como Marchador_Atletico
+David_Portillo se desempeña como Locutor
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Miguel_Brascó?
+
+",Marchador_Atletico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Elías_Figueroa se desempeña como Atleta
+Arlenis_Sosa se desempeña como Yudoca
+Christopher_Cragwell se desempeña como Escritor_Tecnico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Arlenis_Sosa?
+
+",Yudoca
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Héctor_Daley se desempeña como Arbitro_Asistente
+Franco_Zuculini se desempeña como Ciclista
+William_Reyes se desempeña como Propagandista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Héctor_Daley?
+
+",Arbitro_Asistente
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Francisco_Guevara se desempeña como Jinete_Hipico
+David_Smolansky se desempeña como Activista
+Dj_Black se desempeña como Artista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Francisco_Guevara?
+
+",Jinete_Hipico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Eustacio_Chamorro se desempeña como Oficial_Militar
+Lorenzo_Zepeda se desempeña como Antropologo
+Oswaldo_Henríquez se desempeña como Disenador
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Oswaldo_Henríquez?
+
+",Disenador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Chick_Parsons se desempeña como Arbitro_Asistente
+Guillermo_Guardia se desempeña como Catedratico
+Yehude_Simon se desempeña como Surfista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Yehude_Simon?
+
+",Surfista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Aneury_Rodríguez se desempeña como Ensayista
+Anthony_Vargas se desempeña como Fotoperiodista
+Óscar_Córdoba se desempeña como Escritor_Tecnico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Anthony_Vargas?
+
+",Fotoperiodista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Augusto_Leguía se desempeña como Productor_Musical
+Eugenio_Araujo se desempeña como Regatista
+Carlos_Valdés se desempeña como Compositor
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Eugenio_Araujo?
+
+",Regatista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Alfredo_Cantón se desempeña como Socialite
+Edwin_Sánchez se desempeña como Antropologo
+Toribio_Terán se desempeña como Oficial_Naval
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Toribio_Terán?
+
+",Oficial_Naval
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Sergio_Goycochea se desempeña como Astrologo
+Juan_Agudelo se desempeña como Guionista
+Agustín_Barreiro se desempeña como Agente_Deportivo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Agustín_Barreiro?
+
+",Agente_Deportivo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Óscar_Aguilera se desempeña como Luchador
+Marcela_Contreras se desempeña como Psicologo
+Dennis_Martínez se desempeña como Ciclista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Dennis_Martínez?
+
+",Ciclista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Julián_Atehortúa se desempeña como Trabajador_Domestico
+Miguel_Villalta se desempeña como Artista
+Reynaldo_Anderson se desempeña como Psicologo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Miguel_Villalta?
+
+",Artista
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Santiago_Solari se desempeña como Marino
+Amado_Pérez se desempeña como Musicologo
+José_Lezcano se desempeña como Catedratico
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña José_Lezcano?
+
+",Catedratico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Arturo_Tejada se desempeña como Jinete_Hipico
+Ulises_Poirier se desempeña como Obispo_Catolico
+Blas_Cristaldo se desempeña como Arquitecto
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Ulises_Poirier?
+
+",Obispo_Catolico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Guillermo_Stábile se desempeña como Inversor
+Freddy_Cachazo se desempeña como Alertador
+Cristian_Quintero se desempeña como Zoologo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Freddy_Cachazo?
+
+",Alertador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Victoria_Madrigal se desempeña como Fotografo
+Williams_Reyes se desempeña como Historiador
+Henrry_Mejia se desempeña como Demografo
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Henrry_Mejia?
+
+",Demografo
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Seth_Meyers se desempeña como Influencer
+Wenceslao_Cisneros se desempeña como Ceramista
+Chestyn_Onofre se desempeña como Influencer
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Seth_Meyers?
+
+",Influencer
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Mateo_Iturralde se desempeña como Revolucionario
+Gisela_Dulko se desempeña como Lider_Religioso
+Carlos_Afu se desempeña como Sindicalista
+
+--- Pregunta ---
+Pregunta: ¿En qué se desempeña Gisela_Dulko?
+
+",Lider_Religioso

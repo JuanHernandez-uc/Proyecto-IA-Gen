@@ -1,0 +1,1101 @@
+prompt,respuesta
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Alex_Valderrama posee la ciudadanía del país Ecuador
+Anibal_Salazar posee la ciudadanía del país Australia
+Diego_Castillo posee la ciudadanía del país Cuba
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Anibal_Salazar?
+
+",Australia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Aldo_Vera posee la ciudadanía del país Uruguay
+Olenka_Fuschich posee la ciudadanía del país Argentina
+Cristian_Badilla posee la ciudadanía del país Colombia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Aldo_Vera?
+
+",Uruguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Alfonso_Montemayor posee la ciudadanía del país Peru
+Enar_Bolaños posee la ciudadanía del país Mexico
+Félix_Rodríguez posee la ciudadanía del país Costa_Rica
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Alfonso_Montemayor?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Emmanuel posee la ciudadanía del país Uruguay
+Anaysi_Hernández posee la ciudadanía del país Peru
+Gabriela_Guillén posee la ciudadanía del país Panama
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Gabriela_Guillén?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+José_Franco posee la ciudadanía del país Austria
+Gilberto_Machado posee la ciudadanía del país Argentina
+José_Ardón posee la ciudadanía del país Uruguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía José_Ardón?
+
+",Uruguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Policarpo_Bonilla posee la ciudadanía del país Canada
+Raúl_Cárdenas posee la ciudadanía del país Argentina
+Mauricio_Fúnez posee la ciudadanía del país Austria
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Policarpo_Bonilla?
+
+",Canada
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Tránsito_Montepeque posee la ciudadanía del país Colombia
+Danilo_Montero posee la ciudadanía del país Panama
+Mario_Cuba posee la ciudadanía del país Chile
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Mario_Cuba?
+
+",Chile
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+José_Pallais posee la ciudadanía del país Guatemala
+Samuel_Wilson posee la ciudadanía del país Paraguay
+Óscar_Duarte posee la ciudadanía del país Panama
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Samuel_Wilson?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Verónica_Chávez posee la ciudadanía del país Guatemala
+Wilson_Palacios posee la ciudadanía del país Uruguay
+Andi_Baiz posee la ciudadanía del país Canada
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Andi_Baiz?
+
+",Canada
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Lucas_Barrios posee la ciudadanía del país Canada
+Eusebio_Díaz posee la ciudadanía del país Honduras
+Mayín_Correa posee la ciudadanía del país Chile
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Eusebio_Díaz?
+
+",Honduras
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Erlyn_Hurtado posee la ciudadanía del país Cuba
+Herman_García posee la ciudadanía del país Austria
+Valentín_Paniagua posee la ciudadanía del país Guatemala
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Valentín_Paniagua?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Sandra_Silvera posee la ciudadanía del país Cuba
+Diego_Miranda posee la ciudadanía del país Guatemala
+Carlo_Alban posee la ciudadanía del país Austria
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Carlo_Alban?
+
+",Austria
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Miguel_Cáceres posee la ciudadanía del país Australia
+Vilma_Faingezicht posee la ciudadanía del país El_Salvador
+Carlos_Dionicio posee la ciudadanía del país Mexico
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Carlos_Dionicio?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Alberto_Noguès posee la ciudadanía del país Panama
+Michel_Rivera posee la ciudadanía del país Uruguay
+Gerónima_Montealegre posee la ciudadanía del país Guatemala
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Alberto_Noguès?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Leandro_Peñalver posee la ciudadanía del país Austria
+Haydée_Santamaría posee la ciudadanía del país Guatemala
+Vicente_Melgar posee la ciudadanía del país Dominica
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Vicente_Melgar?
+
+",Dominica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Fredy_Nasser posee la ciudadanía del país Panama
+Simón_Urbina posee la ciudadanía del país Honduras
+Edmundo_Mellid posee la ciudadanía del país Guatemala
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Simón_Urbina?
+
+",Honduras
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Facundo_Coral posee la ciudadanía del país Cuba
+Moisés_Simons posee la ciudadanía del país Dominica
+Gabriel_Gómez posee la ciudadanía del país Argentina
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Gabriel_Gómez?
+
+",Argentina
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Lapola posee la ciudadanía del país Canada
+Oscar_Isaula posee la ciudadanía del país Panama
+Cristian_Álvarez posee la ciudadanía del país Uruguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Oscar_Isaula?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Federico_Nordalm posee la ciudadanía del país Peru
+Néstor_Isasi posee la ciudadanía del país Panama
+Rónald_Gómez posee la ciudadanía del país Canada
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Néstor_Isasi?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+César_Aira posee la ciudadanía del país Chile
+Alfredo_Rivera posee la ciudadanía del país Portugal
+Eliseo_Mouriño posee la ciudadanía del país Panama
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía César_Aira?
+
+",Chile
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ricardo_Tavarelli posee la ciudadanía del país Peru
+Rafael_Pólit posee la ciudadanía del país Canada
+Erika_Ender posee la ciudadanía del país Australia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Ricardo_Tavarelli?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Rafael_Águila posee la ciudadanía del país Austria
+Arysteides_Turpana posee la ciudadanía del país Chile
+Maria_Herrero posee la ciudadanía del país Portugal
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Rafael_Águila?
+
+",Austria
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Roque_Dalton posee la ciudadanía del país Nicaragua
+Adolfo_Bullrich posee la ciudadanía del país Panama
+Félix_Savón posee la ciudadanía del país Guatemala
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Roque_Dalton?
+
+",Nicaragua
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ana_Quintero posee la ciudadanía del país Uruguay
+Nery_Castillo posee la ciudadanía del país Dominica
+Alvin_Mendoza posee la ciudadanía del país Honduras
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Alvin_Mendoza?
+
+",Honduras
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+José_Ardón posee la ciudadanía del país Uruguay
+Wilmer_Velásquez posee la ciudadanía del país Costa_Rica
+Álvaro_Mejía posee la ciudadanía del país Argentina
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Álvaro_Mejía?
+
+",Argentina
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Julián_Irías posee la ciudadanía del país Cuba
+David_Roura posee la ciudadanía del país Panama
+Cristian_Álvarez posee la ciudadanía del país Uruguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía David_Roura?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Teófilo_Enamorado posee la ciudadanía del país Cuba
+Manuel_Rodas posee la ciudadanía del país Portugal
+Keiko_Fujimori posee la ciudadanía del país Nicaragua
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Teófilo_Enamorado?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Lupe_Pintor posee la ciudadanía del país Canada
+Renato_Ibarra posee la ciudadanía del país Guatemala
+Fernando_Gordillo posee la ciudadanía del país Colombia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Renato_Ibarra?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Hugo_Sarmiento posee la ciudadanía del país Dominica
+Jámison_Olave posee la ciudadanía del país Ecuador
+Matilde_Carranza posee la ciudadanía del país Paraguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Jámison_Olave?
+
+",Ecuador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Natalie_Orellana posee la ciudadanía del país Costa_Rica
+Cris_Martínez posee la ciudadanía del país Dominica
+Raúl_Rojas posee la ciudadanía del país Uruguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Natalie_Orellana?
+
+",Costa_Rica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Norberto_Fontana posee la ciudadanía del país Panama
+Freddy_Bareiro posee la ciudadanía del país Cuba
+Gabriela_Deleuze posee la ciudadanía del país Canada
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Norberto_Fontana?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Manuel_Belgrano posee la ciudadanía del país Colombia
+Jhonny_Caicedo posee la ciudadanía del país Canada
+Luis_Ibáñez posee la ciudadanía del país Honduras
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Manuel_Belgrano?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Patricia_Tarabini posee la ciudadanía del país Austria
+Roberto_Skyers posee la ciudadanía del país Nicaragua
+Raúl_Rojas posee la ciudadanía del país Uruguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Roberto_Skyers?
+
+",Nicaragua
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Manuel_Gamboa posee la ciudadanía del país Colombia
+Yader_Balladares posee la ciudadanía del país El_Salvador
+Nicolás_Suazo posee la ciudadanía del país Uruguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Nicolás_Suazo?
+
+",Uruguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Sigrid_Alegría posee la ciudadanía del país Uruguay
+Leslie_Anderson posee la ciudadanía del país Argentina
+Silvestre_Revueltas posee la ciudadanía del país El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Leslie_Anderson?
+
+",Argentina
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ramón_Carretero posee la ciudadanía del país Uruguay
+Harold_Reina posee la ciudadanía del país Austria
+Valeria_Rivero posee la ciudadanía del país Costa_Rica
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Valeria_Rivero?
+
+",Costa_Rica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Vladimir_Bigorra posee la ciudadanía del país Uruguay
+Gloria_Guardia posee la ciudadanía del país Uruguay
+Pedro_Fleitas posee la ciudadanía del país Canada
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Pedro_Fleitas?
+
+",Canada
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Angélica_Gorodischer posee la ciudadanía del país Colombia
+Steven_Bryce posee la ciudadanía del país Canada
+Miguel_Giacomuzzi posee la ciudadanía del país Guatemala
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Miguel_Giacomuzzi?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Roberto_Cortés posee la ciudadanía del país Peru
+Yarianna_Martínez posee la ciudadanía del país Colombia
+William_Araujo posee la ciudadanía del país Cuba
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Roberto_Cortés?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Guillermo_Cañas posee la ciudadanía del país Panama
+Juan_Caicedo posee la ciudadanía del país Austria
+Pedro_Zape posee la ciudadanía del país Dominica
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Pedro_Zape?
+
+",Dominica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Alexis_Gamboa posee la ciudadanía del país Panama
+Maximino_Pérez posee la ciudadanía del país Mexico
+Natalia_Ramírez posee la ciudadanía del país El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Alexis_Gamboa?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Sergio_Livingstone posee la ciudadanía del país Cuba
+Andrey_Fonseca posee la ciudadanía del país Colombia
+Emiliano_Romero posee la ciudadanía del país Costa_Rica
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Andrey_Fonseca?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Paulo_Vargas posee la ciudadanía del país Argentina
+Edith_Noeding posee la ciudadanía del país Canada
+Johel_Zelaya posee la ciudadanía del país Australia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Edith_Noeding?
+
+",Canada
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Silvio_Garay posee la ciudadanía del país Uruguay
+Jennifer_Osejo posee la ciudadanía del país Canada
+Manrique_Quesada posee la ciudadanía del país Honduras
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Manrique_Quesada?
+
+",Honduras
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jerónimo_Carrión posee la ciudadanía del país Cuba
+Roberto_Agramonte posee la ciudadanía del país El_Salvador
+José_Salvatierra posee la ciudadanía del país Peru
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía José_Salvatierra?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Guerreño posee la ciudadanía del país Honduras
+Lucas_Barrios posee la ciudadanía del país Canada
+Cirilo_Nelson posee la ciudadanía del país Mexico
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Cirilo_Nelson?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Marko_Zaror posee la ciudadanía del país Canada
+Agustín_Delgado posee la ciudadanía del país Peru
+Nicolás_Canales posee la ciudadanía del país Honduras
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Marko_Zaror?
+
+",Canada
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Victoria_Carrasco posee la ciudadanía del país Colombia
+Jeanine_Sánchez posee la ciudadanía del país Peru
+Manuel_Noriega posee la ciudadanía del país Australia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Jeanine_Sánchez?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Patricia_Howell posee la ciudadanía del país Colombia
+Arturo_Prat posee la ciudadanía del país Costa_Rica
+Andrés_Arteaga posee la ciudadanía del país Costa_Rica
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Andrés_Arteaga?
+
+",Costa_Rica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Merlyn_Membreño posee la ciudadanía del país Uruguay
+Alejandro_Talavera posee la ciudadanía del país Honduras
+Gabriel_París posee la ciudadanía del país Honduras
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Gabriel_París?
+
+",Honduras
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Niver_Arboleda posee la ciudadanía del país Austria
+Víctor_Coello posee la ciudadanía del país Peru
+Lilian_Samaniego posee la ciudadanía del país Mexico
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Víctor_Coello?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Pedro_Atala posee la ciudadanía del país Colombia
+Carmelo_Lauría posee la ciudadanía del país Colombia
+Karina_Pinilla posee la ciudadanía del país Peru
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Karina_Pinilla?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Moises_Béhar posee la ciudadanía del país Australia
+Candelo_Cabezas posee la ciudadanía del país El_Salvador
+Francisco_Ferreira posee la ciudadanía del país El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Francisco_Ferreira?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Héctor_Croxatto posee la ciudadanía del país Nicaragua
+Édgar_Valcárcel posee la ciudadanía del país Cuba
+Carlos_Vives posee la ciudadanía del país Austria
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Édgar_Valcárcel?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Álvaro_Valbuena posee la ciudadanía del país Canada
+Mercedes_Paz posee la ciudadanía del país Austria
+Camphers_Pérez posee la ciudadanía del país Panama
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Mercedes_Paz?
+
+",Austria
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Rafael_Aizpuru posee la ciudadanía del país Honduras
+Shawn_Martin posee la ciudadanía del país Mexico
+Nicolás_Suazo posee la ciudadanía del país Uruguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Nicolás_Suazo?
+
+",Uruguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+David_Meza posee la ciudadanía del país Guatemala
+Alex_Cáceres posee la ciudadanía del país Portugal
+Frida_Kahlo posee la ciudadanía del país Paraguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Alex_Cáceres?
+
+",Portugal
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jose_Pitti posee la ciudadanía del país Cuba
+Guillermo_León posee la ciudadanía del país El_Salvador
+Tonka_Tomicic posee la ciudadanía del país Mexico
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Guillermo_León?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Elmer_Montoya posee la ciudadanía del país Colombia
+Cecilia_Gayle posee la ciudadanía del país Chile
+Policarpo_Bonilla posee la ciudadanía del país Canada
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Policarpo_Bonilla?
+
+",Canada
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Mario_Sequeira posee la ciudadanía del país Cuba
+Sira_Escudero posee la ciudadanía del país Portugal
+Ramón_Delgado posee la ciudadanía del país El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Ramón_Delgado?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Clará posee la ciudadanía del país Dominica
+Miguel_Varoni posee la ciudadanía del país Argentina
+Guy_Abrahams posee la ciudadanía del país Austria
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Guy_Abrahams?
+
+",Austria
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Hugo_Cifuentes posee la ciudadanía del país El_Salvador
+Elvia_Alvarado posee la ciudadanía del país Paraguay
+Indiana_Sánchez posee la ciudadanía del país Guatemala
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Indiana_Sánchez?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Muñoz posee la ciudadanía del país Canada
+Humberto_Brenes posee la ciudadanía del país Portugal
+Abel_Alves posee la ciudadanía del país Austria
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Humberto_Brenes?
+
+",Portugal
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ernesto_Zedillo posee la ciudadanía del país Guatemala
+Lupita_Barriga posee la ciudadanía del país El_Salvador
+Francisco_Báez posee la ciudadanía del país Canada
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Lupita_Barriga?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Juan_Cotto posee la ciudadanía del país Canada
+Enrique_Grau posee la ciudadanía del país Panama
+Johanna_Solano posee la ciudadanía del país Portugal
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Enrique_Grau?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Antonio_Skármeta posee la ciudadanía del país Paraguay
+Ivana_Batchelor posee la ciudadanía del país El_Salvador
+Félix_Borja posee la ciudadanía del país Guatemala
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Félix_Borja?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Wildo_Alonso posee la ciudadanía del país Austria
+Marlon_Peña posee la ciudadanía del país Ecuador
+Edder_Nelson posee la ciudadanía del país Panama
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Edder_Nelson?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Gustavo_Benítez posee la ciudadanía del país Costa_Rica
+Ileana_Rodríguez posee la ciudadanía del país Australia
+Martín_Chambi posee la ciudadanía del país Nicaragua
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Ileana_Rodríguez?
+
+",Australia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Hilaria_Supa posee la ciudadanía del país Mexico
+Victoria_Ocampo posee la ciudadanía del país Dominica
+Jonathan_Solís posee la ciudadanía del país Australia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Jonathan_Solís?
+
+",Australia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Giancarlo_Guerrero posee la ciudadanía del país Portugal
+Hugo_Lindo posee la ciudadanía del país Colombia
+Myriam_Arévalos posee la ciudadanía del país Costa_Rica
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Myriam_Arévalos?
+
+",Costa_Rica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Rosalina_Tuyuc posee la ciudadanía del país Costa_Rica
+Alejandro_Oms posee la ciudadanía del país Costa_Rica
+Johnny_Vegas posee la ciudadanía del país Ecuador
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Johnny_Vegas?
+
+",Ecuador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jaime_Osorio posee la ciudadanía del país Portugal
+Manuel_Mosquera posee la ciudadanía del país Portugal
+César_Obando posee la ciudadanía del país Paraguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía César_Obando?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Romell_Quioto posee la ciudadanía del país Canada
+Kristian_Kreković posee la ciudadanía del país Uruguay
+Keysher_Fuller posee la ciudadanía del país Portugal
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Romell_Quioto?
+
+",Canada
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Eliana_Quinteros posee la ciudadanía del país Cuba
+Antonio_Preciado posee la ciudadanía del país Cuba
+Diego_Noboa posee la ciudadanía del país Chile
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Eliana_Quinteros?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Adán_Ríos posee la ciudadanía del país Guatemala
+José_Garro posee la ciudadanía del país Paraguay
+Mariano_Acha posee la ciudadanía del país Paraguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Adán_Ríos?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Santiago_Rojas posee la ciudadanía del país El_Salvador
+Mabel_Velarde posee la ciudadanía del país Guatemala
+Humberto_Cholango posee la ciudadanía del país Peru
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Mabel_Velarde?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+César_Vallejo posee la ciudadanía del país Guatemala
+Daniel_Cambronero posee la ciudadanía del país Australia
+Gilberto_Hidalgo posee la ciudadanía del país Colombia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Daniel_Cambronero?
+
+",Australia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Torres_Zúñiga posee la ciudadanía del país Uruguay
+Oliver_Skinner posee la ciudadanía del país Austria
+Leonel_Noriega posee la ciudadanía del país Australia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Torres_Zúñiga?
+
+",Uruguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carmencita_Lara posee la ciudadanía del país Panama
+Darwin_Oliva posee la ciudadanía del país Uruguay
+Amalia_Matamoros posee la ciudadanía del país Paraguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Amalia_Matamoros?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Illescas posee la ciudadanía del país Uruguay
+Marlon_Sequen posee la ciudadanía del país Paraguay
+Bethania_Aburto posee la ciudadanía del país Austria
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Carlos_Illescas?
+
+",Uruguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Gabriela_Alemán posee la ciudadanía del país Peru
+Hilario_Ulloa posee la ciudadanía del país Chile
+Angel_Bracho posee la ciudadanía del país Australia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Gabriela_Alemán?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Góngora posee la ciudadanía del país Canada
+Rolf_Rottmann posee la ciudadanía del país Dominica
+Michele_Najlis posee la ciudadanía del país Dominica
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Rolf_Rottmann?
+
+",Dominica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Edgar_Negret posee la ciudadanía del país Ecuador
+César_Elizondo posee la ciudadanía del país Cuba
+Manuel_Baquedano posee la ciudadanía del país Ecuador
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Manuel_Baquedano?
+
+",Ecuador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Samir_Arzú posee la ciudadanía del país Portugal
+Claudio_Rojas posee la ciudadanía del país Dominica
+Juan_Urango posee la ciudadanía del país Uruguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Samir_Arzú?
+
+",Portugal
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Mayron_George posee la ciudadanía del país Panama
+Evelyn_Núñez posee la ciudadanía del país Costa_Rica
+Jean_Mclean posee la ciudadanía del país Chile
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Mayron_George?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Erick_Anguiano posee la ciudadanía del país Uruguay
+Marcos_Sánchez posee la ciudadanía del país Austria
+Juan_Quinteros posee la ciudadanía del país Austria
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Juan_Quinteros?
+
+",Austria
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Darío_Figueredo posee la ciudadanía del país Mexico
+Wardy_Alfaro posee la ciudadanía del país El_Salvador
+Rony_Morales posee la ciudadanía del país Portugal
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Darío_Figueredo?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Rafael_Zaldívar posee la ciudadanía del país Colombia
+Bryan_Róchez posee la ciudadanía del país Dominica
+Omaira_Sánchez posee la ciudadanía del país Guatemala
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Rafael_Zaldívar?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jervis_Drummond posee la ciudadanía del país Portugal
+Enrique_Avalos posee la ciudadanía del país Peru
+Joel_Lamela posee la ciudadanía del país Peru
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Jervis_Drummond?
+
+",Portugal
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Blas_Riveros posee la ciudadanía del país Uruguay
+Román_Arrieta posee la ciudadanía del país El_Salvador
+Edu_Linares posee la ciudadanía del país Chile
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Edu_Linares?
+
+",Chile
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Milú_Vargas posee la ciudadanía del país Portugal
+Adalberto_Álvarez posee la ciudadanía del país Guatemala
+Jorge_Battaglia posee la ciudadanía del país Ecuador
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Jorge_Battaglia?
+
+",Ecuador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Wilber_Sánchez posee la ciudadanía del país Canada
+Jonathan_Loáisiga posee la ciudadanía del país Costa_Rica
+Miguel_Ortega posee la ciudadanía del país Uruguay
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Jonathan_Loáisiga?
+
+",Costa_Rica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Billy_Bou posee la ciudadanía del país Paraguay
+Kaypa'_Tz'Iken posee la ciudadanía del país Panama
+Mongo_Santamaría posee la ciudadanía del país El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Mongo_Santamaría?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Luz_Vázquez posee la ciudadanía del país Colombia
+Adriana_Venegas posee la ciudadanía del país Argentina
+Carmen_Berenguer posee la ciudadanía del país Cuba
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Luz_Vázquez?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Benny_Ricardo posee la ciudadanía del país Nicaragua
+Iván_Ríos posee la ciudadanía del país Panama
+Octavio_Paz posee la ciudadanía del país El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Iván_Ríos?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Mimi_Morales posee la ciudadanía del país Cuba
+Cristóbal_Jorquera posee la ciudadanía del país Australia
+Soledad_Núñez posee la ciudadanía del país Canada
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Mimi_Morales?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Dúvier_Riascos posee la ciudadanía del país Cuba
+Augusto_Leguía posee la ciudadanía del país Portugal
+Walter_Cárdenas posee la ciudadanía del país Guatemala
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Walter_Cárdenas?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Enrique_Cadícamo posee la ciudadanía del país Uruguay
+Carlos_Báez posee la ciudadanía del país Colombia
+Mónica_Ocampo posee la ciudadanía del país Colombia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Mónica_Ocampo?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Luis_Solari posee la ciudadanía del país Uruguay
+Rodrigo_Roncero posee la ciudadanía del país El_Salvador
+Yan_Bartelemí posee la ciudadanía del país Australia
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Rodrigo_Roncero?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Cristina_Siekavizza posee la ciudadanía del país Uruguay
+Edelmiro_Arévalo posee la ciudadanía del país Honduras
+Gaby_Castillo posee la ciudadanía del país Cuba
+
+--- Pregunta ---
+Pregunta: ¿De qué país posee la ciudadanía Cristina_Siekavizza?
+
+",Uruguay

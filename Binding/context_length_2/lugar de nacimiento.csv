@@ -1,0 +1,1001 @@
+prompt,respuesta
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Cecilia_Gayle nació en Paraguay
+Gonzalo_Cardozo nació en Colombia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Cecilia_Gayle?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Gerónimo_Ovelar nació en Costa_Rica
+Boris_Pineda nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Gerónimo_Ovelar?
+
+",Costa_Rica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Javier_Stanziola nació en Costa_Rica
+Fanny_Rodríguez nació en Panama
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Fanny_Rodríguez?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Sohvi_Rodriguez nació en Honduras
+Victor_Cartagena nació en Panama
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Sohvi_Rodriguez?
+
+",Honduras
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Gonzalo_Cardozo nació en Colombia
+Gabriela_Alemán nació en Liberia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Gabriela_Alemán?
+
+",Liberia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Lehder nació en Honduras
+Narciso_Monterrey nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Carlos_Lehder?
+
+",Honduras
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Luis_Mendoza nació en Mexico
+María_Barrantes nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Luis_Mendoza?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Laura_Restrepo nació en Guatemala
+Andrey_Campos nació en Colombia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Andrey_Campos?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Marvin_Brown nació en Argentina
+Michael_Sambataro nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Michael_Sambataro?
+
+",Armenia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ingrid_González nació en Liberia
+Boris_Pineda nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Ingrid_González?
+
+",Liberia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Hernández nació en Panama
+Samuel_Aguilar nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Carlos_Hernández?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Illich_Guardiola nació en Costa_Rica
+Alberto_Pizango nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Illich_Guardiola?
+
+",Costa_Rica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Norma_Cruz nació en Cuba
+Marvin_Brown nació en Argentina
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Norma_Cruz?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Guy_Abrahams nació en Colombia
+Boris_Pineda nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Boris_Pineda?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Cristian_Gamboa nació en Costa_Rica
+Juan_Cañete nació en El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Cristian_Gamboa?
+
+",Costa_Rica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Eduardo_Smith nació en Paraguay
+Juan_Domecq nació en Argentina
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Eduardo_Smith?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Yirlania_Arroyo nació en Panama
+Rafael_Cañizares nació en El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Rafael_Cañizares?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Lupita_Barriga nació en Cuba
+Felipe_Bértis nació en Argentina
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Lupita_Barriga?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ricardo_González nació en Nicaragua
+Natasha_Jiménez nació en Liberia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Ricardo_González?
+
+",Nicaragua
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Armando_Arteaga nació en Panama
+Ángel_Segura nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Ángel_Segura?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Juan_Cañete nació en El_Salvador
+Jimmy_Izquierdo nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Juan_Cañete?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Lorna nació en Cuba
+Julio_Medina nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Lorna?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Bismarck_Véliz nació en Mexico
+Victoria_Meza nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Bismarck_Véliz?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Santiago_Mellado nació en Cuba
+Wilfrido_Báez nació en Costa_Rica
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Wilfrido_Báez?
+
+",Costa_Rica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Kevin_Arriola nació en Paraguay
+Cecilia_Gayle nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Kevin_Arriola?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Quishpe nació en Paraguay
+Eduardo_Urroz nació en Chile
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Carlos_Quishpe?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Diego_Acosta nació en Liberia
+César_Serna nació en Mexico
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació César_Serna?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Lehder nació en Honduras
+Edgar_Nuñez nació en Colombia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Carlos_Lehder?
+
+",Honduras
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Isabel_Urcuyo nació en Panama
+Michael_Sambataro nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Isabel_Urcuyo?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Yirlania_Arroyo nació en Panama
+Manuel_Torres nació en Argentina
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Manuel_Torres?
+
+",Argentina
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Aldo_Florentín nació en Argentina
+Victoria_Meza nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Aldo_Florentín?
+
+",Argentina
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Francisco_Sosa nació en Guatemala
+Edgar_Silva nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Francisco_Sosa?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Geovanny_Castro nació en Liberia
+Pedro_Atala nació en Panama
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Pedro_Atala?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Aquilino_Boyd nació en Armenia
+Enrique_Ortez nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Enrique_Ortez?
+
+",Armenia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Pedro_Fleitas nació en Honduras
+Karla_Villalobos nació en El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Karla_Villalobos?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Pedro_Atala nació en Panama
+Samuel_Aguilar nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Samuel_Aguilar?
+
+",Armenia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Lupita_Barriga nació en Cuba
+Tania_Morales nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Tania_Morales?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Alexander_Madrigal nació en Nicaragua
+Ernesto_Cardenal nació en Mexico
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Ernesto_Cardenal?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Humberto_Brenes nació en Guatemala
+Emilio_Palomino nació en Peru
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Humberto_Brenes?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Gloria_Hernández nació en Ecuador
+Andrey_Campos nació en Colombia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Andrey_Campos?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Robinson_Guevara nació en Peru
+Mario_Gonzalez nació en Honduras
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Mario_Gonzalez?
+
+",Honduras
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Johnny_Ruiz nació en Chile
+Tania_Morales nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Tania_Morales?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Narciso_Monterrey nació en Guatemala
+Alfredo_Ruano nació en Panama
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Alfredo_Ruano?
+
+",Panama
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Bringuier nació en Chile
+Juan_Formell nació en Honduras
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Carlos_Bringuier?
+
+",Chile
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Gaspar_Fernández nació en Chile
+Reggie_Arosemena nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Gaspar_Fernández?
+
+",Chile
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Robinson_Guevara nació en Peru
+Wendy_Umanzor nació en Nicaragua
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Robinson_Guevara?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Roberto_Arias nació en Honduras
+Teodora_Vázquez nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Roberto_Arias?
+
+",Honduras
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Armando_González nació en Costa_Rica
+Alex_Ávila nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Alex_Ávila?
+
+",Armenia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Nicolle_Garay nació en Peru
+Edgar_Silva nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Nicolle_Garay?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Santiago_Mellado nació en Cuba
+Carlos_Ibáñez nació en El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Santiago_Mellado?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jacinto_Vásquez nació en Costa_Rica
+Dagoberto_Nolasco nació en Peru
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Jacinto_Vásquez?
+
+",Costa_Rica
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Celene_Cevallos nació en Armenia
+Francisco_Bramón nació en Panama
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Celene_Cevallos?
+
+",Armenia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Lorna nació en Cuba
+Chavelita_Pinzón nació en Nicaragua
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Lorna?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Juan_Cañete nació en El_Salvador
+Alfonso_Orantes nació en El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Alfonso_Orantes?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Ibáñez nació en El_Salvador
+Rafael_Cañizares nació en El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Carlos_Ibáñez?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Edgar_Silva nació en Paraguay
+Saguier_Carreras nació en Costa_Rica
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Edgar_Silva?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Pedro_Fleitas nació en Honduras
+Giancarlo_Guerrero nació en Peru
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Giancarlo_Guerrero?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Harris_Whitbeck nació en Cuba
+Laura_Restrepo nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Laura_Restrepo?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Eduardo_Urroz nació en Chile
+Luis_Mendoza nació en Mexico
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Eduardo_Urroz?
+
+",Chile
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Diego_Acosta nació en Liberia
+Kevin_Arriola nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Kevin_Arriola?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Juana_Bordas nació en Chile
+Leo_Rojas nació en Chile
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Leo_Rojas?
+
+",Chile
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Energio_Díaz nació en Mexico
+Gualberto_Fernández nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Energio_Díaz?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+René_Poitevin nació en Paraguay
+David_Martínez nació en Peru
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació René_Poitevin?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Eusebio_Díaz nació en Colombia
+Diego_Miranda nació en Ecuador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Eusebio_Díaz?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Rafael_Ayala nació en Colombia
+Elmer_Montoya nació en Mexico
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Elmer_Montoya?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Juan_Formell nació en Honduras
+Ricardo_Vega nació en Argentina
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Ricardo_Vega?
+
+",Argentina
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Cruz_Hernández nació en Cuba
+Gustavo_Marroquín nació en Ecuador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Cruz_Hernández?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Robinson_Guevara nació en Peru
+Meneo nació en Mexico
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Robinson_Guevara?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Braulio_Brizuela nació en Armenia
+Jorge_Tejeira nació en Colombia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Jorge_Tejeira?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Allen_Guevara nació en Guatemala
+Alda_Facio nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Alda_Facio?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Antonio_Cabrera nació en El_Salvador
+Fanny_Rodríguez nació en Panama
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Antonio_Cabrera?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Salvador_Flores nació en Colombia
+Eusebio_Díaz nació en Colombia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Eusebio_Díaz?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Jessica_Scheel nació en Cuba
+Juana_Bordas nació en Chile
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Jessica_Scheel?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Daniel_Jiménez nació en Argentina
+Johnny_Ruiz nació en Chile
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Daniel_Jiménez?
+
+",Argentina
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Roberto_Gayón nació en Ecuador
+Eric_Herrera nació en Mexico
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Eric_Herrera?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Camarada_Artemio nació en Nicaragua
+Alfonso_Orantes nació en El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Camarada_Artemio?
+
+",Nicaragua
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ricardo_González nació en Nicaragua
+Saúl_Phillips nació en Ecuador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Saúl_Phillips?
+
+",Ecuador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Javier_Stanziola nació en Costa_Rica
+Casiano_Céspedes nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Casiano_Céspedes?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Casiano_Céspedes nació en Guatemala
+Bismarck_Véliz nació en Mexico
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Casiano_Céspedes?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Andrey_Campos nació en Colombia
+Boris_Pineda nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Boris_Pineda?
+
+",Paraguay
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Romildo_Etcheverry nació en Colombia
+Vicente_Gómez nació en Nicaragua
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Romildo_Etcheverry?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Francisco_Sosa nació en Guatemala
+Eduardo_Urroz nació en Chile
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Eduardo_Urroz?
+
+",Chile
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Luis_Mendoza nació en Mexico
+Diego_Miranda nació en Ecuador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Luis_Mendoza?
+
+",Mexico
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Rafael_Ayala nació en Colombia
+Valentín_Estrada nació en Colombia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Rafael_Ayala?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Violeta_Granera nació en El_Salvador
+Diego_López nació en Mexico
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Violeta_Granera?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Violeta_Granera nació en El_Salvador
+Alda_Facio nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Alda_Facio?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Ángel_Obando nació en Armenia
+José_Miracca nació en Ecuador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació José_Miracca?
+
+",Ecuador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Karina_Pinilla nació en Peru
+María_Barrantes nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Karina_Pinilla?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Dagoberto_Nolasco nació en Peru
+Óscar_Varona nació en El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Dagoberto_Nolasco?
+
+",Peru
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Romildo_Etcheverry nació en Colombia
+Rafael_Cañizares nació en El_Salvador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Rafael_Cañizares?
+
+",El_Salvador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+David_Martínez nació en Peru
+Alberto_Villoldo nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Alberto_Villoldo?
+
+",Armenia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Catalina_Denis nació en Ecuador
+David_Martínez nació en Peru
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Catalina_Denis?
+
+",Ecuador
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Romildo_Etcheverry nació en Colombia
+Alberto_Pizango nació en Paraguay
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Romildo_Etcheverry?
+
+",Colombia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Melanio_Báez nació en Panama
+Tania_Morales nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Tania_Morales?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Giancarlo_Guerrero nació en Peru
+Norma_Cruz nació en Cuba
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Norma_Cruz?
+
+",Cuba
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Carlos_Camacho nació en Ecuador
+Ingrid_González nació en Liberia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Ingrid_González?
+
+",Liberia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Juana_Bordas nació en Chile
+Allen_Guevara nació en Guatemala
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Allen_Guevara?
+
+",Guatemala
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Joaquín_Ventura nació en Liberia
+Walter_Meneses nació en Ecuador
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Joaquín_Ventura?
+
+",Liberia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+José_Barreto nació en Liberia
+Michael_Sambataro nació en Armenia
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Michael_Sambataro?
+
+",Armenia
+"Responde la pregunta basándote en el siguiente contexto. Mantén la respuesta breve.
+
+--- Contexto ---
+Alda_Facio nació en Guatemala
+Wilfrido_Báez nació en Costa_Rica
+
+--- Pregunta ---
+Pregunta: ¿En qué país nació Alda_Facio?
+
+",Guatemala
